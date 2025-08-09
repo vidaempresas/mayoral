@@ -1,115 +1,3 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="Bein Sport 2 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_2_color.png" group-title="sfr france",Bein Sport 2 HD
-#EXTVLCOPT:http-referrer=https://www.bfmtv.com/en-direct/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"aa8be47aa21329d2e0533b28450a08e5":"40326f5fc706d0982a7510ee30803dbe"}
-http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINSPORT2/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
-
-#EXTINF:-1 tvg-id="Bein Sport 2 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_2_color.png" group-title="sfr france",Bein Sport 2 HD
-#EXTVLCOPT:http-referrer=https://www.bfmtv.com/en-direct/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"aa8be47aa21329d2e0533b28450a08e5":"40326f5fc706d0982a7510ee30803dbe"}
-http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINSPORT2/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
-
-#EXTINF:-1 tvg-id="Bein Sport 1 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_1_color.png" group-title="sfr france",Bein Sport 1 HD
-#EXTVLCOPT:http-referrer=https://www.bfmtv.com/en-direct/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"aa8be47aa21b29d2e0533b28450a08e5":"f97a650149ca42faf3d37149736ed148"}
-http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINSPORT1/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
-
-
-#EXTINF:-1 tvg-id="Bein Sport 3 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_3_color.png" group-title="sfr france",Bein Sport 3 HD
-#EXTVLCOPT:http-referrer=https://www.bfmtv.com/en-direct/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"aa8be47ad38b29b8e0533b28450a5a69":"39c20726e6046a8daa0cac9769d4f9bb"}
-http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI1/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"aa8be47aa21b29d2e0533b28450a08e5":"f97a650149ca42faf3d37149736ed148"}
-http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINSPORT1/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
-
-#EXTINF:-1 tvg-id="Bein Sport 2 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_2_color.png" group-title="sfr france",Bein Sport 2 HD
-#EXTVLCOPT:http-referrer=https://www.bfmtv.com/en-direct/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"aa8be47aa21329d2e0533b28450a08e5":"40326f5fc706d0982a7510ee30803dbe"}
-http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINSPORT2/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
-
-#EXTINF:-1 tvg-id="Bein Sport 3 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_3_color.png" group-title="sfr france",Bein Sport 3 HD
-#EXTVLCOPT:http-referrer=https://www.bfmtv.com/en-direct/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"aa8be47ad38b29b8e0533b28450a5a69":"39c20726e6046a8daa0cac9769d4f9bb"}
-http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI1/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
-
-#EXTINF:-1 tvg-id="Bein Sport 4 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_MAX_4_color.png" group-title="sfr france",Bein Sport 4 HD
-#EXTVLCOPT:http-referrer=https://www.bfmtv.com/en-direct/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"aa8be47ad38c29b8e0533b28450a5a69":"3347388623ca6b30dde4168077922781"}
-http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI2/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
-
-#EXTINF:-1 tvg-id="Bein Sport 5 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_MAX_5_color.png" group-title="sfr france",Bein Sport 5 HD
-#EXTVLCOPT:http-referrer=https://www.bfmtv.com/en-direct/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"aa8be47ad38d29b8e0533b28450a5a69":"28184f668fef0b3732c9fed26861f112"}
-http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI3/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
-
-#EXTINF:-1 tvg-id="Bein Sport 6 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_MAX_6_color.png" group-title="sfr france",Bein Sport 6 HD
-#EXTVLCOPT:http-referrer=https://www.bfmtv.com/en-direct/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"aa8be47ad38e29b8e0533b28450a5a69":"1792b02fba7e1bbe0da8cdb44103dc6e"}
-http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI4/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Football",  Dazn 1
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2531/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football", Dazn 1
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19158/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football", Dazn 2
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2532/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football", Dazn 2
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19043/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football", Dazn 3 FCW
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/7062/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football", Dazn 4 FCW
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2534/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football", Dazn 5 FCW
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",  Digi Sport 1
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2523/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 1
-http://125x.org:8080/bn1hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 2
-http://125x.org:8080/bn2hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 3
-http://125x.org:8080/bn3hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 4
-http://125x.org:8080/bn4hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 6
-http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
-
-
-
 #EXTM3U url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz"
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed936cd5cb59eeee83addafb446662a4:dd4b7aeb2bc000468883296e7ae4a09b
@@ -1242,4 +1130,114 @@ adultos
 #EXTINF:-1 group-title="Adultos" adult=1 ch-number="1000" tvg-id="Playboy.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/112/CH_LOGO/160/160/0/0/8669389807114.png", Playboy TV (18+)
 http://static-content-sns-live.delivery-streamsys.com/live/eds/Playboy/live_dash_cld/Playboy.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Bein Sport 2 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_2_color.png" group-title="sfr france",Bein Sport 2 HD
+#EXTVLCOPT:http-referrer=https://www.bfmtv.com/en-direct/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47aa21329d2e0533b28450a08e5":"40326f5fc706d0982a7510ee30803dbe"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINSPORT2/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="Bein Sport 2 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_2_color.png" group-title="sfr france",Bein Sport 2 HD
+#EXTVLCOPT:http-referrer=https://www.bfmtv.com/en-direct/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47aa21329d2e0533b28450a08e5":"40326f5fc706d0982a7510ee30803dbe"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINSPORT2/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="Bein Sport 1 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_1_color.png" group-title="sfr france",Bein Sport 1 HD
+#EXTVLCOPT:http-referrer=https://www.bfmtv.com/en-direct/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47aa21b29d2e0533b28450a08e5":"f97a650149ca42faf3d37149736ed148"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINSPORT1/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+
+#EXTINF:-1 tvg-id="Bein Sport 3 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_3_color.png" group-title="sfr france",Bein Sport 3 HD
+#EXTVLCOPT:http-referrer=https://www.bfmtv.com/en-direct/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47ad38b29b8e0533b28450a5a69":"39c20726e6046a8daa0cac9769d4f9bb"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI1/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47aa21b29d2e0533b28450a08e5":"f97a650149ca42faf3d37149736ed148"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINSPORT1/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="Bein Sport 2 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_2_color.png" group-title="sfr france",Bein Sport 2 HD
+#EXTVLCOPT:http-referrer=https://www.bfmtv.com/en-direct/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47aa21329d2e0533b28450a08e5":"40326f5fc706d0982a7510ee30803dbe"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINSPORT2/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="Bein Sport 3 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_3_color.png" group-title="sfr france",Bein Sport 3 HD
+#EXTVLCOPT:http-referrer=https://www.bfmtv.com/en-direct/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47ad38b29b8e0533b28450a5a69":"39c20726e6046a8daa0cac9769d4f9bb"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI1/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="Bein Sport 4 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_MAX_4_color.png" group-title="sfr france",Bein Sport 4 HD
+#EXTVLCOPT:http-referrer=https://www.bfmtv.com/en-direct/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47ad38c29b8e0533b28450a5a69":"3347388623ca6b30dde4168077922781"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI2/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="Bein Sport 5 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_MAX_5_color.png" group-title="sfr france",Bein Sport 5 HD
+#EXTVLCOPT:http-referrer=https://www.bfmtv.com/en-direct/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47ad38d29b8e0533b28450a5a69":"28184f668fef0b3732c9fed26861f112"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI3/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 tvg-id="Bein Sport 6 HD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_MAX_6_color.png" group-title="sfr france",Bein Sport 6 HD
+#EXTVLCOPT:http-referrer=https://www.bfmtv.com/en-direct/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa8be47ad38e29b8e0533b28450a5a69":"1792b02fba7e1bbe0da8cdb44103dc6e"}
+http://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI4/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Football",  Dazn 1
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2531/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football", Dazn 1
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19158/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football", Dazn 2
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2532/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football", Dazn 2
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19043/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football", Dazn 3 FCW
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/7062/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football", Dazn 4 FCW
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2534/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football", Dazn 5 FCW
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",  Digi Sport 1
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2523/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 1
+http://125x.org:8080/bn1hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 2
+http://125x.org:8080/bn2hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 3
+http://125x.org:8080/bn3hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 4
+http://125x.org:8080/bn4hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 6
+http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
 
