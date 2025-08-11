@@ -829,3 +829,52 @@ https://embmaxtv.online/premiere6/index.m3u8|Referer=https://embedcanaistv.com/&
 
 #EXTINF:-1 tvg-logo="https://embedtv.digital/assets/images/premiere.png" group-title="⚽DEPORTES BRASIL",PREMIER 7
 https://embmaxtv.online/premiere7/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://embedtv.digital/assets/images/premiere.png" group-title="⚽DEPORTES BRASIL",PREMIER 1
+https://embmaxtv.online/premiereclubes/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://embedtv.digital/assets/images/premiere.png" group-title="⚽DEPORTES BRASIL",PREMIER 2
+https://embmaxtv.online/premiere2/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://embedtv.digital/assets/images/premiere.png" group-title="⚽DEPORTES BRASIL",PREMIER 3
+https://embmaxtv.online/premiere3/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://embedtv.digital/assets/images/premiere.png" group-title="⚽DEPORTES BRASIL",PREMIER 4
+https://embmaxtv.online/premiere4/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://embedtv.digital/assets/images/premiere.png" group-title="⚽DEPORTES BRASIL",PREMIER 5
+https://embmaxtv.online/premiere5/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://embedtv.digital/assets/images/premiere.png" group-title="⚽DEPORTES BRASIL",PREMIER 6
+https://embmaxtv.online/premiere6/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://embedtv.digital/assets/images/premiere.png" group-title="⚽DEPORTES BRASIL",PREMIER 7
+https://embmaxtv.online/premiere7/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg" group-title="⚽DEPORTES BRASIL",SPORT TV 1
+https://embmaxtv.online/sportv/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/07/SporTV2.png" group-title="⚽DEPORTES BRASIL",SPORT TV 2
+https://embmaxtv.online/sportv2/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/07/SporTV3.png" group-title="⚽DEPORTES BRASIL",SPORT TV 3
+https://embmaxtv.online/sportv3/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/07/nossofutebol.png" group-title="⚽DEPORTES BRASIL",NOSSO FUTEBOL
+https://embmaxtv.online/nossofutebol/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zzx3bz1F/Direc-TVSports2018.webp" group-title="⚽DEPORTES DIRECTV ARG",DIRECTV SPORTS
+http://magmaplayer.com/stream/m3u8/AwD4KmZkZy8kAmxhAwNhZwZ5YwDlKmR3AGZkBD/hls/312.m3u8|X-App=ps&X-Version=10/1.0.9&X-Hash=PXe1IAA4yk1v_jczmlFbLgenNm8Li1vyhFwmGVUCBOlg6NCdQsnE_OhoUzp1dH3yzKYpd2UtuTyHO1ELj88PIV6Yn3j7G07CnXgxyhIlUpsXnfR_Jx4vxWryBaR-HrpZk2MX4tB32uFPwHgyZZCfVjhEh_Pvk_ZrJAviIB6k7RkqK-xO_52YR_szLY8k87RcsBipSbblxAgApKrIAH6cgBqBDr4odjsqt_OuvqWRUt2t-lY1ROc9EvH3CdAcjjvgY9s2ZVSs_y8G0vuLcxHGfo_uqmStuX5l3PTZgLKNe3sC4a2RNJSkZdkxeCMd2rpbV4ypii8s4TRh-qxeH4K6HhZE_6LNZDqgS4NhHvLsPdfZm3qJYzwJjoDeAbNraVPK-VdUyo8Mjl-aoIQ-rObMBx6mRkePV3sg1idLwMLZXC9RSxtAnXmsdwSHy-WAbQgHUYbv8Pz34DK8fc17OMMHxFME8LrFHkKmWHomt4Qbzu_tymd1F2LGKPh__zgyPk1jeb900Wou-ildARGgkYK9hXAASYUBPryl6ASlktej-nTeBQiH6cE4ZyYT9FEZUcTdmLZYoET2yyTfRtojc5LjFw&X-Did=cddfe5e8c019cb3c&User-Agent=Magma Player/10&Accept-Encoding=gzip&Connection=Keep-Alive
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/357S9W8n/DSPORTS2-01.png" group-title="⚽DEPORTES DIRECTV ARG",DIRECTV SPORTS 2
+http://magmaplayer.com/stream/m3u8/AQD3KmZkAI8kAmxhAwNhZwZ5YwDlKmR3AGZkBD/hls/315.m3u8|X-App=ps&X-Version=10/1.0.9&X-Hash=PXe1IAA4yk1v_jczmlFbLgenNm8Li1vyhFwmGVUCBOlg6NCdQsnE_OhoUzp1dH3yzKYpd2UtuTyHO1ELj88PIV6Yn3j7G07CnXgxyhIlUpsXnfR_Jx4vxWryBaR-HrpZk2MX4tB32uFPwHgyZZCfVjhEh_Pvk_ZrJAviIB6k7RkqK-xO_52YR_szLY8k87RcsBipSbblxAgApKrIAH6cgBqBDr4odjsqt_OuvqWRUt2t-lY1ROc9EvH3CdAcjjvgY9s2ZVSs_y8G0vuLcxHGfo_uqmStuX5l3PTZgLKNe3sC4a2RNJSkZdkxeCMd2rpbV4ypii8s4TRh-qxeH4K6HhZE_6LNZDqgS4NhHvLsPdfZm3qJYzwJjoDeAbNraVPK-VdUyo8Mjl-aoIQ-rObMBx6mRkePV3sg1idLwMLZXC9RSxtAnXmsdwSHy-WAbQgHUYbv8Pz34DK8fc17OMMHxFME8LrFHkKmWHomt4Qbzu_tymd1F2LGKPh__zgyPk1jeb900Wou-ildARGgkYK9hXAASYUBPryl6ASlktej-nTeBQiH6cE4ZyYT9FEZUcTdmLZYoET2yyTfRtojc5LjFw&X-Did=cddfe5e8c019cb3c&User-Agent=Magma Player/10&Accept-Encoding=gzip&Connection=Keep-Alive
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RGy1cnLP/directv-sports2.png" group-title="⚽DEPORTES DIRECTV ARG",DIRECTV PLUS
+http://38.211.242.128:8001/play/a05h/index.m3u8
