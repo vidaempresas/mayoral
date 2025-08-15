@@ -1,0 +1,378 @@
+#EXTM3U
+#EXTINF:0 group-title="Argentina TV" group-logo="https://i.ibb.co/3YkJg2Lw/Conectplusott.png",Argentina TV [Logo del Grupo]
+#EXTGRP:Argentina TV
+
+#EXTINF:-1 tvg-id="26TV.ar" tvg-name="26TV" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="1" type="channel",26TV
+http://181.10.181.101:15001/play/a05x/index.m3u8
+
+#EXTINF:-1 tvg-id="A&E.ar" tvg-name="A&E HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="2" type="channel",A&E HD
+http://181.10.181.101:15001/play/a09h/index.m3u8
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="3" type="channel",A24
+http://181.10.181.101:15001/play/a05u/index.m3u8
+
+#EXTINF:-1 tvg-id="AMSports.ar" tvg-name="AM Sports" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="4" type="channel",AM Sports
+http://181.10.181.101:15001/play/a061/index.m3u8
+
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="5" type="channel",AMC
+http://181.10.181.101:15001/play/a064/index.m3u8
+
+#EXTINF:-1 tvg-id="Argentinisima.ar" tvg-name="ARGENTINISIMA" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="6" type="channel",ARGENTINISIMA
+http://181.10.181.101:15001/play/a0cz/index.m3u8
+
+#EXTINF:-1 tvg-id="AXN.ar" tvg-name="AXN HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="7" type="channel",AXN HD
+http://181.10.181.101:15001/play/a09e/index.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwim.ar" tvg-name="Adult swim HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="8" type="channel",Adult swim HD
+http://181.10.181.101:15001/play/a08d/index.m3u8
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="9" type="channel",America TV HD
+http://181.10.181.101:15001/play/a094/index.m3u8
+
+#EXTINF:-1 tvg-id="Bolivision.ar" tvg-name="BOLIVISION" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="10" type="channel",BOLIVISION
+http://181.10.181.101:15001/play/a0d8/index.m3u8
+
+#EXTINF:-1 tvg-id="BabyTV.ar" tvg-name="Baby TV" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="11" type="channel",Baby TV
+http://181.10.181.101:15001/play/a06j/index.m3u8
+
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="12" type="channel",C5N
+http://181.10.181.101:15001/play/a05v/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal11Salta.ar" tvg-name="CANAL 11 SALTA" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="13" type="channel",CANAL 11 SALTA
+http://181.10.181.101:15001/play/a0da/index.m3u8
+
+#EXTINF:-1 tvg-id="CM.ar" tvg-name="CM" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="14" type="channel",CM
+http://181.10.181.101:15001/play/a0d5/index.m3u8
+
+#EXTINF:-1 tvg-id="CNN.ar" tvg-name="CNN en Español" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="15" type="channel",CNN en Español
+http://181.10.181.101:15001/play/a093/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalA.ar" tvg-name="Canal a" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="16" type="channel",Canal a
+http://181.10.181.101:15001/play/a06d/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalCiudad.ar" tvg-name="Canal de la Ciudad" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="17" type="channel",Canal de la Ciudad
+http://181.10.181.101:15001/play/a07c/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.ar" tvg-name="Cartoon Network HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="18" type="channel",Cartoon Network HD
+http://181.10.181.101:15001/play/a083/index.m3u8
+
+#EXTINF:-1 tvg-id="CineAR.ar" tvg-name="Cine.AR" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="19" type="channel",Cine.AR
+http://181.10.181.101:15001/play/a069/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="Cinecanal HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="20" type="channel",Cinecanal HD
+http://181.10.181.101:15001/play/a089/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="21" type="channel",Cinemax
+http://181.10.181.101:15001/play/a08r/index.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-name="Comedy Central HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="22" type="channel",Comedy Central HD
+http://181.10.181.101:15001/play/a072/index.m3u8
+
+#EXTINF:-1 tvg-id="Cronica.ar" tvg-name="Crónica" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="23" type="channel",Crónica
+http://181.10.181.101:15001/play/a05w/index.m3u8
+
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="24" type="channel",DeporTV
+http://181.10.181.101:15001/play/a07f/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.ar" tvg-name="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="25" type="channel",Discovery Channel HD
+http://181.10.181.101:15001/play/a08g/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryHH.ar" tvg-name="Discovery H&H HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="26" type="channel",Discovery H&H HD
+http://181.10.181.101:15001/play/a08f/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKids.ar" tvg-name="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="27" type="channel",Discovery Kids
+http://181.10.181.101:15001/play/a07r/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryScience.ar" tvg-name="Discovery Science" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="28" type="channel",Discovery Science
+http://181.10.181.101:15001/play/a06p/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryTheater.ar" tvg-name="Discovery Theater HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="29" type="channel",Discovery Theater HD
+http://181.10.181.101:15001/play/a074/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo.ar" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="30" type="channel",Discovery Turbo
+http://181.10.181.101:15001/play/a062/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryWorld.ar" tvg-name="Discovery World HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="31" type="channel",Discovery World HD
+http://181.10.181.101:15001/play/a076/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.ar" tvg-name="Disney Channel HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="32" type="channel",Disney Channel HD
+http://181.10.181.101:15001/play/a06w/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.ar" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="33" type="channel",Disney Junior
+http://181.10.181.101:15001/play/a08x/index.m3u8
+
+#EXTINF:-1 tvg-id="EEntertainment.ar" tvg-name="E! Entertainment" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="34" type="channel",E! Entertainment
+http://181.10.181.101:15001/play/a08z/index.m3u8
+
+#EXTINF:-1 tvg-id="Enlace.ar" tvg-name="ENLACE" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="35" type="channel",ENLACE
+http://181.10.181.101:15001/play/a0d6/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="36" type="channel",ESPN 2 HD
+http://181.10.181.101:15001/play/a098/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3 HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="37" type="channel",ESPN 3 HD
+http://181.10.181.101:15001/play/a09a/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN4.ar" tvg-name="ESPN 4 HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="38" type="channel",ESPN 4 HD
+http://181.10.181.101:15001/play/a084/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN7.ar" tvg-name="ESPN 7" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="39" type="channel",ESPN 7
+http://181.10.181.101:15001/play/a0cx/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="40" type="channel",ESPN HD
+http://181.10.181.101:15001/play/a099/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="41" type="channel",ESPN Premium HD
+http://181.10.181.101:15001/play/a086/index.m3u8
+
+#EXTINF:-1 tvg-id="EWTN.ar" tvg-name="EWTN" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="42" type="channel",EWTN
+http://181.10.181.101:15001/play/a0d7/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalEstrellas.ar" tvg-name="El Canal de las Estrellas" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="43" type="channel",El Canal de las Estrellas
+http://181.10.181.101:15001/play/a07x/index.m3u8
+
+#EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="El Gourmet" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="44" type="channel",El Gourmet
+http://181.10.181.101:15001/play/a07u/index.m3u8
+
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Encuentro" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="45" type="channel",Encuentro
+http://181.10.181.101:15001/play/a05s/index.m3u8
+
+#EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="Europa Europa" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="46" type="channel",Europa Europa
+http://181.10.181.101:15001/play/a07t/index.m3u8
+
+#EXTINF:-1 tvg-id="FX.ar" tvg-name="FX HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="47" type="channel",FX HD
+http://181.10.181.101:15001/play/a070/index.m3u8
+
+#EXTINF:-1 tvg-id="FilmArts.ar" tvg-name="Film & Arts HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="48" type="channel",Film & Arts HD
+http://181.10.181.101:15001/play/a075/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="49" type="channel",Fox Sports 2 HD
+http://181.10.181.101:15001/play/a09b/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="Fox Sports 3 HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="50" type="channel",Fox Sports 3 HD
+http://181.10.181.101:15001/play/a06y/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="51" type="channel",Fox Sports HD
+http://181.10.181.101:15001/play/a085/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.ar" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="52" type="channel",HBO
+http://181.10.181.101:15001/play/a07m/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2.ar" tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="53" type="channel",HBO 2
+http://181.10.181.101:15001/play/a07o/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamily.ar" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="54" type="channel",HBO Family
+http://181.10.181.101:15001/play/a07p/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOMundi.ar" tvg-name="HBO Mundi" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="55" type="channel",HBO Mundi
+http://181.10.181.101:15001/play/a06f/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOPlus.ar" tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="56" type="channel",HBO Plus
+http://181.10.181.101:15001/play/a07n/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOSignature.ar" tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="57" type="channel",HBO Signature
+http://181.10.181.101:15001/play/a06h/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOXtreme.ar" tvg-name="HBO Xtreme" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="58" type="channel",HBO Xtreme
+http://181.10.181.101:15001/play/a06g/index.m3u8
+
+#EXTINF:-1 tvg-id="HGTV.ar" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="59" type="channel",HGTV
+http://181.10.181.101:15001/play/a06o/index.m3u8
+
+#EXTINF:-1 tvg-id="HTV.ar" tvg-name="HTV" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="60" type="channel",HTV
+http://181.10.181.101:15001/play/a06t/index.m3u8
+
+#EXTINF:-1 tvg-id="History2.ar" tvg-name="History 2" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="61" type="channel",History 2
+http://181.10.181.101:15001/play/a06n/index.m3u8
+
+#EXTINF:-1 tvg-id="HistoryChannel.ar" tvg-name="History Channel" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="62" type="channel",History Channel
+http://181.10.181.101:15001/play/a090/index.m3u8
+
+#EXTINF:-1 tvg-id="KillaTV.ar" tvg-name="KILLA TV" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="63" type="channel",KILLA TV
+http://181.10.181.101:15001/play/a0cw/index.m3u8
+
+#EXTINF:-1 tvg-id="LaNacionTV.ar" tvg-name="La Nacion TV" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="64" type="channel",La Nacion TV
+http://181.10.181.101:15001/play/a05y/index.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime.ar" tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="65" type="channel",Lifetime
+http://181.10.181.101:15001/play/a07l/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV.ar" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="66" type="channel",MTV
+http://181.10.181.101:15001/play/a06r/index.m3u8
+
+#EXTINF:-1 tvg-id="MTVx00.ar" tvg-name="MTV×00" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="67" type="channel",MTV×00
+http://181.10.181.101:15001/play/a092/index.m3u8
+
+#EXTINF:-1 tvg-id="Multivision.ar" tvg-name="MULTIVISION" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="68" type="channel",MULTIVISION
+http://181.10.181.101:15001/play/a0cv/index.m3u8
+
+#EXTINF:-1 tvg-id="Metro.ar" tvg-name="Metro" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="69" type="channel",Metro
+http://181.10.181.101:15001/play/a06l/index.m3u8
+
+#EXTINF:-1 tvg-id="NatGeo.ar" tvg-name="Nat Geo HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="70" type="channel",Nat Geo HD
+http://181.10.181.101:15001/play/a09f/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.ar" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="71" type="channel",Nick Jr
+http://181.10.181.101:15001/play/a07s/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.ar" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="72" type="channel",Nickelodeon
+http://181.10.181.101:15001/play/a08y/index.m3u8
+
+#EXTINF:-1 tvg-id="Pasiones.ar" tvg-name="PASIONES" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="73" type="channel",PASIONES
+http://181.10.181.101:15001/play/a0d4/index.m3u8
+
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Pakapaka" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="74" type="channel",Pakapaka
+http://181.10.181.101:15001/play/a05t/index.m3u8
+
+#EXTINF:-1 tvg-id="Paramount.ar" tvg-name="Paramount HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="75" type="channel",Paramount HD
+http://181.10.181.101:15001/play/a073/index.m3u8
+
+#EXTINF:-1 tvg-id="QuieroMusica.ar" tvg-name="Quiero Musica" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="76" type="channel",Quiero Musica
+http://181.10.181.101:15001/play/a06s/index.m3u8
+
+#EXTINF:-1 tvg-id="RAI.ar" tvg-name="RAI Italia" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="77" type="channel",RAI Italia
+http://181.10.181.101:15001/play/a06u/index.m3u8
+
+#EXTINF:-1 tvg-id="RT.ar" tvg-name="RT en Español" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="78" type="channel",RT en Español
+http://181.10.181.101:15001/play/a07d/index.m3u8
+
+#EXTINF:-1 tvg-id="Rural.ar" tvg-name="Rural" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="79" type="channel",Rural
+http://181.10.181.101:15001/play/a06k/index.m3u8
+
+#EXTINF:-1 tvg-id="Sony.ar" tvg-name="Sony HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="80" type="channel",Sony HD
+http://181.10.181.101:15001/play/a09c/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyMovies.ar" tvg-name="Sony Movies HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="81" type="channel",Sony Movies HD
+http://181.10.181.101:15001/play/a09j/index.m3u8
+
+#EXTINF:-1 tvg-id="Space.ar" tvg-name="Space HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="82" type="channel",Space HD
+http://181.10.181.101:15001/play/a071/index.m3u8
+
+#EXTINF:-1 tvg-id="StarChannel.ar" tvg-name="Star Channel HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="83" type="channel",Star Channel HD
+http://181.10.181.101:15001/play/a087/index.m3u8
+
+#EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-name="Studio Universal" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="84" type="channel",Studio Universal
+http://181.10.181.101:15001/play/a067/index.m3u8
+
+#EXTINF:-1 tvg-id="TCM.ar" tvg-name="TCM" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="85" type="channel",TCM
+http://181.10.181.101:15001/play/a065/index.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo.ar" tvg-name="TELEMUNDO" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="86" type="channel",TELEMUNDO
+http://181.10.181.101:15001/play/a0d1/index.m3u8
+
+#EXTINF:-1 tvg-id="Telesur.ar" tvg-name="TELESUR" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="87" type="channel",TELESUR
+http://181.10.181.101:15001/play/a0d9/index.m3u8
+
+#EXTINF:-1 tvg-id="TLNovelas.ar" tvg-name="TLNovelas" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="88" type="channel",TLNovelas
+http://181.10.181.101:15001/play/a07y/index.m3u8
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="89" type="channel",TN HD
+http://181.10.181.101:15001/play/a097/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.ar" tvg-name="TNT HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="90" type="channel",TNT HD
+http://181.10.181.101:15001/play/a08b/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTNovelas.ar" tvg-name="TNT Novelas HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="91" type="channel",TNT Novelas HD
+http://181.10.181.101:15001/play/a08e/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSeries.ar" tvg-name="TNT Series HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="92" type="channel",TNT Series HD
+http://181.10.181.101:15001/play/a08c/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="93" type="channel",TNT Sports HD
+http://181.10.181.101:15001/play/a06z/index.m3u8
+
+#EXTINF:-1 tvg-id="Tooncat.ar" tvg-name="TOONCAT" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="94" type="channel",TOONCAT
+http://181.10.181.101:15001/play/a0cy/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Publica HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="95" type="channel",TV Publica HD
+http://181.10.181.101:15001/play/a095/index.m3u8
+
+#EXTINF:-1 tvg-id="TVE.ar" tvg-name="TVE" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="96" type="channel",TVE
+http://181.10.181.101:15001/play/a080/index.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="97" type="channel",Telefe HD
+http://181.10.181.101:15001/play/a08a/index.m3u8
+
+#EXTINF:-1 tvg-id="HistoryChannelHD.ar" tvg-name="The History Channel HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="98" type="channel",The History Channel HD
+http://181.10.181.101:15001/play/a09g/index.m3u8
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="99" type="channel",TyC Sports HD
+http://181.10.181.101:15001/play/a06x/index.m3u8
+
+#EXTINF:-1 tvg-id="Unitel.ar" tvg-name="UNITEL" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="100" type="channel",UNITEL
+http://181.10.181.101:15001/play/a0d0/index.m3u8
+
+#EXTINF:-1 tvg-id="USANetwork.ar" tvg-name="USA Network" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="101" type="channel",USA Network
+http://181.10.181.101:15001/play/a068/index.m3u8
+
+#EXTINF:-1 tvg-id="Universal.ar" tvg-name="Universal HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="102" type="channel",Universal HD
+http://181.10.181.101:15001/play/a09i/index.m3u8
+
+#EXTINF:-1 tvg-id="Volver.ar" tvg-name="Volver" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="103" type="channel",Volver
+http://181.10.181.101:15001/play/a066/index.m3u8
+
+#EXTINF:-1 tvg-id="WarnerChannel.ar" tvg-name="Warner Channel HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="104" type="channel",Warner Channel HD
+http://181.10.181.101:15001/play/a09d/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal7Jujuy.ar" tvg-name="canal 7 jujuy" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="105" type="channel",canal 7 jujuy
+http://181.10.181.101:15001/play/a0dl/index.m3u8
+
+#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-name="ciudad magazine" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="106" type="channel",ciudad magazine
+http://181.10.181.101:15001/play/a06m/index.m3u8
+
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="el nueve HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="107" type="channel",el nueve HD
+http://181.10.181.101:15001/play/a08k/index.m3u8
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="el trece HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="108" type="channel",el trece HD
+http://181.10.181.101:15001/play/a07b/index.m3u8
+
+#EXTINF:-1 tvg-id="Lapacho.ar" tvg-name="lapacho" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="109" type="channel",lapacho
+http://181.10.181.101:15001/play/a0dd/index.m3u8
+
+#EXTINF:-1 tvg-id="Telefuturo.ar" tvg-name="telefuturo" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Argentina TV" ch-number="110" type="channel",telefuturo
+http://181.10.181.101:15001/play/a0dc/index.m3u8
+
+#EXTINF:0 group-title="Pack Fútbol Argentino" group-logo="https://i.ibb.co/3YkJg2Lw/Conectplusott.png",Pack Fútbol Argentino [Logo del Grupo]
+#EXTGRP:Pack Fútbol Argentino
+
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Pack Fútbol Argentino" ch-number="1" type="channel",ESPN Premium HD
+http://181.10.181.101:15001/play/a086/index.m3u8
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Pack Fútbol Argentino" ch-number="2" type="channel",TyC Sports HD
+http://181.10.181.101:15001/play/a06x/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Pack Fútbol Argentino" ch-number="3" type="channel",TNT Sports HD
+http://181.10.181.101:15001/play/a06z/index.m3u8
+
+#EXTINF:0 group-title="Deportes" group-logo="https://i.ibb.co/3YkJg2Lw/Conectplusott.png",Deportes [Logo del Grupo]
+#EXTGRP:Deportes
+
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Deportes" ch-number="1" type="channel",ESPN 2 HD
+http://181.10.181.101:15001/play/a098/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3 HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Deportes" ch-number="2" type="channel",ESPN 3 HD
+http://181.10.181.101:15001/play/a09a/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN4.ar" tvg-name="ESPN 4 HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Deportes" ch-number="3" type="channel",ESPN 4 HD
+http://181.10.181.101:15001/play/a084/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN7.ar" tvg-name="ESPN 7" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Deportes" ch-number="4" type="channel",ESPN 7
+http://181.10.181.101:15001/play/a0cx/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Deportes" ch-number="5" type="channel",ESPN HD
+http://181.10.181.101:15001/play/a099/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Deportes" ch-number="6" type="channel",ESPN Premium HD
+http://181.10.181.101:15001/play/a086/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Deportes" ch-number="7" type="channel",Fox Sports 2 HD
+http://181.10.181.101:15001/play/a09b/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="Fox Sports 3 HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Deportes" ch-number="8" type="channel",Fox Sports 3 HD
+http://181.10.181.101:15001/play/a06y/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports HD" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Deportes" ch-number="9" type="channel",Fox Sports HD
+http://181.10.181.101:15001/play/a085/index.m3u8
+
+#EXTINF:-1 tvg-id="AMSports.ar" tvg-name="AM Sports" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="Deportes" ch-number="10" type="channel",AM Sports
+http://181.10.181.101:15001/play/a061/index.m3u8
