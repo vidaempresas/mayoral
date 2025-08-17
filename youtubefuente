@@ -1,286 +1,65 @@
-#EXTM3U x-tvg-url=""
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina4.xml.gz"
 
-#EXTINF:-1 tvg-id="Peppa Pig en Español 24-7" tvg-name="Peppa Pig en Español 24-7" tvg-logo="https://yt3.googleusercontent.com/4dXyeSMATwpYL4SfHc4c2ebiQxVvqYAbthc0UN5QWCrR2xT0fPhbxIODcNe9MGRIEOV0VtkyTA=s160-c-k-c0x00ffffff-no-rj" group-title="24/7",Peppa Pig en Español 24-7
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/685c56bd641707f58eb40522.m3u8?uid=ConectPlus&pkey=335780
+#EXTINF:-1 tvg-id="" group-title="24/7" tvg-logo="https://yt3.googleusercontent.com/4dXyeSMATwpYL4SfHc4c2ebiQxVvqYAbthc0UN5QWCrR2xT0fPhbxIODcNe9MGRIEOV0VtkyTA=s160-c-k-c0x00ffffff-no-rj",Peppa Pig en Español 24-7
+https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/685c56bd641707f58eb40522.m3u8?uid=None&pkey=None
 
-#EXTINF:-1 tvg-id="LN+ (La Nacion)" tvg-name="LN+ (La Nacion)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqtZB_6WG36RuIrX7Npa_XgoeV-KK74HcQ7m9xWQcKI7E=s160-c-k-c0x00ffffff-no-rj" group-title="Arg - Noticias",LN+ (La Nacion)
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/67f86f098d4666c5caa7c057.m3u8?uid=ConectPlus&pkey=335780
+#EXTINF:-1 tvg-id="" group-title="24/7" tvg-logo="https://static.filmon.com/assets/channels/4622/extra_big_logo.png",Betty Boop TV
+https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/683d8e46d579e3475f375a39.m3u8?uid=None&pkey=None
 
-#EXTINF:-1 tvg-id="A24" tvg-name="A24" tvg-logo="https://yt3.googleusercontent.com/77_qrFDUHw1VsCLcxQARuavMIcDxWLC82ng2BLPVC_ZT7cwRI0u1oueNPeqxbBKXpJ6GRkGo=s160-c-k-c0x00ffffff-no-rj" group-title="Arg - Noticias",A24
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/67f86f2f8d4666c5caa7c058.m3u8?uid=ConectPlus&pkey=335780
+#EXTINF:-1 tvg-id="" group-title="24/7" tvg-logo="https://static.filmon.com/assets/channels/530/extra_big_logo.png",FilmOn Jazz and Blues
+https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/683d8d93fa4eaeadc6613897.m3u8?uid=None&pkey=None
 
-#EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="https://yt3.googleusercontent.com/HvjsN04ks_9U0E-7Um0tlS9u3BE4JX2Dd4x0z2eTboikZk0Ofk7CLtp5yIRSq--EMfu95AAOmQ=s160-c-k-c0x00ffffff-no-rj" group-title="Arg - Noticias",El Trece
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/681021e85bda46552a55a1d7.m3u8?uid=ConectPlus&pkey=335780
+#EXTINF:-1 tvg-id="" group-title="24/7" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lh_xIcqtslZ1NeIhjMf3j6NW73E9lWIxwLshK2L5W8Aw=s160-c-k-c0x00ffffff-no-rj",Jazz Lounge Bar
+https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6818f9cfa157c540ac3b3135.m3u8?uid=None&pkey=None
 
-#EXTINF:-1 tvg-id="TeVeo Mendoza" tvg-name="TeVeo Mendoza" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c0b810c4-e4e9-4a33-9cb9-6f457b890510-profile_image-70x70.png" group-title="Mendoza",TeVeo Mendoza
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/684745a74aa83e8e245183f5.m3u8?uid=ConectPlus&pkey=335780
+#EXTINF:-1 tvg-id="" group-title="24/7" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nrs6F_WGx11R1J9rjfsjgDnUJPb0F38JzM1g70q7JLCls=s160-c-k-c0x00ffffff-no-rj",Cafe Music BGM Channel
+https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6818f801aabfaa38263c56a3.m3u8?uid=None&pkey=None
 
-#EXTINF:-1 tvg-id="La 100 Argentina" tvg-name="La 100 Argentina" tvg-logo="https://cloudfront-arc.cienradios.com/la100/logo/logoog.png" group-title="Arg - Noticias",La 100 Argentina
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/68161ed7f6da4751de46fe66.m3u8?uid=ConectPlus&pkey=335780
+#EXTINF:-1 tvg-id="" group-title="24/7" tvg-logo="https://yt3.googleusercontent.com/-OouxbzhbvF7dwhQcnHUg7Jg2_qN0GV-ShqQmX3vORLPJSyf9pYJLz23v1btn1Etne51tL4fDg=s160-c-k-c0x00ffffff-no-rj",April Jazz
+https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/67f68acfdd5474f7a667e5cd.m3u8?uid=None&pkey=None
 
-#EXTINF:-1 tvg-id="Canal 7 Mendoza" tvg-name="Canal 7 Mendoza" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg" group-title="Mendoza",Canal 7 Mendoza
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/681d7565ee6a3b3a85715f64.m3u8?uid=ConectPlus&pkey=335780
+#EXTINF:-1 tvg-id="" group-title="24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/ISS_emblem.png/960px-ISS_emblem.png",NASA Live Stream from Space (ISS)
+https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/67f5b4554567877a434a2b9a.m3u8?uid=None&pkey=None
 
-#EXTINF:-1 tvg-id="TVEO Ric Cuarto" tvg-name="TVEO Ric Cuarto" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/30359190-1b8a-4157-a37b-f8c0247f197b-profile_image-70x70.png" group-title="Córdoba",TVEO Ric Cuarto
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/68474319858814c7678b0752.m3u8?uid=ConectPlus&pkey=335780
+#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://yt3.googleusercontent.com/-yGCXuScl3TXmFVp7XRT0E_bqN8V60hm15Ty64OSeeEXx4YOFqB6oy2JVlXvddFEadST8Idw=s160-c-k-c0x00ffffff-no-rj",Baby Shark en Español
+https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/685c58e2831e8c34d57a9134.m3u8?uid=None&pkey=None
 
-#EXTINF:-1 tvg-id="Canal 26" tvg-name="Canal 26" tvg-logo="https://yt3.googleusercontent.com/iwy544rQZtfKaTCTqIFUSov8vJk3usPK8bqGzR-JdQwSBEBJiGIacr3v7L3t8w9Xq7Ny6E5z=s160-c-k-c0x00ffffff-no-rj" group-title="Arg - Noticias",Canal 26
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/67f86edc8d4666c5caa7c056.m3u8?uid=ConectPlus&pkey=335780
+#EXTINF:-1 tvg-id="" group-title="Argentina - Córdoba" tvg-logo="https://i.imgur.com/HfyKPpD.png",El Doce Córdoba
+https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/67f6bc096ebc0fecbf2ca8f0.m3u8?uid=None&pkey=None
 
-#EXTINF:-1 tvg-id="Todo Noticias" tvg-name="Todo Noticias" tvg-logo="https://yt3.googleusercontent.com/OL0n5KS1Yw3200B8OhLyq6Qa_g-aNGhJcuhNQJ2Ym3Ykan1Bptx1_yJrClMlMedhLR_W4cvoOw=s160-c-k-c0x00ffffff-no-rj" group-title="Arg - Noticias",Todo Noticias
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/67f81a97e813d30ec61c53bf.m3u8?uid=ConectPlus&pkey=335780
+#EXTINF:-1 tvg-id="" group-title="Argentina - Córdoba" tvg-logo="https://www.ubp.edu.ar/wp-content/uploads/2018/10/Canal-10.jpg",Canal 10 Córdoba
+https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/68700bcbb0440c66c98364b8.m3u8?uid=None&pkey=None
 
-#EXTINF:-1 tvg-id="C5N" tvg-name="C5N" tvg-logo="https://i.imgur.com/E3pamA5.png" group-title="Arg - Noticias",C5N
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/67f6ea766344ffb763c0ee45.m3u8?uid=ConectPlus&pkey=335780
+#EXTINF:-1 tvg-id="" group-title="Argentina - Córdoba" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/adf5d7c5-e893-4571-b114-316b90ae2dcc-profile_image-70x70.png",TV Max Córdoba
+https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/688e42592d08d7685b898881.m3u8?uid=None&pkey=None
 
-#EXTINF:-1 tvg-id="El Destape" tvg-name="El Destape" tvg-logo="https://yt3.googleusercontent.com/B46zjhKXET4MqoQG440EkLWxU0XqvjR1_VyZklQn8XfrlVXbOktA0n-iwtbh6dHYXiADWt6x3eo=s160-c-k-c0x00ffffff-no-rj" group-title="Arg - Noticias",El Destape
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6810b70fb032ed9cbd6bb359.m3u8?uid=ConectPlus&pkey=335780
+#EXTINF:-1 tvg-id="" group-title="Argentina - Córdoba" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/30359190-1b8a-4157-a37b-f8c0247f197b-profile_image-70x70.png",TVEO Ric Cuarto
+https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/68474319858814c7678b0752.m3u8?uid=None&pkey=None
 
-#EXTINF:-1 tvg-id="SBT NEWS" tvg-name="SBT NEWS" tvg-logo="https://yt3.googleusercontent.com/5rntiIoN_9BULPu9dkfYUknk4nePL0Sh7OHB_TCRoJW6TdJ5hwbuAYOSnfu3995Auw7xZz5AVQ=s160-c-k-c0x00ffffff-no-rj" group-title="Brasil",SBT NEWS
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/67ff7d9b99f7bbcff609db66.m3u8?uid=ConectPlus&pkey=335780
+#EXTINF:-1 tvg-id="" group-title="Mendoza" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c0b810c4-e4e9-4a33-9cb9-6f457b890510-profile_image-70x70.png",TeVeo Mendoza
+https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/684745a74aa83e8e245183f5.m3u8?uid=None&pkey=None
 
-#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lmJE_9aX-lvy2eliMO5ejbko3mQVM6Ecf79AR8pQFMcV8=s160-c-k-c0x00ffffff-no-rj" group-title="Brasil",CNN Brasil
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/67ffcd93e9be0f14a2b10831.m3u8?uid=ConectPlus&pkey=335780
+#EXTINF:-1 tvg-id="" group-title="Mendoza" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg",Canal 7 Mendoza
+https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/681d7565ee6a3b3a85715f64.m3u8?uid=None&pkey=None
 
-#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg" group-title="Brasil",Record News
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6843e81a5d74cd7b2081584c.m3u8?uid=ConectPlus&pkey=335780
+#EXTINF:-1 tvg-id="" group-title="Mendoza" tvg-logo="https://yt3.ggpht.com/rb2RIZEJgafAjjJgSgfz9xsi9SH311amSYRLysHW-qBTFLyaPrijcoDLdqQR609DY_G_g-Ia8LU=s48-c-k-c0x00ffffff-no-rj",Canal Siete Mendoza
+https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/688d07d2707ddd66ee1e6217.m3u8?uid=None&pkey=None
 
-#EXTINF:-1 tvg-id="Radio La Red AM910" tvg-name="Radio La Red AM910" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg" group-title="Arg - Noticias",Radio La Red AM910
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/68269f3a30185e6b1049c096.m3u8?uid=ConectPlus&pkey=335780
+#EXTINF:-1 tvg-id="" group-title="Mendoza" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Elsiete.webp/250px-Elsiete.webp.png",Siete Mendoza Argentina
+https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6871680e2ad54a01a9db8959.m3u8?uid=None&pkey=None
 
-#EXTINF:-1 tvg-id="Betty Boop TV" tvg-name="Betty Boop TV" tvg-logo="https://static.filmon.com/assets/channels/4622/extra_big_logo.png" group-title="24/7",Betty Boop TV
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/683d8e46d579e3475f375a39.m3u8?uid=ConectPlus&pkey=335780
+#EXTINF:-1 tvg-id="" group-title="Santa Fe-Rosario" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cae28b92-72b2-4523-ab24-85d1645ac2c3-profile_image-70x70.png",Canal 1 Sta Fe
+https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/68474a324aa83e8e245183f6.m3u8?uid=None&pkey=None
 
-#EXTINF:-1 tvg-id="FilmOn Jazz and Blues" tvg-name="FilmOn Jazz and Blues" tvg-logo="https://static.filmon.com/assets/channels/530/extra_big_logo.png" group-title="24/7",FilmOn Jazz and Blues
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/683d8d93fa4eaeadc6613897.m3u8?uid=ConectPlus&pkey=335780
+#EXTINF:-1 tvg-id="" group-title="Santa Fe-Rosario" tvg-logo="https://yt3.ggpht.com/04DhCEzwVDFTMKJpZO9SscR4r_4Ajt4ogTirMdzwWTnXEL3eRzN_QrM-34JK-_B8fVUFtMo_TKw=s48-c-k-c0x00ffffff-no-rj",Aire de Santa Fe
+https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/688b73ab109abb4003c315ad.m3u8?uid=None&pkey=None
 
-#EXTINF:-1 tvg-id="Jazz Lounge Bar" tvg-name="Jazz Lounge Bar" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lh_xIcqtslZ1NeIhjMf3j6NW73E9lWIxwLshK2L5W8Aw=s160-c-k-c0x00ffffff-no-rj" group-title="24/7",Jazz Lounge Bar
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6818f9cfa157c540ac3b3135.m3u8?uid=ConectPlus&pkey=335780
+#EXTINF:-1 tvg-id="" group-title="Argentina" tvg-logo="https://telecentro.com.ar/img/cm/channels/tierramia@2x.png",TierraMia TV
+https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/68161e59f6da4751de46fe64.m3u8?uid=None&pkey=None
 
-#EXTINF:-1 tvg-id="Cafe Music BGM Channel" tvg-name="Cafe Music BGM Channel" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nrs6F_WGx11R1J9rjfsjgDnUJPb0F38JzM1g70q7JLCls=s160-c-k-c0x00ffffff-no-rj" group-title="24/7",Cafe Music BGM Channel
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6818f801aabfaa38263c56a3.m3u8?uid=ConectPlus&pkey=335780
+#EXTINF:-1 tvg-id="" group-title="Argentina" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg",EL Once
+https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/68420b733aff85bd402339e2.m3u8?uid=None&pkey=None
 
-#EXTINF:-1 tvg-id="April Jazz" tvg-name="April Jazz" tvg-logo="https://yt3.googleusercontent.com/-OouxbzhbvF7dwhQcnHUg7Jg2_qN0GV-ShqQmX3vORLPJSyf9pYJLz23v1btn1Etne51tL4fDg=s160-c-k-c0x00ffffff-no-rj" group-title="24/7",April Jazz
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/67f68acfdd5474f7a667e5cd.m3u8?uid=ConectPlus&pkey=335780
+#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqtZB_6WG36RuIrX7Npa_XgoeV-KK74HcQ7m9xWQcKI7E=s160-c-k-c0x00ffffff-no-rj",LN+ (La Nacion)
+https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/67f86f098d4666c5caa7c057.m3u8?uid=None&pkey=None
 
-#EXTINF:-1 tvg-id="GOSPEL HITS" tvg-name="GOSPEL HITS" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg" group-title="Brasil",GOSPEL HITS
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/685f4797cf2a32dd05675495.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="NASA Live Stream from Space (ISS)" tvg-name="NASA Live Stream from Space (ISS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/ISS_emblem.png/960px-ISS_emblem.png" group-title="24/7",NASA Live Stream from Space (ISS)
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/67f5b4554567877a434a2b9a.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="TVE BAHIA" tvg-name="TVE BAHIA" tvg-logo="https://sinaprobahia.com.br/wp-content/uploads/2019/09/tve-1.png" group-title="Brasil",TVE BAHIA
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6836018dc22f15148fbc9d39.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="TV NOVO TEMPO" tvg-name="TV NOVO TEMPO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="Brasil",TV NOVO TEMPO
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6835ff1b8f79904f84b19e16.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="America Tucuman" tvg-name="America Tucuman" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg" group-title="Arg - Noticias",America Tucuman
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6826d08c34f036e205adb256.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Mega Chile" tvg-name="Mega Chile" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Chile",Mega Chile
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6853405a2da0dfb20f8a3a11.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Chilevisión HD" tvg-name="Chilevisión HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Emblema_de_Chilevisi%C3%B3n.png" group-title="Chile",Chilevisión HD
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/68534180c299e9d4d4fc2cb0.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Megatiempo" tvg-name="Megatiempo" tvg-logo="https://yt3.googleusercontent.com/RzCO1IBS2apaz17btCM4JMmgPE4bvb8brS3C_9Rp5FNbxxsipFQOYLCMh8TqeWIt-mrmy-b8=s900-c-k-c0x00ffffff-no-rj" group-title="Chile",Megatiempo
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/68572300dc1dfbc7e71a662b.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Valparaíso Chile - Live Camera" tvg-name="Valparaíso Chile - Live Camera" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg" group-title="Chile",Valparaíso Chile - Live Camera
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/68688522ab6f7b95d5db8a0a.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Chilevisión Kick" tvg-name="Chilevisión Kick" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg" group-title="Chile",Chilevisión Kick
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/686d8a2623921581634c418e.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="El 13 - YouTube" tvg-name="El 13 - YouTube" tvg-logo="https://yt3.googleusercontent.com/d1lMOILbNU6iqX_NNkLhR2ih_kXjXtAH-8JD7N1PWDLXCBJRHiu-H4ndswgew12T0SHFexWMaeE=s160-c-k-c0x00ffffff-no-rj" group-title="Chile",El 13 - YouTube
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/685c59fb5783e92a9638709b.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="24 Horas - TVN Chile" tvg-name="24 Horas - TVN Chile" tvg-logo="https://yt3.googleusercontent.com/Os-cwD4A7NxPOdDREiPuf-abwz5kBZbAktE7NHlKUD6upbF0Qo7wphO7uCPs1uEDGcQw-dUGBfY=s160-c-k-c0x00ffffff-no-rj" group-title="Chile",24 Horas - TVN Chile
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6813dd2b45a08d704336897c.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Teletrece" tvg-name="Teletrece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Logotipo_de_Teletrece.svg/1200px-Logotipo_de_Teletrece.svg.png" group-title="Chile",Teletrece
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/68123cc5a2ef16a7cffaa748.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="13i (Channel 13)" tvg-name="13i (Channel 13)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/620px-Emblema_del_Canal_13_Chile.svg.png" group-title="Chile",13i (Channel 13)
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/67f86d50e1a5c75fa4968187.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Unitel Central" tvg-name="Unitel Central" tvg-logo="https://s1.dmcdn.net/u/8gvRY1dvMO6BQ4I3G/240x240" group-title="Bolivia",Unitel Central
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/67f5c1884567877a434a2b9f.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="ATB LPZ" tvg-name="ATB LPZ" tvg-logo="https://s2.dmcdn.net/u/1E8-X1a3vSmmAenVP/240x240" group-title="Bolivia",ATB LPZ
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/67f5c1dd6929b9ba958618af.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Bolivision" tvg-name="Bolivision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Bolivisi%C3%B3n2025.png" group-title="Bolivia",Bolivision
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/68016351e9be0f14a2b1083b.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="RTP" tvg-name="RTP" tvg-logo="https://rtpbolivia.com.bo/wp-content/uploads/elementor/thumbs/Logo800-q7ydinf88s6s2skjnyjd1vt91n6zi980xvt55ezhae.png" group-title="Bolivia",RTP
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/68042f8a78f234864df2150e.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Bolivia TV 7.1" tvg-name="Bolivia TV 7.1" tvg-logo="https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg" group-title="Bolivia",Bolivia TV 7.1
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6804316a9a8f817bfb25754f.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Bolivia TV 7.2" tvg-name="Bolivia TV 7.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Bolivia_Tv.webp" group-title="Bolivia",Bolivia TV 7.2
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/680433479a8f817bfb257550.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Latina santa cruz" tvg-name="Latina santa cruz" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg" group-title="Bolivia",Latina santa cruz
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6822234fbb6d9717bd0f169f.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Red Uno Bolivia" tvg-name="Red Uno Bolivia" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg" group-title="Bolivia",Red Uno Bolivia
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6859b82a6ff979ea8d295816.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Yugio" tvg-name="Yugio" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg" group-title="Bolivia",Yugio
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/681d7d917d041d0a84a12ca6.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="ATV+ (Peru)" tvg-name="ATV+ (Peru)" tvg-logo="https://alba-pe-atv.cdn.mediatiquepress.com/wp-content/uploads/2025/01/ATVmas-150x50.png" group-title="Peru",ATV+ (Peru)
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/67fdac61eadb6c7348636941.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Latina TV" tvg-name="Latina TV" tvg-logo="https://www.latina.pe/_templates/desktop/includes/img/latina.svg?v=2" group-title="Peru",Latina TV
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/680441c278f234864df2150f.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Latina Peru" tvg-name="Latina Peru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Peru",Latina Peru
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/68219b448e8237830456038a.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="ATV SUR PERU" tvg-name="ATV SUR PERU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOfJQPk4LZt_ao8cQ2f4YyPfK8aWU52tKdTA&s" group-title="Peru",ATV SUR PERU
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6821a94b454a9f88a889f2ab.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Willax TV" tvg-name="Willax TV" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg" group-title="Peru",Willax TV
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6870164d918acec9aa22afef.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Panamericana TV Perú" tvg-name="Panamericana TV Perú" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ca816d70-fc69-4ce2-9548-2b64137ef97b-profile_image-70x70.png" group-title="Peru",Panamericana TV Perú
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6873ccb46a51e9cf9456dc0a.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://yt3.googleusercontent.com/Bad3GqpyvghQQ9OvPHbiuU2CKCZrUwJCkCs5as1ypmYEWgQGtb5Fn_QKxvgv_XqDUfTFa2g8=s160-c-k-c0x00ffffff-no-rj" group-title="Arg - Noticias",Telefe
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/681020c1e1f522d01a8a84b0.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Telefe Noticias" tvg-name="Telefe Noticias" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg" group-title="Arg - Noticias",Telefe Noticias
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/688796be8acb3aca7bb84dbc.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="C5N - EN VIVO" tvg-name="C5N - EN VIVO" tvg-logo="https://yt3.googleusercontent.com/41G-GpD0EBSWwbNFLR0Bf15WAfi4SVpJVDgb-LgR3r80MVwhuKuiEZ2QBQhm-raUw9XNbRQY=s160-c-k-c0x00ffffff-no-rj" group-title="Arg - Noticias",C5N - EN VIVO
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/685c1739831e8c34d57a9132.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="El Nueve 2" tvg-name="El Nueve 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbNmtHm2S-HeI4aAXnjwPFirVS5kwBayQ8tg&s" group-title="Arg - Noticias",El Nueve 2
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/681aefee626edc70d7214ca9.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="El Doce Córdoba" tvg-name="El Doce Córdoba" tvg-logo="https://i.imgur.com/HfyKPpD.png" group-title="Arg - Noticias",El Doce Córdoba
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/67f6bc096ebc0fecbf2ca8f0.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Crónica TV" tvg-name="Crónica TV" tvg-logo="https://yt3.googleusercontent.com/EGyrGJo_3mJxohmZxkP0Ksma9r1J1fU1ORZkGkwJkGJKRyeu6aHTD_Zi-4AodbD0hLRnTzoCWA=s160-c-k-c0x00ffffff-no-rj" group-title="Arg - Noticias",Crónica TV
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/67fdb8ec613f446caa5987bf.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Cronica TV" tvg-name="Cronica TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/cronica-hd-ar.png?raw=true" group-title="Arg - Noticias",Cronica TV
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/68025a64756141c24a3a2bae.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="NET TV" tvg-name="NET TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nlQVl7iGomurqEB6OsdMeb5THUVsTZb2vWrJuJQCCuNw=s160-c-k-c0x00ffffff-no-rj" group-title="Arg - Noticias",NET TV
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/68103c165cb6d2826d29ba4e.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Bravo TV" tvg-name="Bravo TV" tvg-logo="https://files.catbox.moe/za53j7.png" group-title="Arg - Noticias",Bravo TV
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/68103e445cb6d2826d29ba4f.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Ciudad Magazine" tvg-name="Ciudad Magazine" tvg-logo="https://files.catbox.moe/chk4rh.png" group-title="Arg - Noticias",Ciudad Magazine
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/681041165bda46552a55a1d9.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Televisión Pública" tvg-name="Televisión Pública" tvg-logo="https://logowik.com/content/uploads/images/tvp-television-publica2725.logowik.com.webp" group-title="Arg - Noticias",Televisión Pública
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/68123d80fc32c725356b0d38.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="America" tvg-name="America" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/america-ar.png?raw=true" group-title="Arg - Noticias",America
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6802493d756141c24a3a2bab.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Siete Mendoza Argentina" tvg-name="Siete Mendoza Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Elsiete.webp/250px-Elsiete.webp.png" group-title="Arg - Noticias",Siete Mendoza Argentina
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6871680e2ad54a01a9db8959.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Canal 1 Sta Fe" tvg-name="Canal 1 Sta Fe" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cae28b92-72b2-4523-ab24-85d1645ac2c3-profile_image-70x70.png" group-title="Santa Fe-Rosario",Canal 1 Sta Fe
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/68474a324aa83e8e245183f6.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="TierraMia TV" tvg-name="TierraMia TV" tvg-logo="https://telecentro.com.ar/img/cm/channels/tierramia@2x.png" group-title="Argentina",TierraMia TV
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/68161e59f6da4751de46fe64.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="CN23" tvg-name="CN23" tvg-logo="https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/340077369_1885755161786628_7293328477603187179_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=po2DkTtx1KEQ7kNvwEVZiWI&_nc_oc=AdkzPHOXZsN8OZ6aPGmMDqS5dUglgOtrvMB6l5Qhkv7ye-KNUau8BL06RoG2TbyaHgo&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&_nc_gid=iLcixMyUIVxjEmVBzA2yPw&oh=00_AfEUdOADLgjrLFZbaflAdiZ-xofTQrO7GF49-PIIBmXtXg&oe=6816178D" group-title="Arg - Noticias",CN23
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/68103f685cb6d2826d29ba50.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="TV Max Córdoba" tvg-name="TV Max Córdoba" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/adf5d7c5-e893-4571-b114-316b90ae2dcc-profile_image-70x70.png" group-title="Arg - Noticias",TV Max Córdoba
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/688e42592d08d7685b898881.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Canal Siete Mendoza" tvg-name="Canal Siete Mendoza" tvg-logo="https://yt3.ggpht.com/rb2RIZEJgafAjjJgSgfz9xsi9SH311amSYRLysHW-qBTFLyaPrijcoDLdqQR609DY_G_g-Ia8LU=s48-c-k-c0x00ffffff-no-rj" group-title="Mendoza",Canal Siete Mendoza
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/688d07d2707ddd66ee1e6217.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Radio Rivadavia AM 630" tvg-name="Radio Rivadavia AM 630" tvg-logo="https://yt3.ggpht.com/A93k1EQUVUyBchrQwbvkZLV8y8shKpO-v8Vc2wHosuNmRVy9XM-wOQN8v7ZP_kz3KRh6FsalsA=s48-c-k-c0x00ffffff-no-rj" group-title="Arg - Noticias",Radio Rivadavia AM 630
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/688cdffd9624ce412acff746.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Radio 10 - AM 710" tvg-name="Radio 10 - AM 710" tvg-logo="https://yt3.ggpht.com/oksN402135L1H8-iX1xbjVIuAk-ejMDPwSonVY0gSrLtxYuZwbGbJurculXj6J0LhwRf7JPBslk=s48-c-k-c0x00ffffff-no-rj" group-title="Arg - Noticias",Radio 10 - AM 710
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/688b7409d4fdbaff3f9379a1.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Canal 4 Jujuy" tvg-name="Canal 4 Jujuy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7OiOHjajUw4VoGvdHU0Udf0dvASyayQnNkuz-x38azFIqb89fxLR3ZFLp8jGzeoVu1AYLKLMEMpd6rGT8bKe1IsaK8PhW3u46xTDQNNkLOJlHerPDXxM2fIuc43HLdoVGBaxsh1RmBOX1/s1600/canal4jujuy.png" group-title="Arg - Noticias",Canal 4 Jujuy
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6870055cb0440c66c98364b7.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Canal 10 Córdoba" tvg-name="Canal 10 Córdoba" tvg-logo="https://www.ubp.edu.ar/wp-content/uploads/2018/10/Canal-10.jpg" group-title="Arg - Noticias",Canal 10 Córdoba
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/68700bcbb0440c66c98364b8.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Canal C" tvg-name="Canal C" tvg-logo="https://files.kick.com/images/user/60074420/profile_image/conversion/4e83b575-4e63-43dd-b750-8b473a06b440-fullsize.webp" group-title="Arg - Noticias",Canal C
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/68654a0739a6f1af7b5d6779.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Canal 11 de la Costa" tvg-name="Canal 11 de la Costa" tvg-logo="https://github.com/FenixIPTV/LogosTV/blob/main/Argentina/canal11delacosta.png?raw=true" group-title="Arg - Noticias",Canal 11 de la Costa
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6845bb413460c9ff31e6f3df.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Infobae En Vivo" tvg-name="Infobae En Vivo" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg" group-title="Arg - Noticias",Infobae En Vivo
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/682740d27ccd2732b48b32b7.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="New Brasil" tvg-name="New Brasil" tvg-logo="https://eco.imgix.net/uploads/2024/02/design-sem-nome-45.png" group-title="Brasil",New Brasil
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/688562de20479bc2e2d16fac.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="TIMES BRASIL - LICENCIADO EXCLUSIVO CNBC" tvg-name="TIMES BRASIL - LICENCIADO EXCLUSIVO CNBC" tvg-logo="https://yt3.googleusercontent.com/446AHyy9PTdcSsx25RkDBgS-yZGTVaKDiXdVoF99qsbDgEDJv9r7lTOApCbqGQCU-CnSPqiqQw=s160-c-k-c0x00ffffff-no-rj" group-title="Brasil",TIMES BRASIL - LICENCIADO EXCLUSIVO CNBC
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/67ffc2e778f234864df21500.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="GLOBO RIO DE JANEIRO HD" tvg-name="GLOBO RIO DE JANEIRO HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png" group-title="Brasil",GLOBO RIO DE JANEIRO HD
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/683aef9d2e64fb5fd28577b2.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Ñanduti TV" tvg-name="Ñanduti TV" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg" group-title="Paraguay",Ñanduti TV
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6891ba78459f32d1c762bfcd.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="beIN Sports Xtra Espanol" tvg-name="beIN Sports Xtra Espanol" tvg-logo="https://www.beinsportsxtra.com/_next/image?url=https%3A%2F%2Fresources.beinsportsxtra.com%2Fxtra%2Flogo_bein_sport_xtra_espanol_plain_dfc8c8970b.png&w=1920&q=100" group-title="Deportes",beIN Sports Xtra Espanol
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/67ecd2cc1a6ecef08423300c.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Baby Shark en Español" tvg-name="Baby Shark en Español" tvg-logo="https://yt3.googleusercontent.com/-yGCXuScl3TXmFVp7XRT0E_bqN8V60hm15Ty64OSeeEXx4YOFqB6oy2JVlXvddFEadST8Idw=s160-c-k-c0x00ffffff-no-rj" group-title="Infantil",Baby Shark en Español
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/685c58e2831e8c34d57a9134.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Booba Live" tvg-name="Booba Live" tvg-logo="https://i.ibb.co/1fRx4nN3/bf6420d9859a829b1316ddc9d3eaf8a4.jpg" group-title="Infantil",Booba Live
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6894d9b399515003650f40bd.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="TV - Record News" tvg-name="TV - Record News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Record_News_logo_2023.svg/500px-Record_News_logo_2023.svg.png" group-title="Brasil",TV - Record News
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6894db0299515003650f40be.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="TV Band Minas" tvg-name="TV Band Minas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg" group-title="Brasil",TV Band Minas
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6894db8a8b55b81e139565e4.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Band Sports" tvg-name="Band Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BandSports2024.png/960px-BandSports2024.png" group-title="Brasil",Band Sports
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6894dbdd1edcc65ba2f54a7c.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Charla Podcast" tvg-name="Charla Podcast" tvg-logo="https://i.ibb.co/nNwNvHv3/charlapodcast.jpg" group-title="Brasil",Charla Podcast
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6894dc74459f32d1c762bfdb.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="TV - SBT CENTRAL" tvg-name="TV - SBT CENTRAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcVYPc-pELbp8t_0EhGtRFsSj1gXPMQWJgwA&s" group-title="Brasil",TV - SBT CENTRAL
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6894dce68b55b81e139565e5.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Rede Globo" tvg-name="Rede Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/1029px-Globo_logo_and_wordmark.svg.png" group-title="Brasil",Rede Globo
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6894dd745d1e885192444598.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Aire de Santa Fe" tvg-name="Aire de Santa Fe" tvg-logo="https://yt3.ggpht.com/04DhCEzwVDFTMKJpZO9SscR4r_4Ajt4ogTirMdzwWTnXEL3eRzN_QrM-34JK-_B8fVUFtMo_TKw=s48-c-k-c0x00ffffff-no-rj" group-title="Santa Fe-Rosario",Aire de Santa Fe
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/688b73ab109abb4003c315ad.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Aire de Santa Fe TV" tvg-name="Aire de Santa Fe TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Aire_de_Santa_Fe_16249327825119739.jpg" group-title="Santa Fe-Rosario",Aire de Santa Fe TV
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/6894e22d4f323174755630fa.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="EL Once" tvg-name="EL Once" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg" group-title="Argentina",EL Once
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/68420b733aff85bd402339e2.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="RIO TV CÂMARA AO VIVO" tvg-name="RIO TV CÂMARA AO VIVO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Rio_TV_C%C3%A2mara_Logo.jpg?20250101203223" group-title="Brasil",RIO TV CÂMARA AO VIVO
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/689569ef459f32d1c762bfdf.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Camera UADE Buenos Aires" tvg-name="Camera UADE Buenos Aires" tvg-logo="https://i.ibb.co/gZWkBFr5/935ecd0ed2169dae6937d27afd1402f0-removebg-preview.png" group-title="Arg - Noticias",Camera UADE Buenos Aires
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/68956af28b55b81e139565e7.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Camera - Obelisco - BA" tvg-name="Camera - Obelisco - BA" tvg-logo="https://i.ibb.co/gZWkBFr5/935ecd0ed2169dae6937d27afd1402f0-removebg-preview.png" group-title="Arg - Noticias",Camera - Obelisco - BA
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/68956b8c5d1e88519244459b.m3u8?uid=ConectPlus&pkey=335780
-
-#EXTINF:-1 tvg-id="Sala de Adoracíon" tvg-name="Sala de Adoracíon" tvg-logo="https://i.ibb.co/1fJD8dpg/estilo-de-vida.png" group-title="Religión",Sala de Adoracíon
-https://api.m3use.projectmoose.xyz/m3u/ConectPlus/Argentina/68956d8a1edcc65ba2f54a7f.m3u8?uid=ConectPlus&pkey=335780
