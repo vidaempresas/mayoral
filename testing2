@@ -597,3 +597,1097 @@ https://lte.wiseplayout.com/WiseM3U8_18/master.m3u8
 https://bit.ly/3JYZmO5?profile=inspirationLinks.m3u8
 #EXTINF:-1 cuid="1606" tvg-name="Billiard TV 🇺🇸" tvg-id="65df112b66eec8000897b965" tvg-logo="https://images.pluto.tv/channels/65df112b66eec8000897b965/colorLogoPNG.png",Billiard TV 🇺🇸
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-id="DAZN.tv" tvg-name="DAZN.tv" tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="🇪🇸 Spain" ch-number="4" type="channel",DAZN
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-id="DAZN.tv" tvg-name="DAZN.tv" tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="🇪🇸 Spain" ch-number="5" type="channel",DAZN
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-582/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-id="DAZN.tv" tvg-name="DAZN.tv" tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="🇪🇸 Spain" ch-number="6" type="channel",DAZN
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-580/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-id="DAZN.tv" tvg-name="DAZN.tv" tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="🇪🇸 Spain" ch-number="7" type="channel",DAZN
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-583/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
+#EXTINF:-1 tvg-id="DAZNF1.tv" tvg-name="DAZNF1.tv" tvg-logo="https://i.ibb.co/k6frj4P/daznf1.png" group-title="🇪🇸 Spain" ch-number="8" type="channel",DAZN  F1
+https://hipaf6u2j3pwygg.nice-flower.store/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SO0kTMjdzMkZ2NhRTLyEmMh1SYzMGNtYmMjJTLhVmMxIjZmNzL.m3u8?auth_key=1748521236-698af614ba46db852ec48d824bb6a92a-00000000000000000000000000000000-241e76c87e8e658ec3820fe5724e6c9e
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
+#EXTINF:-1 tvg-id="LALIGAHYPERMOTION.tv" tvg-name="LALIGAHYPERMOTION.tv" tvg-logo="https://i.ibb.co/6BPTcTx/La-Liga-Hypermotion.png" group-title="🇪🇸 Spain" ch-number="9" type="channel",LALIGA HYPERMOTION
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
+#EXTINF:-1 tvg-id="LALIGAHYPERMOTION2.tv" tvg-name="LALIGAHYPERMOTION2.tv" tvg-logo="https://i.ibb.co/TYFT189/La-Liga-Hypermotion2.png" group-title="🇪🇸 Spain" ch-number="10" type="channel",LALIGA HYPERMOTION 2
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+#EXTINF:-1 tvg-id="LALIGAHYPERMOTION3.tv" tvg-name="LALIGAHYPERMOTION3.tv" tvg-logo="https://i.ibb.co/1m0wtv7/Hypermotion3.png" group-title="🇪🇸 Spain" ch-number="11" type="channel",LALIGA HYPERMOTION 3
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTINF:-1 tvg-id="DAZNWOMEN'SFOOTBALL.tv" tvg-name="DAZNWOMEN'SFOOTBALL.tv" tvg-logo="https://images.pluto.tv/channels/64b02bbd7d93410008fdae60/thumbnail.jpg" group-title="🌐 International" ch-number="12" type="channel",DAZN WOMEN'S FOOTBALL
+http://dck-ac-live.cdn.indazn.com/dash/dazn-linear-503/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTINF:-1 tvg-id="DAZNRISE.tv" tvg-name="DAZNRISE.tv" tvg-logo="https://i.ibb.co/dppb0t6/dazn-rise.png" group-title="🇩🇪 Germany" ch-number="13" type="channel",DAZN RISE
+http://dck-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTINF:-1 tvg-id="DAZNFAST+.tv" tvg-name="DAZNFAST+.tv" tvg-logo="https://i.ibb.co/PNvwdCR/dazn-fast-plus.png" group-title="🌐 International" ch-number="14" type="channel",DAZN FAST+
+http://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTINF:-1 tvg-id="DAZNCOMBAT.tv" tvg-name="DAZNCOMBAT.tv" tvg-logo="https://i.ibb.co/0tB57qV/dazn-combat.png" group-title="🌐 International" ch-number="15" type="channel",DAZN COMBAT
+http://dck-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZNRINGSIDE.de" tvg-name="DAZNRINGSIDE.de" tvg-logo="https://i.ibb.co/DtKnxcK/dazn-ringside.png" group-title="🇩🇪 Germany" ch-number="16" type="channel",DAZN RINGSIDE
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/649b6898f2ec0000081a9460/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+
+#EXTINF:-1 tvg-id="DAZNDARTS.tv" tvg-name="DAZNDARTS.tv" tvg-logo="https://i.ibb.co/djqRSWR/dazn-darts.png" group-title="🇩🇪 Germany" ch-number="17" type="channel",DAZN DARTS
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b67f0424ade50008a3be17/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+
+#EXTINF:-1 tvg-id="DAZNHANDBALL.tv" tvg-name="DAZNHANDBALL.tv" tvg-logo="https://i.ibb.co/71SnB1f/dazn-handball.png" group-title="🇩🇪 Germany" ch-number="18" type="channel",DAZN HANDBALL
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6683f7fe36a2f9000804940c/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+
+#EXTINF:-1 tvg-id="DAZNHELDINNEN.tv" tvg-name="DAZNHELDINNEN.tv" tvg-logo="https://i.ibb.co/vvRcFzj/dazn-heldinnen.png" group-title="🇩🇪 Germany" ch-number="19" type="channel",DAZN HELDINNEN
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64afe50c5dc16600087f3227/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTINF:-1 tvg-id="DAZN1DE.de" tvg-name="DAZN1DE.de" tvg-logo="https://" group-title="🇩🇪 Germany" ch-number="20" type="channel",DAZN  1  DE
+https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-017/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTINF:-1 tvg-id="DAZN2DE.de" tvg-name="DAZN2DE.de" tvg-logo="https://i.ibb.co/Y7DJ0nd/D2.png" group-title="🇩🇪 Germany" ch-number="21" type="channel",DAZN  2  DE
+https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-018/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c
+#EXTINF:-1 tvg-id="EVENTOSPY.py" tvg-name="EVENTOSPY.py" tvg-logo="https://i.postimg.cc/Y2D0DfR1/tigo-sports-2.png" group-title="🇵🇾 Paraguay" ch-number="1" type="channel",Eventos Py
+https://sam-py-edge05.tigo.com.py/ccur-session/f9de91d275e9428d9b2020eaf9c3772017462185850761b65a320aeed11ebae01d90082191a3coPufp9yYB3qqtMFbxeMGTmPz/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf540550292693147fbf7
+#EXTINF:-1 tvg-id="EVENTOS+PY.py" tvg-name="EVENTOS+PY.py" tvg-logo="https://i.postimg.cc/vZ2db31z/tigo-sports-mas.png" group-title="🇵🇾 Paraguay" ch-number="1" type="channel",Eventos+ Py
+https://sam-py-edge05.tigo.com.py/ccur-session/f9de91d275e9428d9b2020eaf9c3772017462185850761b65a320aeed11ebae01d90082191a3coPufp9yYB3qqtMFbxeMGTmPz/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-id="DAZN.tv" tvg-name="DAZN.tv" tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="🇪🇸 Spain" ch-number="1" type="channel",Dazn
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
+#EXTINF:-1 tvg-id="LALIGAHYPERMOTION.tv" tvg-name="LALIGAHYPERMOTION.tv" tvg-logo="https://i.ibb.co/6BPTcTx/La-Liga-Hypermotion.png" group-title="🇪🇸 Spain" ch-number="1" type="channel",LaLiga Hypermotion
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
+#EXTINF:-1 tvg-id="PREMIERECLUBES.tv" tvg-name="PREMIERECLUBES.tv" tvg-logo="https://images.uncyc.org/pt/f/f1/Logotipo_PFC.png" group-title="🇧🇷 Brazil" ch-number="1" type="channel",Premiere Clubes
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+#EXTINF:-1 tvg-id="CAZÉTV.tv" tvg-name="CAZÉTV.tv" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" group-title="🇧🇷 Brazil" ch-number="1" type="channel",Cazé Tv
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+
+#EXTINF:-1 tvg-id="ESPNBR.br" tvg-name="ESPNBR.br" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="🇧🇷 Brazil" ch-number="1" type="channel",Espn Br
+http://new.m3u8.one/espn/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2245f48a5998442f835099d30f2e0305:f48f6ce816fe86d8c10587e9a7e927a3
+#EXTINF:-1 tvg-id="NOSSOFUTEBOL.tv" tvg-name="NOSSOFUTEBOL.tv" tvg-logo="https://i.postimg.cc/vHpNJTg0/nosso-futebol.png" group-title="🇧🇷 Brazil" ch-number="1" type="channel",Nosso Futebol
+https://livst.site/nossofutebol/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2245f48a5998442f835099d30f2e0305:f48f6ce816fe86d8c10587e9a7e927a3
+#EXTINF:-1 tvg-id="FISHTV.tv" tvg-name="FISHTV.tv" tvg-logo="https://media.licdn.com/dms/image/v2/D4D0BAQE5ftIHXLhsUg/company-logo_200_200/company-logo_200_200/0/1709142104082/fish_tv_logo?e=2147483647&v=beta&t=kfUYhmCG1Fwt4LRHyw3xPMcjOW0_v8McqZYto3k8u1o" group-title="🇧🇷 Brazil" ch-number="1" type="channel",Fish Tv
+https://livst.site/fishtv/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2245f48a5998442f835099d30f2e0305:f48f6ce816fe86d8c10587e9a7e927a3
+#EXTINF:-1 tvg-id="WOOHOO.tv" tvg-name="WOOHOO.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/WOOHOO.png" group-title="🇧🇷 Brazil" ch-number="1" type="channel",Woohoo
+https://livst.site/woohoo/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2245f48a5998442f835099d30f2e0305:f48f6ce816fe86d8c10587e9a7e927a3
+#EXTINF:-1 tvg-id="CANALOFF.tv" tvg-name="CANALOFF.tv" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="🇧🇷 Brazil" ch-number="1" type="channel",Canal Off
+https://livst.site/canaloff/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+#EXTINF:-1 tvg-id="PREMIERLEAGUE.tv" tvg-name="PREMIERLEAGUE.tv" tvg-logo="https://i.ibb.co/ZfVsgw9/peacock-premier-league.png" group-title="🇺🇸 USA" ch-number="1" type="channel",Premier League
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=78ab64fa90f137a697743b5dc27b2f96:de4d31c7fc6005ede28abab2a0720a9f
+#EXTINF:-1 tvg-id="USANETWORKEASTUS.us" tvg-name="USANETWORKEASTUS.us" tvg-logo="https://i.ibb.co/fN4bsYz/usa-network.png" group-title="🇺🇸 USA" ch-number="1" type="channel",Usa Network East Us
+https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
+#EXTINF:-1 tvg-id="NBCSPORTSNOW.tv" tvg-name="NBCSPORTSNOW.tv" tvg-logo="https://i.postimg.cc/sXLGTmh7/nbc-sports-now.png" group-title="🇺🇸 USA" ch-number="1" type="channel",Nbc Sports Now
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
+#EXTINF:-1 tvg-id="NFLCHANNEL.tv" tvg-name="NFLCHANNEL.tv" tvg-logo="https://i.postimg.cc/prp6YxDk/nfl-channel.png" group-title="🇺🇸 USA" ch-number="1" type="channel",Nfl Channel
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
+#EXTINF:-1 tvg-id="WWENETWORK.tv" tvg-name="WWENETWORK.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/510px-WWE_official_logo.svg.png" group-title="🇺🇸 USA" ch-number="1" type="channel",Wwe Network
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f283293f48534648b74ddeda0cd283dd:BAAA81B9144162D81DA11D4A7E302017
+#EXTINF:-1 tvg-id="NBATV.tv" tvg-name="NBATV.tv" tvg-logo="https://i.ibb.co/82QvHTH/ar-nba-tv.png" group-title="🇺🇸 USA" ch-number="1" type="channel",Nba Tv
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6792c30abc03978b9b8bb832/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+
+#EXTINF:-1 tvg-id="MLB.tv" tvg-name="MLB.tv" tvg-logo="https://i.ibb.co/QCPQkjk/mlb.png" group-title="🇺🇸 USA" ch-number="1" type="channel",Mlb
+https://d2rz3em7ql838g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cy872esk4qweb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHL.tv" tvg-name="NHL.tv" tvg-logo="https://i.postimg.cc/L6GrDqQP/nhl.png" group-title="🇺🇸 USA" ch-number="1" type="channel",Nhl
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NHL.m3u8
+
+#EXTINF:-1 tvg-id="CBSSPORTSHQ.tv" tvg-name="CBSSPORTSHQ.tv" tvg-logo="https://i.ibb.co/gMGQfQh/cbs-sports.png" group-title="🇺🇸 USA" ch-number="1" type="channel",Cbs Sports Hq
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="FS1.tv" tvg-name="FS1.tv" tvg-logo="https://i.postimg.cc/qM94jmQL/fs1.png" group-title="🇺🇸 USA" ch-number="1" type="channel",Fs1
+http://212.102.60.10/FOX_Sports_1/index.m3u8
+
+#EXTINF:-1 tvg-id="FS2.tv" tvg-name="FS2.tv" tvg-logo="https://i.postimg.cc/66f3DKxT/fs2.png" group-title="🇺🇸 USA" ch-number="1" type="channel",Fs2
+http://212.102.60.231/FOX_SPORTS_2/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ce74377a7ef424f2d02dad8183b705c:e43e2bcf8896788ec98c512d9261fc05
+#EXTINF:-1 tvg-id="SPORTSNETONTARIO.tv" tvg-name="SPORTSNETONTARIO.tv" tvg-logo="https://i.ibb.co/bXKrRy0/SNO.webp" group-title="🇨🇦 Canada" ch-number="1" type="channel",Sportsnet Ontario
+https://abm5x5xaaaaaaaamokzihhhbv2tc7.ottb.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ilbt1qivcc/out/v1/51086e31852b4164a39b4318b4b3c7ed/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:619353d8d5eb758c69fc3c2249205a1c
+#EXTINF:-1 tvg-id="TSN1.tv" tvg-name="TSN1.tv" tvg-logo="https://i.postimg.cc/pL21qDYp/tsn1.png" group-title="🇨🇦 Canada" ch-number="1" type="channel",Tsn 1
+http://212.102.60.231/TSN_1/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=01a665d487aa4c1c898c9eb0ff1a21df:a0b9df5f92e6b218ddb6aa40a2cd996d
+#EXTINF:-1 tvg-id="EUROSPORT1.eu" tvg-name="EUROSPORT1.eu" tvg-logo="https://i.ibb.co/RDTLvNB/eurosport1b.png" group-title="🇪🇺 Europe" ch-number="1" type="channel",Eurosport 1
+https://v4-pan-m3-cdn-02.live.cdn.cgates.lt:443/live/dash/561802/index.mpd
+
+#EXTINF:-1 tvg-id="TENNISCHANNEL.tv" tvg-name="TENNISCHANNEL.tv" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20230809T053838SQUARE.png_20230809053839.png" group-title="🇺🇸 USA" ch-number="1" type="channel",Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="T2LIVETENNIS.tv" tvg-name="T2LIVETENNIS.tv" tvg-logo="https://i.ibb.co/m8rwcJy/T2-live-tennis.png" group-title="🇺🇸 USA" ch-number="1" type="channel",T2 Live Tennis
+https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="COURTSPORTSNETWORK.tv" tvg-name="COURTSPORTSNETWORK.tv" tvg-logo="https://i.ibb.co/yqPXJjW/court-sports.png" group-title="🇺🇸 USA" ch-number="1" type="channel",Court Sports Network
+https://linear-627.frequency.stream/dist/distrotv/627/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GOLFPASS.tv" tvg-name="GOLFPASS.tv" tvg-logo="https://i.ibb.co/SxhPjMG/golfpass.png" group-title="🇺🇸 USA" ch-number="1" type="channel",Golfpass
+https://d1fqmru92jnl1h.cloudfront.net/live/master.m3u8
+
+#EXTINF:-1 tvg-id="PGATOUR.tv" tvg-name="PGATOUR.tv" tvg-logo="https://i.postimg.cc/wTW0qQPh/pga-tour.png" group-title="🇺🇸 USA" ch-number="1" type="channel",Pga Tour
+https://dbrb49pjoymg4.cloudfront.net/10001/99991281/hls/playlist.m3u8?ads.xumo_channelId=99991281
+
+#EXTINF:-1 tvg-id="GOLFNATION.tv" tvg-name="GOLFNATION.tv" tvg-logo="https://i.ibb.co/vYYfSNg/golf-nation.png" group-title="🇺🇸 USA" ch-number="1" type="channel",Golf Nation
+https://linear-612.frequency.stream/dist/vizio/612/hls/master/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+#EXTINF:-1 tvg-id="TNTSPORTS1UK.uk" tvg-name="TNTSPORTS1UK.uk" tvg-logo="https://i.ibb.co/M2XfypX/tnt1.png" group-title="🇬🇧 UK" ch-number="1" type="channel",Tnt Sports 1 Uk
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rdznpzcmct/out/v1/355324ed98a94cbebbaff4bad0cd28ce/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+#EXTINF:-1 tvg-id="FUBOSPORTS.tv" tvg-name="FUBOSPORTS.tv" tvg-logo="https://images.fubo.tv/station_logos/fubo-sports23_m.png" group-title="🇺🇸 USA" ch-number="1" type="channel",Fubo Sports
+https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+#EXTINF:-1 tvg-id="WILLOWSPORTS.tv" tvg-name="WILLOWSPORTS.tv" tvg-logo="https://i.postimg.cc/kX5JFXGX/willow-sports.png" group-title="🇺🇸 USA" ch-number="1" type="channel",Willow Sports
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=159a2b4e1d2d7f16892d35d935a2fb34:07809840dd0f511221ca78459167d1b3
+#EXTINF:-1 tvg-id="FANCODE.tv" tvg-name="FANCODE.tv" tvg-logo="https://i.postimg.cc/c4tjNV5B/fancode.png" group-title="🇮🇳 India" ch-number="1" type="channel",Fancode
+https://a39aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/gdhz5mhnyu/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7aa124253d518f18740c5bd932d581a3:1819c82fc27225f5e79ae189ddece0ea
+#EXTINF:-1 tvg-id="PRIME.tv" tvg-name="PRIME.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Amazon_Prime_logo_%282022%29.svg/2560px-Amazon_Prime_logo_%282022%29.svg.png" group-title="🇺🇸 USA" ch-number="1" type="channel",Prime
+https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/dash/enc/cw64xbclda/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+#EXTINF:-1 tvg-id="SSC1.tv" tvg-name="SSC1.tv" tvg-logo="https://i.ibb.co/LRGKSN7/Logo-SSC1-HD.png" group-title="🇸🇦 Saudi Arabia" ch-number="1" type="channel",Ssc 1
+https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+#EXTINF:-1 tvg-id="BEINSPORTSXTRA.tv" tvg-name="BEINSPORTSXTRA.tv" tvg-logo="https://image.xumo.com/v1/channels/channel/99991387/500x400.webp?type=color_onBlack" group-title="🇺🇸 USA" ch-number="1" type="channel",Bein Sports Xtra
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TOPBARÇA.tv" tvg-name="TOPBARÇA.tv" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ff403089-1c81-41d3-bb18-b817b1f01721.jpeg" group-title="🇪🇸 Spain" ch-number="1" type="channel",Top Barça
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SPORTDIGITALFREE.tv" tvg-name="SPORTDIGITALFREE.tv" tvg-logo="https://i.ibb.co/XX6rKD0/sdf.png" group-title="🇩🇪 Germany" ch-number="1" type="channel",Sportdigital Free
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/3af04d27-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-id="SCOOORE.tv" tvg-name="SCOOORE.tv" tvg-logo="https://i.ibb.co/pfHxtNN/scooore.png" group-title="🇧🇪 Belgium" ch-number="1" type="channel",Scooore
+https://d2wx5pojhvi302.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yatnu9bygek82/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0
+#EXTINF:-1 tvg-id="SPORT1.tv" tvg-name="SPORT1.tv" tvg-logo="https://i.ibb.co/DG6ZNVM/sport1-de.png" group-title="🇩🇪 Germany" ch-number="1" type="channel",Sport1
+https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd?DVR
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c47daad9bece835d4d4a77ea8e851115:e369ce0b7828671d8ae1d271502dfedf
+#EXTINF:-1 tvg-id="KHLPRIME.tv" tvg-name="KHLPRIME.tv" tvg-logo="https://i.postimg.cc/7hXrZhqh/khl-prime.png" group-title="🇷🇺 Russia" ch-number="1" type="channel",Khl Prime
+http://video.beeline.tv/live/d/channel362.isml/manifest-stb.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8d1a36f394fb8e6bd462a866173b50b:def989972f28b35f41a37e50863b69b8
+#EXTINF:-1 tvg-id="VIJU+SPORT.tv" tvg-name="VIJU+SPORT.tv" tvg-logo="https://i.postimg.cc/zBgfvnQB/viju-plus-sport.png" group-title="🇷🇺 Russia" ch-number="1" type="channel",Viju+ Sport
+http://video.beeline.tv/live/d/channel173.isml/manifest-stb.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a21b3a63ec7a17a8a6c5da6a48cab3d5:b33b26a922c281d2fc73d639b83ee54c
+#EXTINF:-1 tvg-id="MIRBASKETBOLA.tv" tvg-name="MIRBASKETBOLA.tv" tvg-logo="https://i.postimg.cc/kGHRznL6/mir-basketbola.png" group-title="🇷🇺 Russia" ch-number="1" type="channel",Mir Basketbola
+http://video.beeline.tv/live/d/channel423.isml/manifest-stb.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=99121a28e306126ec028a509bca29611:a450460af530c9379cccba16e882d6a4
+#EXTINF:-1 tvg-id="FAST&FUNBOXHD.tv" tvg-name="FAST&FUNBOXHD.tv" tvg-logo="https://spiintl.com/data/files/zdjecie/8c/56/8c56d85b6be673fc6e0aa365cb321983ec4ea990edf333923b864bc71f07d447.png" group-title="🇷🇺 Russia" ch-number="1" type="channel",Fast&Fun Box Hd
+http://video.beeline.tv/live/d/channel343.isml/manifest-stb.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=24b00cb19f8f9f896d6fd119b227c065:a18a403dc45899fde71f9328d38e1653
+#EXTINF:-1 tvg-id="FIGHTBOXHD.tv" tvg-name="FIGHTBOXHD.tv" tvg-logo="https://spiintl.com/data/files/zdjecie/c0/de/c0de4296cb6087762e595bb1387ddf8852d9ecbde582e0e35c7e4af1bfc5e342.png" group-title="🇷🇺 Russia" ch-number="1" type="channel",Fight Box Hd
+http://video.beeline.tv/live/d/channel367.isml/manifest-stb.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d389849a6fba0daea2454eecb637c86c:907ba051fd4233cfca4b7ee90905bcf9
+#EXTINF:-1 tvg-id="BOXSTV.tv" tvg-name="BOXSTV.tv" tvg-logo="https://i.postimg.cc/C163ftWH/boks-tv.png" group-title="🇷🇺 Russia" ch-number="1" type="channel",Boxs Tv
+http://video.beeline.tv/live/d/channel064.isml/manifest-stb.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb18baf4c7a6615c0c084aec834a2672:100f9c0dabf680f2416bdbcc9e8377bb
+#EXTINF:-1 tvg-id="MMA-TV.COM.tv" tvg-name="MMA-TV.COM.tv" tvg-logo="https://i.postimg.cc/PrbSg923/mma-tv-com.png" group-title="🇷🇺 Russia" ch-number="1" type="channel",Mma-Tv.Com
+http://video.beeline.tv/live/d/channel361.isml/manifest-stb.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=660a37a91aa00b7e2e0bc7dca349b982:3593a4a2bfbd7d9585efff083b769cf5
+#EXTINF:-1 tvg-id="MATCH!BOEC.tv" tvg-name="MATCH!BOEC.tv" tvg-logo="https://i.ibb.co/M69CMBs/match-boec.png" group-title="🇷🇺 Russia" ch-number="1" type="channel",Match! Boec
+http://video.beeline.tv/live/d/channel377.isml/manifest-stb.mpd
+
+#EXTINF:-1 tvg-id="BELARUS5INTERNET.tv" tvg-name="BELARUS5INTERNET.tv" tvg-logo="https://i.ibb.co/sgbg5Jh/Belarus-5-Internet.png" group-title="🇧🇾 Belarus" ch-number="1" type="channel",Belarus 5 Internet
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZONATUDNUS(GEO).us" tvg-name="ZONATUDNUS(GEO).us" tvg-logo="https://i.ibb.co/WDt6Sc6/zona-tudn.png" group-title="🇺🇸 USA" ch-number="1" type="channel",Zona Tudn Us (Geo)
+https://d3uyzgka2wjb00.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-210b4ta87o6ku/server/distrib/jNRQRKsWY2kxcEBj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqmz_IT731OUAvvJWUO7I8b4d6FbvMORdXi-V3pCAiBr0JARhscS-3WkU6FOUBwPwJnqMv4GCOc2gutqomsrHRTSUl3Uveb3OckqNB_uKGZyqp1MN-AQSrGdqPGHIh4ZkM1qcJ0EK7zvf7UnRlwZAqGWGOqra8-Rqhg0wiraCQIS5xbUshW63EISyP5F69-b62g/manifest.m3u8
+
+#EXTINF:-1 tvg-id="FIFA+.tv" tvg-name="FIFA+.tv" tvg-logo="https://i.ibb.co/DrKBzfw/fifa-plus.png" group-title="🌐 International" ch-number="1" type="channel",Fifa+
+https://2269f743.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtdXNfRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+#EXTINF:-1 tvg-id="HRT2.tv" tvg-name="HRT2.tv" tvg-logo="https://tv-hr-prod.yo-digital.com/prod/images/logos/800/450/703d9fc27295ee3473d016e2aa6bcfe3.000002.PNG" group-title="🇭🇷 Croatia" ch-number="1" type="channel",Hrt 2
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
+#EXTINF:-1 tvg-id="SETANTASPORTS1.eu" tvg-name="SETANTASPORTS1.eu" tvg-logo="https://i.ibb.co/tH0nBGR/setanta-sports-1.png" group-title="🇪🇺 Europe" ch-number="1" type="channel",Setanta Sports 1
+https://v4-kun-nk16-cdn-01.live.cdn.cgates.lt/live/dash/561002/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c991c368916e42b4863434de3e1761f6:de737ed43aa92c98d4c89e32aa2408ce
+#EXTINF:-1 tvg-id="SPORT1.eu" tvg-name="SPORT1.eu" tvg-logo="https://i.ibb.co/y50XVXW/sport-1-hd.png" group-title="🇪🇺 Europe" ch-number="1" type="channel",Sport 1
+https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/560210/index.mpd
+
+#EXTINF:-1 tvg-id="L'ÉQUIPELIVE1.tv" tvg-name="L'ÉQUIPELIVE1.tv" tvg-logo="https://i.ibb.co/rxv9Phm/lequipe1.png" group-title="🇫🇷 France" ch-number="1" type="channel",L'Équipe Live 1
+https://d3awaj0f2u3w26.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/master.m3u8
+
+#EXTINF:-1 tvg-id="UNBEATEN.tv" tvg-name="UNBEATEN.tv" tvg-logo="https://i.ibb.co/n3sjJ1d/unbeaten.png" group-title="🇺🇸 USA" ch-number="1" type="channel",Unbeaten
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-lges/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ACCDIGITALNETWORK.tv" tvg-name="ACCDIGITALNETWORK.tv" tvg-logo="https://image.xumo.com/v1/channels/channel/99991315/500x400.webp?type=color_onBlack" group-title="🇺🇸 USA" ch-number="1" type="channel",Acc Digital Network
+https://dbrb49pjoymg4.cloudfront.net/10001/99991315/hls/playlist.m3u8?ads.xumo_channelId=99991315
+
+#EXTINF:-1 tvg-id="PAC12INSIDER.tv" tvg-name="PAC12INSIDER.tv" tvg-logo="https://image.xumo.com/v1/channels/channel/99991143/500x400.webp?type=color_onBlack" group-title="🇺🇸 USA" ch-number="1" type="channel",Pac 12 Insider
+https://pac12-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BEKSPORTS.tv" tvg-name="BEKSPORTS.tv" tvg-logo="https://i.ibb.co/VwMZgMZ/bek-sports.png" group-title="🇺🇸 USA" ch-number="1" type="channel",Bek Sports
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil%3aBEKPRIMEW.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DRAFTKINGSNETWORK.tv" tvg-name="DRAFTKINGSNETWORK.tv" tvg-logo="https://image.xumo.com/v1/channels/channel/99951265/500x400.webp?type=color_onBlack" group-title="🇺🇸 USA" ch-number="1" type="channel",Draftkings Network
+https://d2irko5f9gt1c5.cloudfront.net/10008/99951265/hls/playlist.m3u8?ads.xumo_channelId=99951265
+
+#EXTINF:-1 tvg-id="STRONGMANCHAMPIONSLEAGUE.tv" tvg-name="STRONGMANCHAMPIONSLEAGUE.tv" tvg-logo="https://image.xumo.com/v1/channels/channel/99951180/500x400.webp?type=color_onBlack" group-title="🇺🇸 USA" ch-number="1" type="channel",Strongman Champions League
+https://d2irko5f9gt1c5.cloudfront.net/10008/99951180/hls/playlist.m3u8?ads.xumo_channelId=99951180
+
+#EXTINF:-1 tvg-id="COMBATEGLOBAL.tv" tvg-name="COMBATEGLOBAL.tv" tvg-logo="https://i.postimg.cc/L4CSKz5S/combate-global.png" group-title="🇺🇸 USA" ch-number="1" type="channel",Combate Global
+https://d1u6wgaa8xb3mk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9fazlfu4at6aj/server/distrib/QDLoJT9yeWXS4WJP6/zuvPJYoOOdEMDNF2j2mvmg.u11pIHHxg4zn_J5_7NMwCvbxoAihWCJsSeWRKxhEKeoFgynWSWKVB3Jj4tTtIZWWcoaFPXDCjGvkNCD5r3qc8iuea_TCCOedUj2PegrO6kozyyjPsrlkz2DJ_dCfvxqdTxvlzkjhMHtTFaBoYlyZQf7MVggFEv4XSUNSJIBMujHhn5guG50Cdd9mIqIzFjbAxl3RiWCqeweKVNSQFxI-PA/manifest.m3u8
+
+#EXTINF:-1 tvg-id="HARDKNOCKS.tv" tvg-name="HARDKNOCKS.tv" tvg-logo="https://i.ibb.co/MGq0gyX/hard-knocks.webp" group-title="🇺🇸 USA" ch-number="1" type="channel",Hard Knocks
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
+
+#EXTINF:-1 tvg-id="BOXINGTV.tv" tvg-name="BOXINGTV.tv" tvg-logo="https://image.xumo.com/v1/channels/channel/99951154/500x400.webp?type=color_onBlack" group-title="🇺🇸 USA" ch-number="1" type="channel",Boxing Tv
+https://d2irko5f9gt1c5.cloudfront.net/10008/99951154/hls/BOXINGTV_SCTE.m3u8?ads.xumo_channelId=99951154
+
+#EXTINF:-1 tvg-id="UFC.tv" tvg-name="UFC.tv" tvg-logo="https://image.xumo.com/v1/channels/channel/99951134/500x400.webp?type=color_onBlack" group-title="🇺🇸 USA" ch-number="1" type="channel",Ufc
+https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
+
+#EXTINF:-1 tvg-id="MMATV.tv" tvg-name="MMATV.tv" tvg-logo="https://i.ibb.co/ZhxL3T3/mma-tv.png" group-title="🇺🇸 USA" ch-number="1" type="channel",Mma Tv
+https://daiconnect.com/live/hls/tvup/tvfy-mma/.m3u8
+
+#EXTINF:-1 tvg-id="PROFESSIONALFIGHTERSLEAGUE.tv" tvg-name="PROFESSIONALFIGHTERSLEAGUE.tv" tvg-logo="https://image.xumo.com/v1/channels/channel/99951203/500x400.webp?type=color_onBlack" group-title="🇺🇸 USA" ch-number="1" type="channel",Professional Fighters League
+https://d2irko5f9gt1c5.cloudfront.net/10008/99951203/hls/playlist.m3u8?ads.xumo_channelId=99951203
+
+#EXTINF:-1 tvg-id="FITE24/7.tv" tvg-name="FITE24/7.tv" tvg-logo="https://i.ibb.co/pjHcQHK/FITE247.png" group-title="🇺🇸 USA" ch-number="1" type="channel",Fite 24/7
+https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-DistroTV/263.m3u8
+
+#EXTINF:-1 tvg-id="SWERVECOMBAT.tv" tvg-name="SWERVECOMBAT.tv" tvg-logo="https://i.ibb.co/2gDHQxW/swerve-combat.png" group-title="🇺🇸 USA" ch-number="1" type="channel",Swerve Combat
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/swerve-combat/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UFA.tv" tvg-name="UFA.tv" tvg-logo="https://i.ibb.co/CmdBHzB/ufa.png" group-title="🇺🇸 USA" ch-number="1" type="channel",Ufa
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
+
+#EXTINF:-1 tvg-id="FIGHTINGSPIRITTV.tv" tvg-name="FIGHTINGSPIRITTV.tv" tvg-logo="https://i.ibb.co/sFvRTLs/fs.png" group-title="🇺🇸 USA" ch-number="1" type="channel",Fighting Spirit Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fighting-spirit-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="CHANNELFIGHT.tv" tvg-name="CHANNELFIGHT.tv" tvg-logo="https://i.ibb.co/sVwQKzC/channel-fight.jpg" group-title="🇺🇸 USA" ch-number="1" type="channel",Channel Fight
+https://d15wqvt0xm15k4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ChannelFight-DistroTV/266.m3u8
+
+#EXTINF:0 tvg-name="Arg | Dsports" tvg-logo="http://imgfz.com/i/K9j8TPJ.png" group-title="🇦🇷 Argentina" type="channel",Arg | Dsports
+http://vip-latin.com/live/Premium2025/Premium2025/383700.m3u8
+
+#EXTINF:0 tvg-name="Ecu | Dsports" tvg-logo="http://imgfz.com/i/K9j8TPJ.png" group-title="🇪🇨 Ecuador" type="channel",Ecu | Dsports
+http://vip-latin.com/live/Premium2025/Premium2025/383702.m3u8
+
+#EXTINF:0 tvg-name="Dsports | 2" tvg-logo="http://imgfz.com/i/TkDRZGX.png" group-title="🌎 LATAM" type="channel",Dsports | 2
+http://vip-latin.com/live/Premium2025/Premium2025/383706.m3u8
+
+#EXTINF:0 tvg-name="Dsports | Plus" tvg-logo="http://imgfz.com/i/sXBEQnh.png" group-title="🌎 LATAM" type="channel",Dsports | Plus
+http://vip-latin.com/live/Premium2025/Premium2025/384258.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+#EXTINF:-1 tvg-id="TNTSPORTS1UK.uk" tvg-name="TNTSPORTS1UK.uk" tvg-logo="https://i.ibb.co/M2XfypX/tnt1.png" group-title="🇬🇧 UK" ch-number="78" type="channel",TNT SPORTS 1 UK
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rdznpzcmct/out/v1/355324ed98a94cbebbaff4bad0cd28ce/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+#EXTINF:-1 tvg-id="TNTSPORTS2UK.uk" tvg-name="TNTSPORTS2UK.uk" tvg-logo="https://i.ibb.co/gFpYs4N/tnt2.png" group-title="🇬🇧 UK" ch-number="79" type="channel",TNT SPORTS 2 UK
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+#EXTINF:-1 tvg-id="TNTSPORTS3UK.uk" tvg-name="TNTSPORTS3UK.uk" tvg-logo="https://i.ibb.co/R6d05KZ/tnt3.png" group-title="🇬🇧 UK" ch-number="80" type="channel",TNT SPORTS 3 UK
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+#EXTINF:-1 tvg-id="TNTSPORTS4UK.uk" tvg-name="TNTSPORTS4UK.uk" tvg-logo="https://i.ibb.co/52R1cbw/tnt4.png" group-title="🇬🇧 UK" ch-number="81" type="channel",TNT SPORTS 4 UK
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+#EXTINF:-1 tvg-id="TNTSPORTS5UK.uk" tvg-name="TNTSPORTS5UK.uk" tvg-logo="https://i.ibb.co/gyzGJ7f/tnt5.png" group-title="🇬🇧 UK" ch-number="82" type="channel",TNT SPORTS 5 UK
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
+
+#EXTINF:-1 tvg-id="FIFA+.tv" tvg-name="FIFA+.tv" tvg-logo="https://i.ibb.co/DrKBzfw/fifa-plus.png" group-title="🌐 International" ch-number="123" type="channel",FIFA+
+https://2269f743.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtdXNfRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
+#EXTINF:-1 tvg-name="SSC_NEWS" group-title="🇸🇦 Saudi Arabia" type="channel",SSC_NEWS
+https://ssc-news-live-ak.akamaized.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d04975236a44f62857d181597705ee6:362133e9cb13189ad4fe095ced216f60
+#EXTINF:-1 tvg-name="ziggo2" group-title="🇳🇱 Netherlands" type="channel",ziggo2
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
+#EXTINF:-1 tvg-name="ziggo3" group-title="🇳🇱 Netherlands" type="channel",ziggo3
+https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
+#EXTINF:-1 tvg-name="ziggo5" group-title="🇳🇱 Netherlands" type="channel",ziggo5
+https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
+#EXTINF:-1 tvg-name="ziggo6" group-title="🇳🇱 Netherlands" type="channel",ziggo6
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
+#EXTINF:-1 tvg-name="MOVISTAR LIGA CAMPEONES" tvg-logo="https://logo.iptveditor.com/mligacampeones.png" group-title="🇪🇸 Spain" type="channel",M+ La Liga Campeones
+http://cdn1host.online:2999//kratorius/opLcbhlXaT/1773
+
+#EXTINF:-1 tvg-name="SportDigital 🇩🇪" tvg-logo="https://i.postimg.cc/VNdQNj3H/fuss.png" group-title="🇩🇪 Germany" type="channel",SportDigital
+http://tv.cloudcdn.me:80/live.ts?channelId=125661&deviceMac=00:1A:79:0A:3B:2D
+
+#EXTINF:-1 tvg-name="Eleven sports 2 🇵🇱" tvg-logo="https://logo.iptveditor.com/elevensport2.png" group-title="🇵🇱 Poland" type="channel",Eleven sports 2
+http://pro-solut-xi.eu:5436//live/live:dinjo79/SkypeDinjo@telon.al/16498.ts
+
+#EXTINF:-1 tvg-name="Eleven sports 3 🇵🇱" tvg-logo="https://logo.iptveditor.com/elevensport3.png" group-title="🇵🇱 Poland" type="channel",Eleven sports 3
+http://pro-solut-xi.eu:5436//live/live:dinjo79/SkypeDinjo@telon.al/16499.m3u8
+
+#EXTINF:-1 tvg-name="Chapa 1" tvg-logo="https://logo.iptveditor.com/sporttv1.png" group-title="🇵🇹 Portugal" type="channel",Chapa 1
+https://github.com/inspirationlinks/m3u/raw/live/Streams/chapa1.m3u8
+
+#EXTINF:-1 tvg-name="Ring 🇧🇬" tvg-logo="https://logo.iptveditor.com/sporttv3.png" group-title="🇧🇬 Bulgaria" type="channel",Ring
+https://github.com/inspirationlinks/m3u/raw/live/Streams/chapa2.m3u8
+
+#EXTINF:-1 tvg-name="Cytavision Sports 5 🇨🇾" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cytavision-sports.png" group-title="🇨🇾 Cyprus" type="channel",Cytavision Sports 5
+https://windnew.newkso.ru/wind/premium915/mono.m3u8
+
+#EXTINF:-1 tvg-name="Cytavision Sports 6 🇨🇾 🏎️" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cytavision-sports.png" group-title="🇨🇾 Cyprus" type="channel",Cytavision Sports 6 🏎️
+https://windnew.newkso.ru/wind/premium916/mono.m3u8
+
+#EXTINF:-1 tvg-name="TSN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="🇨🇦 Canada" type="channel",TSN 1
+http://212.102.60.231/TSN_1/index.m3u8
+
+#EXTINF:-1 tvg-name="TSN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="🇨🇦 Canada" type="channel",TSN 2
+http://212.102.60.231/TSN_2/index.m3u8
+
+#EXTINF:-1 tvg-name="TSN 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="🇨🇦 Canada" type="channel",TSN 3
+http://212.102.60.231/TSN_3/index.m3u8
+
+#EXTINF:-1 tvg-name="TSN 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="🇨🇦 Canada" type="channel",TSN 4
+http://212.102.60.231/TSN_4/index.m3u8
+
+#EXTINF:-1 tvg-name="TSN 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="🇨🇦 Canada" type="channel",TSN 5
+http://212.102.60.231/TSN_5/index.m3u8
+
+#EXTINF:-1 tvg-name="VSport Vinter" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="🇸🇪 Sweden" type="channel",V Sport (Vinter)
+http://62.210.211.188:2095/play/a00q
+
+#EXTINF:-1 tvg-name="VSport 1" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="🇸🇪 Sweden" type="channel",V Sport 1
+http://62.210.211.188:2095/play/a002
+
+#EXTINF:-1 tvg-name="VSport 2" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="🇸🇪 Sweden" type="channel",V Sport 2
+http://62.210.211.188:2095/play/a003
+
+#EXTINF:-1 tvg-name="VSport 3" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="🇸🇪 Sweden" type="channel",V Sport 3
+http://62.210.211.188:2095/play/a004
+
+#EXTINF:-1 tvg-name="VSport 4" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="🇸🇪 Sweden" type="channel",V Sport 4
+http://62.210.211.188:2095/play/a005
+
+#EXTINF:-1 tvg-name="True SPORT 1" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="🇹🇭 Thailand" type="channel",True SPORT 1
+http://myserver.myphuket.net:25461/test2/test2/58
+
+#EXTINF:-1 tvg-name="True SPORT 2" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="🇹🇭 Thailand" type="channel",True SPORT 2
+http://myserver.myphuket.net:25461/test2/test2/59
+
+#EXTINF:-1 tvg-name="True SPORT 3" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="🇹🇭 Thailand" type="channel",True SPORT 3
+http://myserver.myphuket.net:25461/test2/test2/29
+
+#EXTINF:-1 tvg-name="True SPORT 7" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="🇹🇭 Thailand" type="channel",True SPORT 7
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/true7.m3u8
+
+#EXTINF:-1 tvg-name="True SPORT PREMIER LEAGUE 1" tvg-logo="https://truevisions.co.th/static/ba1de35c-8a25-47de-a27c-5cd8f705a14f.png" group-title="🇹🇭 Thailand" type="channel",True SPORT PREMIER LEAGUE 1
+http://myserver.myphuket.net:25461/test2/test2/26
+
+#EXTINF:-1 tvg-name="True SPORT PREMIER LEAGUE 2" tvg-logo="https://truevisions.co.th/static/f815743f-72e1-4dcc-ad17-925657183a24.png" group-title="🇹🇭 Thailand" type="channel",True SPORT PREMIER LEAGUE 2
+http://myserver.myphuket.net:25461/test2/test2/27
+
+#EXTINF:-1 tvg-name="True SPORT PREMIER LEAGUE 3" tvg-logo="https://truevisions.co.th/static/1c11f698-75a0-449d-8a79-6a52be569911.png" group-title="🇹🇭 Thailand" type="channel",True SPORT PREMIER LEAGUE 3
+http://myserver.myphuket.net:25461/test2/test2/28
+
+#EXTINF:-1 tvg-name="Go3 Sport 1 (MPD)" tvg-logo="https://static3.go3.tv/file/go3/resources/logos/OM.png" group-title="🇱🇹 Lithuania" type="channel",Go3 Sport 1 (MPD)
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
+#EXTINF:-1 tvg-name="Go3 Sport 2 (MPD)" tvg-logo="https://static3.go3.tv/file/go3/resources/logos/OM.png" group-title="🇱🇹 Lithuania" type="channel",Go3 Sport 2 (MPD)
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615
+#EXTINF:-1 tvg-name="Go3 Sport 3 (MPD)" tvg-logo="https://static3.go3.tv/file/go3/resources/logos/OM.png" group-title="🇱🇹 Lithuania" type="channel",Go3 Sport 3 (MPD)
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
+#EXTINF:-1 tvg-name="GO3 Sport OPEN (MPD)" tvg-logo="https://i.ibb.co.com/JQXQfyq/go3sportopen.png" group-title="🇱🇹 Lithuania" type="channel",GO3 Sport OPEN (MPD)
+https://tr.live.cdn.cgates.lt/live/dash/561402/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+#EXTINF:-1 tvg-name="PeacockTV EPL Live" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" group-title="🇺🇸 USA" type="channel",PeacockTV EPL Live
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+#EXTINF:-1 tvg-name="PeacockTV Live Sports" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" group-title="🇺🇸 USA" type="channel",PeacockTV Live Sports
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+#EXTINF:-1 tvg-name="PeacockTV Premier League" tvg-logo=" " group-title="🇺🇸 USA" type="channel",PeacockTV Premier League
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+#EXTINF:-1 tvg-name="Peacock 1" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" group-title="🇺🇸 USA" type="channel",Peacock 1
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+#EXTINF:-1 tvg-name="Peacock 2" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" group-title="🇺🇸 USA" type="channel",Peacock 2
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
+#EXTINF:-1 tvg-name="NBC Sport Peacock" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737" group-title="🇺🇸 USA" type="channel",NBC Sport Peacock
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+
+#EXTINF:-1 tvg-name="SPOTV 1 (indiHOME TV)" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="🇮🇩 Indonesia" type="channel",SPOTV 1 (indiHOME TV)
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+#EXTINF:-1 tvg-name="SPOTV 2 (indiHOME TV)" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="🇮🇩 Indonesia" type="channel",SPOTV 2 (indiHOME TV)
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+#EXTINF:-1 tvg-name="FOX SPORTS TV MEXICO" tvg-logo="https://www.izzigo.tv/images/ch/309/LOGO/m/0" group-title="🇲🇽 Mexico" type="channel",FOX SPORTS TV MEXICO
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/FOX-SPORTS-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e276bd34034a2c4dcf61d74e1242fbf:4b466a4affb61d2672a4194b14e10ef2
+#EXTINF:-1 tvg-name="Fox Sports 1 USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1280px-2015_Fox_Sports_1_logo.svg.png" group-title="🇺🇸 USA" type="channel",Fox Sports 1 USA
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+#EXTINF:-1 tvg-name="SkySportsMX" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/4Tdv5fRuFYHPU5f2LZwYnv/8dcdb0cbd2a8b1c51732f44f8769fcf9/slidecanales-skysports.png" group-title="🇲🇽 Mexico" type="channel",Sky Sports Mexico
+https://aka-live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-HD/default.mpd
+
+#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="🇸🇬 Singapore" type="channel",Channel 5 HD SG
+https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
+#EXTINF:-1 tvg-name="Channel 8" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="🇸🇬 Singapore" type="channel",Channel 8 HD SG
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=970d551e974d4a82b45213dc07541131:7586b55fcb4807a5b74764e5564d8095
+#EXTINF:-1 tvg-name="Channel U" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="🇸🇬 Singapore" type="channel",Channel U HD SG
+https://do2ibj89ih8kz.cloudfront.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=981fda1d42aa4d81b367d85794447e2a:61f0b7e53768214d4d56917fbcfc2723
+#EXTINF:-1 tvg-name="Suria" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" group-title="🇸🇬 Singapore" type="channel",Suria HD SG
+https://d19h5fcpqoh625.cloudfront.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
+#EXTINF:-1 tvg-name="Vasantham" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png" group-title="🇸🇬 Singapore" type="channel",Vasantham HD SG
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=239d5a09def64776bec6c74271dfafa9:8e3c76df4951eaa21e9c9c28af6b56d1
+#EXTINF:-1 tvg-name="M LIVE 1" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318742'&EntityType='Item'&EntityId='97073'&Width=488&Height=249" group-title="🇸🇬 Singapore" type="channel",M LIVE 1
+https://tglmp04.akamaized.net/out/v1/b38b8a6306714a8e91ae7674291a4a94/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"By5hGjg6LR49TY6hngFqcQ", "kid":"9RWBlMxAROaZ0N8Bdy8iEg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-name="M SPL 1" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg" group-title="🇸🇬 Singapore" type="channel",M SPL 1
+https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sub/8k2mdlSvVI/mGqa9Wg", "kid":"3rbITbTcRXi9qmHpZbNCTA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-name="M SPL 2" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg" group-title="🇸🇬 Singapore" type="channel",M SPL 2
+https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
+
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://pictr.com/images/2023/04/18/Enl0AP.png" group-title="🇸🇬 Singapore" type="channel",Channel News Asia HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 tvg-name="Mediacorp Entertainment English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="🇸🇬 Singapore" type="channel",Mediacorp Entertainment English
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
+
+#EXTINF:-1 tvg-name="Mediacorp Entertainment Tamil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="🇸🇬 Singapore" type="channel",Mediacorp Entertainment Tamil
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
+
+#EXTINF:-1 tvg-name="Mediacorp Entertainment Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="🇸🇬 Singapore" type="channel",Mediacorp Entertainment Chinese
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
+
+#EXTINF:-1 tvg-name="RedBull TV" tvg-logo="https://dl.dropboxusercontent.com/s/1h9ie8d4mazxcvy/redbulltv.png" group-title="🌐 International" type="channel",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 tvg-name="Sport.tv 1" tvg-logo="https://dl.dropboxusercontent.com/s/hlxxmcm3dcxd2hy/sporttv.png" group-title="🇵🇹 Portugal" type="channel",Sport.tv 1
+https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
+
+#EXTINF:-1 tvg-name="Sport.tv 2" tvg-logo="https://dl.dropboxusercontent.com/s/hlxxmcm3dcxd2hy/sporttv.png" group-title="🇵🇹 Portugal" type="channel",Sport.tv 2
+https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
+
+#EXTINF:-1 tvg-name="Sport.tv 3" tvg-logo="https://dl.dropboxusercontent.com/s/hlxxmcm3dcxd2hy/sporttv.png" group-title="🇵🇹 Portugal" type="channel",Sport.tv 3
+https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
+
+#EXTINF:-1 tvg-name="Sport.tv 4" tvg-logo="https://dl.dropboxusercontent.com/s/hlxxmcm3dcxd2hy/sporttv.png" group-title="🇵🇹 Portugal" type="channel",Sport.tv 4
+https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports Xtra" tvg-logo="https://dl.dropbox.com/s/28n1lcpyx0qubqo/Screenshot_20230214_232508_Chrome.jpg" group-title="🇺🇸 USA" type="channel",beIN Sports Xtra
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-name="Sports TV" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/sportstv.png" group-title="🇹🇷 Turkey" type="channel",Sports TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:-1 tvg-name="Dubai Sport 2" tvg-logo="https://dl.dropboxusercontent.com/s/o3qd1a1gpe6ztia/dubaisports2.png" group-title="🇦🇪 UAE" type="channel",Dubai Sport 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-name="Dubai Sports 3" tvg-logo="https://dl.dropboxusercontent.com/s/vq8ed1nf10ym1n1/dubaisports3.png" group-title="🇦🇪 UAE" type="channel",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-name="MU TV" tvg-logo="https://dl.dropboxusercontent.com/s/2ovopi1tg2wym6v/mutv.png" group-title="🇬🇧 UK" type="channel",MU TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Unifi 1 (Unifi Live)" tvg-logo="https://dl.dropboxusercontent.com/s/massxi2j5fj1qo8/unifi.png" group-title="🇲🇾 Malaysia" type="channel",Unifi 1 (Unifi Live)
+https://unifi-live08.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 tvg-name="True Premiere 1" tvg-logo="https://dl.dropboxusercontent.com/s/b5jnn0j8lk9lo9w/truepremierfootball1.png" group-title="🇹🇭 Thailand" type="channel",True Premiere 1
+https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="True Premiere 2" tvg-logo="https://dl.dropboxusercontent.com/s/3fh3h16lgp0835m/truepremierfootball2.png" group-title="🇹🇭 Thailand" type="channel",True Premiere 2
+https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="True Premiere 3" tvg-logo="https://dl.dropboxusercontent.com/s/r83u0ga13f4ajpa/truepremierfootball3.png" group-title="🇹🇭 Thailand" type="channel",True Premiere 3
+https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="True Premiere 4" tvg-logo="https://dl.dropboxusercontent.com/s/j4qaqxhnqwijf63/truepremierfootball4.png" group-title="🇹🇭 Thailand" type="channel",True Premiere 4
+https://www.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="True Premiere 5" tvg-logo="https://dl.dropboxusercontent.com/s/pcqvszx59tu0xg9/truepremierfootball5.png" group-title="🇹🇭 Thailand" type="channel",True Premiere 5
+https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Eurosport 1 🇬🇧🇷🇺" tvg-logo="https://logo.iptveditor.com/eurosport1.png" group-title="🇪🇺 Europe" type="channel",Eurosport 1
+http://185.189.225.150:85/Eurosport1/index.m3u8
+
+#EXTINF:-1 tvg-name="Eurosport 2 🇬🇧🇷🇺" tvg-logo="https://logo.iptveditor.com/eurosport2.png" group-title="🇪🇺 Europe" type="channel",Eurosport 2
+http://185.189.225.150:85/Eurosport2/index.m3u8
+
+#EXTINF:-1 tvg-name="NBA TV 🇺🇸" tvg-logo="https://logo.iptveditor.com/nba.png" group-title="🇺🇸 USA" type="channel",NBA TV
+http://212.102.60.231:80/NBA_TV/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Mix 🇬🇧" tvg-logo="https://logo.iptveditor.com/skysportspremierleague.png" group-title="🇬🇧 UK" type="channel",Sky Sports Premier League
+https://wowza5.leisertv.com/live/skyportspremierleaguehd.stream/.m3u8
+
+#EXTINF:-1 tvg-name="Premier.Sports.1" tvg-logo="https://logo.iptveditor.com/premiersports.png" group-title="🇬🇧 UK" type="channel",PremierSports 1
+https://wowza1.leisertv.com/live/premiersport1hd.stream/.m3u8
+
+#EXTINF:-1 tvg-name="Premier.Sports.2" tvg-logo="https://logo.iptveditor.com/premiersports2.png" group-title="🇬🇧 UK" type="channel",PremierSports 2 🏉
+https://wowza1.leisertv.com/live/premiersport2hd.stream/.m3u8
+
+#EXTINF:-1 tvg-name="SpoTV" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="🇮🇩 Indonesia" type="channel",SpoTV
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
+#EXTINF:-1 tvg-name="FOX SPORTS.mx" tvg-logo="https://i.imgur.com/xhPxmPo.png" group-title="🇲🇽 Mexico" type="channel",Fox Sports MX
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
+#EXTINF:-1 tvg-name="FOX SPORTS 2.mx" tvg-logo="https://i.imgur.com/Skg7qZd.png" group-title="🇲🇽 Mexico" type="channel",Fox Sports 2 MX
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
+#EXTINF:-1 tvg-name="FOX SPORTS 3.mx" tvg-logo="https://i.imgur.com/t5ERoxX.png" group-title="🇲🇽 Mexico" type="channel",Fox Sports 3 MX
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
+
+#EXTINF:-1 tvg-name="4Sports 🏍🏎️⚽️" tvg-logo="http://lonewolftvpr.com/logos/events.png" group-title="🌐 International" type="channel",4Sports 🏍🏎️⚽️
+https://hls.pokertvfa.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="Vodafone Sport 🇮🇸 🏎️" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/vodafone-sport.png" group-title="🇮🇸 Iceland" type="channel",Vodafone Sport 🏎️
+https://windnew.newkso.ru/wind/premium260/mono.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 1 🇩🇪" tvg-logo="https://logo.iptveditor.com/dazn1.png" group-title="🇩🇪 Germany" type="channel",DAZN 1
+https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 2 🇩🇪" tvg-logo="https://logo.iptveditor.com/dazn2.png" group-title="🇩🇪 Germany" type="channel",DAZN 2
+https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports F1 🇩🇪 🏎️" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-f1-de.png" group-title="🇩🇪 Germany" type="channel",Sky Sports F1 🏎️
+https://windnew.newkso.ru/wind/premium274/mono.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Tennis 🇩🇪" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-tennis-de.png" group-title="🇩🇪 Germany" type="channel",Sky Sports Tennis
+https://windnew.newkso.ru/wind/premium884/mono.m3u8
+
+#EXTINF:-1 tvg-name="Sport1 🇩🇪" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport1-de.png" group-title="🇩🇪 Germany" type="channel",Sport1
+https://ddy6new.newkso.ru/ddy6/premium641/mono.m3u8
+
+#EXTINF:-1 tvg-name="S.Sport" tvg-logo="https://ssport.tv/assets/images/icons/logo.svg" group-title="🇹🇷 Turkey" type="channel",SSport
+https://217.30.11.74/e/3030.m3u8
+
+#EXTINF:-1 tvg-name="ssport2" tvg-logo="https://ssport.tv/assets/images/icons/logo.svg" group-title="🇹🇷 Turkey" type="channel",SSport 2
+https://217.30.11.74/e/3031.m3u8
+
+#EXTINF:-1 tvg-name="TV4 Sport Hockey 🇸🇪" tvg-logo="https://seeklogo.com/images/T/TV4-logo-0957278596-seeklogo.com.png" group-title="🇸🇪 Sweden" type="channel",TV4 Sport Hockey
+https://zekonew.newkso.ru/zeko/premium700/mono.m3u8
+
+#EXTINF:-1 tvg-name="TV4 Sport Tennis 🇸🇪" tvg-logo="https://seeklogo.com/images/T/TV4-logo-0957278596-seeklogo.com.png" group-title="🇸🇪 Sweden" type="channel",TV4 Sport Tennis
+https://zekonew.newkso.ru/zeko/premium701/mono.m3u8
+
+#EXTINF:-1 tvg-name="TV4 Sport Motor 🇸🇪" tvg-logo="https://seeklogo.com/images/T/TV4-logo-0957278596-seeklogo.com.png" group-title="🇸🇪 Sweden" type="channel",TV4 Sport Motor
+https://zekonew.newkso.ru/zeko/premium702/mono.m3u8
+
+#EXTINF:-1 tvg-name="TV4 SportKanalen 🇸🇪" tvg-logo="https://seeklogo.com/images/T/TV4-logo-0957278596-seeklogo.com.png" group-title="🇸🇪 Sweden" type="channel",TV4 SportKanalen
+https://zekonew.newkso.ru/zeko/premium707/mono.m3u8
+
+#EXTINF:-1 tvg-name="Cytavision Sports 1 🇨🇾" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cytavision-sports.png" group-title="🇨🇾 Cyprus" type="channel",Cytavision Sports 1
+https://windnew.newkso.ru/wind/premium911/mono.m3u8
+
+#EXTINF:-1 tvg-name="Cytavision Sports 3 🇨🇾" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cytavision-sports.png" group-title="🇨🇾 Cyprus" type="channel",Cytavision Sports 3
+https://windnew.newkso.ru/wind/premium913/mono.m3u8
+
+#EXTINF:-1 tvg-name="Cytavision Sports 4 🇨🇾" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cytavision-sports.png" group-title="🇨🇾 Cyprus" type="channel",Cytavision Sports 4
+https://windnew.newkso.ru/wind/premium914/mono.m3u8
+
+#EXTINF:-1 tvg-name="Cytavision Sports 7 🇨🇾" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cytavision-sports.png" group-title="🇨🇾 Cyprus" type="channel",Cytavision Sports 7
+https://windnew.newkso.ru/wind/premium917/mono.m3u8
+
+#EXTINF:-1 tvg-name="Матч! Футбол 3 🇷🇺" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB3.png" group-title="🇷🇺 Russia" type="channel",Матч! Футбол 3
+
+#EXTINF:-1 tvg-name="Champions.TV.1" tvg-logo="https://logo.iptveditor.com/championstv1.png" group-title="🇮🇳 India / 🇺🇸 USA" type="channel",Champions 1
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
+
+#EXTINF:-1 tvg-name="Champions.TV.2" tvg-logo="https://logo.iptveditor.com/championstv2.png" group-title="🇮🇳 India / 🇺🇸 USA" type="channel",Champions 2
+https://sweet-night-1d1d.worst.workers.dev/?id=17939&type=dash
+
+#EXTINF:-1 tvg-name="Champions.TV.3" tvg-logo="https://logo.iptveditor.com/championstv3.png" group-title="🇮🇳 India / 🇺🇸 USA" type="channel",Champions 3
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
+
+#EXTINF:-1 tvg-name="Champions.TV.5" tvg-logo="https://logo.iptveditor.com/championstv5.png" group-title="🇮🇳 India / 🇺🇸 USA" type="channel",Champions 5
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
+
+#EXTINF:-1 tvg-name="Champions.TV.6" tvg-logo="https://logo.iptveditor.com/championstv6.png" group-title="🇮🇳 India / 🇺🇸 USA" type="channel",Champions 6
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
+
+#EXTINF:-1 tvg-name="uNIFI sPORTS" tvg-logo="https://logo.iptveditor.com/unifisports1.png" group-title="🇲🇾 Malaysia" type="channel",unifi sports
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 tvg-name="Spotv 🇲🇾🇺🇸 🏍" tvg-logo="https://logo.iptveditor.com/spotv.png" group-title="🇲🇾 Malaysia / 🇺🇸 USA" type="channel",Spotv 🏍
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+#EXTINF:-1 tvg-name="Spotv 2 🇲🇾🇺🇸 🏍" tvg-logo="https://logo.iptveditor.com/spotv2.png" group-title="🇲🇾 Malaysia / 🇺🇸 USA" type="channel",Spotv 2 🏍
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+
+#EXTINF:-1 tvg-name="Polsat sport 2 🇵🇱" tvg-logo="https://logo.iptveditor.com/polsatsport2.png" group-title="🇵🇱 Poland" type="channel",Polsat sport 2
+https://windnew.newkso.ru/wind/premium50/mono.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-name="Polsat sport Premium 2 🇵🇱" tvg-logo="https://logo.iptveditor.com/polsatsportpremium2.png" group-title="🇵🇱 Poland" type="channel",Polsat sport Premium 2
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-name="Sport1 🇨🇿" tvg-logo="https://www.sport1tv.cz/wp-content/uploads/2024/01/s1cz_logo_2020_01.png" group-title="🇨🇿 Czech Republic" type="channel",Sport1
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sport2 🇨🇿" tvg-logo="https://www.sport1tv.cz/wp-content/uploads/2024/01/s1cz_logo_2020_02.png" group-title="🇨🇿 Czech Republic" type="channel",Sport2
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Nova Sports Start 🇬🇷" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nova-sports-start-gr.png" group-title="🇬🇷 Greece" type="channel",Nova Sports Start
+https://dokko1new.newkso.ru/dokko1/premium637/mono.m3u8
+
+#EXTINF:-1 tvg-name="Nova Sports 6 🇬🇷" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nova-sports-6-gr.png" group-title="🇬🇷 Greece" type="channel",Nova Sports 6
+https://dokko1new.newkso.ru/dokko1/premium636/mono.m3u8
+
+#EXTINF:-1 tvg-name="Canal+Sport 🇨🇿" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png" group-title="🇨🇿 Czech Republic" type="channel",Canal+Sport
+http://116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-name="GO3 Sport 3 🇪🇪" tvg-logo="https://logo.iptveditor.com/go3sport3.png" group-title="🇪🇪 Estonia" type="channel",GO3 Sport 3
+
+#EXTINF:-1 tvg-name="Alkass Five 🇸🇦" tvg-logo="https://i.imgur.com/6RGNGsM.png" group-title="🇸🇦 Saudi Arabia" type="channel",Alkass Five
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5nnha/master.m3u8
+
+#EXTINF:-1 tvg-name="Alkass Four 🇸🇦" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="🇸🇦 Saudi Arabia" type="channel",Alkass Four
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4cn/master.m3u8
+
+#EXTINF:-1 tvg-name="Alkass One 🇸🇦" tvg-logo="https://i.imgur.com/10mmlha.png" group-title="🇸🇦 Saudi Arabia" type="channel",Alkass One
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1mhu/master.m3u8
+
+#EXTINF:-1 tvg-name="Alkass Six 🇸🇦" tvg-logo="https://i.imgur.com/CrPSPSC.png" group-title="🇸🇦 Saudi Arabia" type="channel",Alkass Six
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6buzat/master.m3u8
+
+#EXTINF:-1 tvg-name="Alkass Three 🇸🇦" tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="🇸🇦 Saudi Arabia" type="channel",Alkass Three
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vak/master.m3u8
+
+#EXTINF:-1 tvg-name="Alkass Two 🇸🇦" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="🇸🇦 Saudi Arabia" type="channel",Alkass Two
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hef/master.m3u8
+
+#EXTINF:-1 tvg-name="Alkass SHOOF 🇸🇦" tvg-logo="https://shoof.alkass.net/assets/images/shoof.png" group-title="🇸🇦 Saudi Arabia" type="channel",Alkass SHOOF
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1/master.m3u8
+
+#EXTINF:-1 tvg-name="A Sport 🇵🇰" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/a-sport-pk.png" group-title="🇵🇰 Pakistan" type="channel",A Sport
+https://ddy6new.newkso.ru/ddy6/premium269/mono.m3u8
+
+#EXTINF:-1 tvg-name="J Sports 1 🇯🇵" tvg-logo="https://www.jsports.co.jp/favicon.ico" group-title="🇯🇵 Japan" type="channel",J Sports 1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-name="J Sports 2 🇯🇵" tvg-logo="https://www.jsports.co.jp/favicon.ico" group-title="🇯🇵 Japan" type="channel",J Sports 2
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-name="J Sports 3 🇯🇵" tvg-logo="https://www.jsports.co.jp/favicon.ico" group-title="🇯🇵 Japan" type="channel",J Sports 3
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-name="J Sports 4 🇯🇵" tvg-logo="https://www.jsports.co.jp/favicon.ico" group-title="🇯🇵 Japan" type="channel",J Sports 4
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-name="Sukan rtm 🇲🇾🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/1600px-Sukan_RTM_1_April.png" group-title="🇲🇾 Malaysia" type="channel",Sukan rtm
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 tvg-name="Turkmenistan Sport 🇹🇲" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Turkmenistan_Sport.png" group-title="🇹🇲 Turkmenistan" type="channel",Turkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+
+#EXTINF:-1 tvg-name="Zona TUDN 🇲🇽 [sᴀᴍsυɴɢᴛᴠᴘʟυs]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20240520T212951SQUARE.png" group-title="🇲🇽 Mexico" type="channel",Zona TUDN [sᴀᴍsυɴɢᴛᴠᴘʟυs]
+https://d3uyzgka2wjb00.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-210b4ta87o6ku/server/distrib/jNRQRKsWY2kxcEBj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqmz_IT731OUAvvJWUO7I8b4d6FbvMORdXi-V3pCAiBr0JARhscS-3WkU6FOUBwPwJnqMv4GCOc2gutqomsrHRTSUl3Uveb3OckqNB_uKGZyqp1MN-AQSrGdqPGHIh4ZkM1qcJ0EK7zvf7UnRlwZAqGWGOqra8-Rqhg0wiraCQIS5xbUshW63EISyP5F69-b62g/manifest.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD1700016X9
+
+#EXTINF:-1 tvg-name="TV Azteca Deportes Premium 🇲🇽" tvg-logo="https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png" group-title="🇲🇽 Mexico" type="channel",TV Azteca Deportes Premium
+https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=310a09e6-6fd5-11ef-b1af-be21e08b28a0
+
+#EXTINF:-1 tvg-name="La liga Inside 🇪🇸" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20241022T050545SQUARE.png" group-title="🇪🇸 Spain" type="channel",La liga Inside
+https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
+
+#EXTINF:-1 tvg-name="WOW Women of Wrestling 🇺🇸" tvg-logo="https://images.pluto.tv/channels/66b66b9e14a2bb000872f606/colorLogoPNG.png" group-title="🇺🇸 USA" type="channel",WOW Women of Wrestling
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66b66b9e14a2bb000872f606/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 tvg-name="DAZN Ringside 🇺🇸 [ᴛυʙɪ]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD30000038U_20240214T034906SQUARE.png_20240214034907.png" group-title="🇺🇸 USA" type="channel",DAZN Ringside [ᴛυʙɪ]
+https://live-manifest.production-public.tubi.io/live/656fc320-a76f-4be3-9b0d-50bc42fa59dd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DAZN Combat 🇺🇸" tvg-logo="https://images.pluto.tv/channels/64df7a9a44fe100009b6ac5a/colorLogoPNG.png" group-title="🇺🇸 USA" type="channel",DAZN Combat
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64df7a9a44fe100009b6ac5a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 tvg-name="SFT Combat 🇧🇷🇺🇸" tvg-logo="https://images.pluto.tv/channels/6660b636cb3ea10008429c6a/colorLogoPNG.png" group-title="🇧🇷 Brazil / 🇺🇸 USA" type="channel",SFT Combat
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6660b636cb3ea10008429c6a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 tvg-name="One Championship tv 🇧🇷🇺🇸" tvg-logo="https://images.pluto.tv/channels/668c5d3bfd9eb2000882bb50/colorLogoPNG.png" group-title="🇧🇷 Brazil / 🇺🇸 USA" type="channel",One Championship tv
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 tvg-name="Boxing TV" tvg-logo="https://streamstak.com/boxingtv/wp-content/uploads/sites/17/2024/04/boxing-tv-logo-white.png" group-title="🇺🇸 USA" type="channel",Boxing TV
+https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
+
+#EXTINF:-1 tvg-name="Swerve Combat 🇺🇸 [ʟᴏcᴀʟɴᴏw]" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa449194-1789-42d6-8a03-55ef1e991c40/PLEX_1500x1000_Logo_Dark.png" group-title="🇺🇸 USA" type="channel",Swerve Combat [ʟᴏcᴀʟɴᴏw]
+https://linear-253.frequency.stream/dist/localnow/253/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Professional Fighters League 🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/ProfessionalFightersLeagueShieldLogo.png" group-title="🇺🇸 USA" type="channel",Professional Fighters League
+https://bit.ly/3NjCdK6?profile=inspirationLinks.m3u8
+
+#EXTINF:-1 tvg-name="PFL MMA 🇺🇸" tvg-logo="https://images.pluto.tv/channels/6334a574605f140007e233c4/colorLogoPNG.png" group-title="🇺🇸 USA" type="channel",PFL MMA
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 tvg-name="Strongman Champion League 🇺🇸" tvg-logo="https://images.pluto.tv/channels/5e1452156c07b50009d0230e/colorLogoPNG.png" group-title="🇺🇸 USA" type="channel",Strongman Champion League
+https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="XFC MMA 🇺🇸" tvg-logo="https://pbs.twimg.com/profile_images/1305918437496164354/UbULc0Jx_400x400.jpg" group-title="🇺🇸 USA" type="channel",XFC MMA
+https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
+
+#EXTINF:-1 tvg-name="Fite 24/7 🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a12045b8-c4b0-46f1-a480-97b5fceb9db9/FITE24-7_Channel_Logo_for_PLEX_1800x1200.png" group-title="🇺🇸 USA" type="channel",Fite 24/7
+https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-RAD/263.m3u8
+
+#EXTINF:-1 tvg-name="Hard Knock Fighting 🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="🇺🇸 USA" type="channel",Hard Knock Fighting
+https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8
+
+#EXTINF:-1 tvg-name="Impact! Wrestling 🇺🇸" tvg-logo="https://images.pluto.tv/channels/63d8dcefda71180008829bcd/colorLogoPNG.png" group-title="🇺🇸 USA" type="channel",Impact! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/07/nossofutebol.png" group-title="🇧🇷 Brazil" type="channel",Nosso Futebol
+https://embmaxtv.online/nossofutebol/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/06/band.png" group-title="🇧🇷 Brazil" type="channel",Band
+https://lb1.embmaxtv.online/bandsp/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/06/TVGlobo2025.webp" group-title="🇧🇷 Brazil" type="channel",Globo
+https://lb1.embmaxtv.online/globosp/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/06/record.png" group-title="🇧🇷 Brazil" type="channel",Record
+https://lb1.embmaxtv.online/recordsp/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/06/sbt.png" group-title="🇧🇷 Brazil" type="channel",Sbt
+https://lb1.embmaxtv.online/sbtsp/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/06/redetv.png" group-title="🇧🇷 Brazil" type="channel",Rede Tv
+https://lb1.embmaxtv.online/redetv/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/06/mP1qfp2.png" group-title="🇧🇷 Brazil" type="channel",Redevida
+https://lb1.embmaxtv.online/redevida/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/06/3YlJsCL.png" group-title="🇧🇷 Brazil" type="channel",Band News
+https://lb1.embmaxtv.online/bandnews/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/06/3yZyaCm.png" group-title="🇧🇷 Brazil" type="channel",Globo News
+https://lb1.embmaxtv.online/globonews/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/06/CNN_Brasil.svg_.png" group-title="🇧🇷 Brazil" type="channel",Cnn Brasil
+https://lb1.embmaxtv.online/cnnbrasil/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/06/HZDRG0K.png" group-title="🇧🇷 Brazil" type="channel",Record News
+https://lb1.embmaxtv.online/recordnews/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gPR66x3/GLOBOPNG.png" group-title="🇧🇷 Brazil" type="channel",Globo Rio de Janeiro FHD
+http://45.140.192.98:8080/stream/globoplay/globoriodejaneirofhd/stream.m3u8?uid=1495326181
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gPR66x3/GLOBOPNG.png" group-title="🇧🇷 Brazil" type="channel",CBN RJ
+http://45.140.192.98:8080/stream/globoplay/cbnrj/stream.m3u8?uid=3153694877
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gPR66x3/GLOBOPNG.png" group-title="🇧🇷 Brazil" type="channel",Globo Minas
+http://45.140.192.98:8080/stream/globoplay/globominas/stream.m3u8?uid=710028653
+
+#EXTINF:-1 tvg-logo="https://img.r7.com/images/record-tv-06112023200313177" group-title="🇧🇷 Brazil" type="channel",Record Rio HD
+http://45.140.192.98:8080/stream/recordtv/recordriohd/stream.m3u8?uid=685853112
+
+#EXTINF:-1 tvg-logo="https://img.r7.com/images/record-tv-06112023200313177" group-title="🇧🇷 Brazil" type="channel",Brasileiro 2025
+http://45.140.192.98:8080/stream/recordtv/brasileiro2025/stream.m3u8?uid=1200540919
+
+#EXTINF:-1 tvg-logo="https://img.r7.com/images/record-tv-06112023200313177" group-title="🇧🇷 Brazil" type="channel",Record SP HD
+http://45.140.192.98:8080/stream/recordtv/recordsphd/stream.m3u8?uid=1825163311
+
+#EXTINF:-1 tvg-name="Band Sports FHD H265" tvg-logo="http://www.imgscc.top/logos/bandsport250.png" group-title="🇧🇷 Brazil" type="channel",Band Sports FHD H265
+http://alerquinaz.top:80/Streax2025/vn5hxfqv/37.ts
+
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="Band Sports FHD H265²" tvg-logo="http://www.imgscc.top/logos/bandsport250.png" group-title="🇧🇷 Brazil" type="channel",Band Sports FHD H265²
+http://alerquinaz.top:80/Streax2025/vn5hxfqv/234890.ts
+
+#EXTINF:-1 tvg-id="Thbandlitoral.br" tvg-name="Band Sports FHD²" tvg-logo="http://www.imgscc.top/logos/bandsport250.png" group-title="🇧🇷 Brazil" type="channel",Band Sports FHD²
+http://alerquinaz.top:80/Streax2025/vn5hxfqv/234891.ts
+
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="Band Sports SD²" tvg-logo="http://www.imgscc.top/logos/bandsport250.png" group-title="🇧🇷 Brazil" type="channel",Band Sports SD²
+http://alerquinaz.top:80/Streax2025/vn5hxfqv/234892.ts
+
+#EXTINF:-1 tvg-name="Campeonato Carioca 2" tvg-logo="http://www.imgscc.top/logos/cariocao250.png" group-title="🇧🇷 Brazil" type="channel",Campeonato Carioca 2
+http://alerquinaz.top:80/Streax2025/vn5hxfqv/102440.ts
+
+#EXTINF:-1 tvg-name="Cazé TV 3" tvg-logo="https://imgscc.top/logos/cazetv.png" group-title="🇧🇷 Brazil" type="channel",Cazé TV 3
+http://alerquinaz.top:80/Streax2025/vn5hxfqv/102442.ts
+
+#EXTINF:-1 tvg-name="Cazé TV 1" tvg-logo="https://imgscc.top/logos/cazetv.png" group-title="🇧🇷 Brazil" type="channel",Cazé TV 1
+http://alerquinaz.top:80/Streax2025/vn5hxfqv/102439.ts
+
+#EXTINF:-1 tvg-name="Cazé TV 2" tvg-logo="https://imgscc.top/logos/cazetv.png" group-title="🇧🇷 Brazil" type="channel",Cazé TV 2
+http://alerquinaz.top:80/Streax2025/vn5hxfqv/102443.ts
+
+#EXTINF:-1 tvg-id="sportv" tvg-name="Sportv" tvg-logo="https://i.ibb.co/QKLg2vX/sport-tv.png" group-title="🇧🇷 Brazil" ch-number="201" type="channel",⚽Sportv
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=sportv
+
+#EXTINF:-1 tvg-id="sportv2" tvg-name="Sportv 2" tvg-logo="https://i.ibb.co/QKLg2vX/sport-tv.png" group-title="🇧🇷 Brazil" ch-number="202" type="channel",⚽Sportv 2
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=sportv2
+
+#EXTINF:-1 tvg-id="sportv3" tvg-name="Sportv 3" tvg-logo="https://i.ibb.co/QKLg2vX/sport-tv.png" group-title="🇧🇷 Brazil" ch-number="203" type="channel",⚽Sportv 3
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=sportv3
+
+#EXTINF:-1 tvg-id="premiere" tvg-name="Premiere FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="🇧🇷 Brazil" ch-number="204" type="channel",Premiere FC
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=premiere
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
+#EXTINF:-1 tvg-id="PREMIERECLUBES.tv" tvg-name="PREMIERECLUBES.tv" tvg-logo="https://images.uncyc.org/pt/f/f1/Logotipo_PFC.png" group-title="🇧🇷 Brazil" ch-number="22" type="channel",PREMIERE  CLUBES
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
+#EXTINF:-1 tvg-id="PREMIERE2.tv" tvg-name="PREMIERE2.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="🇧🇷 Brazil" ch-number="23" type="channel",PREMIERE 2
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9547f9aead1237c8a3b1bf0a91ed9995:534fab4541fef31921dd970c65d51848
+#EXTINF:-1 tvg-id="PREMIERE3.tv" tvg-name="PREMIERE3.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="🇧🇷 Brazil" ch-number="24" type="channel",PREMIERE 3
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98
+#EXTINF:-1 tvg-id="PREMIERE4.tv" tvg-name="PREMIERE4.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="🇧🇷 Brazil" ch-number="25" type="channel",PREMIERE 4
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5a3ac0b892bfccdf352b6def9cb2764:ac0936acc0036fad2273efaa42b1fafd
+#EXTINF:-1 tvg-id="PREMIERE5.tv" tvg-name="PREMIERE5.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="🇧🇷 Brazil" ch-number="26" type="channel",PREMIERE 5
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=05cedc366ce4ec735ee4b33fcefbf01f:475d6dd40eaba6896e02b26a6cf34d95
+#EXTINF:-1 tvg-id="PREMIERE6.tv" tvg-name="PREMIERE6.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="🇧🇷 Brazil" ch-number="27" type="channel",PREMIERE 6
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ce96e01eee54fb77e5cc4e7b753d6b0:184f94303d3357b9a7381ccdeee9b611
+#EXTINF:-1 tvg-id="PREMIERE7.tv" tvg-name="PREMIERE7.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="🇧🇷 Brazil" ch-number="28" type="channel",PREMIERE 7
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ba384f9d983c731ab1e3702c16e2faf:f28adca4375e8a041fd22aef26440009
+#EXTINF:-1 tvg-id="PREMIERE8MOSAICO.tv" tvg-name="PREMIERE8MOSAICO.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="🇧🇷 Brazil" ch-number="29" type="channel",PREMIERE 8 MOSAICO
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+#EXTINF:-1 tvg-id="CAZÉTV.tv" tvg-name="CAZÉTV.tv" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" group-title="🇧🇷 Brazil" ch-number="30" type="channel",CAZÉ TV
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+
+#EXTINF:-1 tvg-id="CAZÉTV2.tv" tvg-name="CAZÉTV2.tv" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" group-title="🇧🇷 Brazil" ch-number="31" type="channel",CAZÉ TV 2
+https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ce96e01eee54fb77e5cc4e7b753d6b0:184f94303d3357b9a7381ccdeee9b611
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PZvsjzNR/2025-04-01-12-03-46.png" group-title="🇧🇷 Brazil" type="channel",Premiere Brasil 8
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ba384f9d983c731ab1e3702c16e2faf:f28adca4375e8a041fd22aef26440009
+#EXTINF:-1 tvg-id="PREMIERE8MOSAICO.tv" tvg-name="PREMIERE8MOSAICO.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="🇧🇷 Brazil" ch-number="29" type="channel",Premiere Mosaico
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd
+```
