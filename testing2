@@ -1693,3 +1693,21 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dabubydklo/
 #EXTINF:-1 tvg-id="PREMIERE8MOSAICO.tv" tvg-name="PREMIERE8MOSAICO.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="🇧🇷 Brazil" ch-number="29" type="channel",Premiere Mosaico
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Playlists Embebidas" type="playlist" content-type="playlist",Flow Vip
+https://dnsmv.uk:443/playlist/Control26/PbSGfNXCCE/m3u_plus
