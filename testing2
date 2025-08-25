@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTM3U url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/tycargentina/tyc.php?mode=epg,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/TyCPlay/epg.php,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/tycargentina/epgTYC.php,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/epg.php,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/espn/epg.php,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz" vod_library="https://dl.dropbox.com/scl/fi/v5ze3a9ratmo6ves3m2y3/conectpelis.json?rlkey=6abaw7fhjbz1vojnxqmwaclql&dl=1"
+
 
 #EXTGRP:🇦🇷 Argentina
 #EXTINF:-1 tvg-id="El.Garage.TV.-.South.(Latin.America).(GARAG).ar" tvg-name="Garage TV 🇦🇷" tvg-logo="https://elgarage.com/wp-content/uploads/2021/04/favicon.png",Garage TV 🇦🇷
