@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/tycargentina/tyc.php?mode=epg,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/TyCPlay/epg.php,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/tycargentina/epgTYC.php,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/epg.php,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/espn/epg.php,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz" vod_library="https://opop.pro/LCkap9ML3Q7AjR/?channels=false"
+#EXTM3U url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/tycargentina/tyc.php?mode=epg,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/TyCPlay/epg.php,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/tycargentina/epgTYC.php,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/epg.php,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/espn/epg.php,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz" vod_library="https://6.gp/pelisyseries"
 
 
 #EXTGRP:🇦🇷 Argentina
@@ -1700,4 +1700,4 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dabubydklo/o
 
 
 #EXTINF:-1 group-title="Playlists Embebidas" type="playlist" content-type="playlist",Flow Vip
-https://opop.pro/LCkap9ML3Q7AjR/?channels=false
+https://6.gp/pelisyseries
