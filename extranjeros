@@ -1275,3 +1275,1173 @@ https://dqw6u0upa8l21.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 #EXTINF:-1 tvg-id="65c69ee3d77d4500084534a3" tvg-name="FORMULA 1 Channel" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/F1Channel_1920x1080_Jan_2025.png" group-title="Brasil" ch-number="411" type="channel",FORMULA 1 Channel
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65c69ee3d77d450008c80438/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion
+
+
+#EXTINF:-1 tvg-id="DAZN.tv" tvg-name="DAZN" tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="España" ch-number="4" type="channel",DAZN
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-id="DAZN.tv" tvg-name="DAZN" tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="España" ch-number="5" type="channel",DAZN
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-582/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-id="DAZN.tv" tvg-name="DAZN" tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="España" ch-number="6" type="channel",DAZN
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-580/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-id="DAZN.tv" tvg-name="DAZN" tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="España" ch-number="7" type="channel",DAZN
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-583/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
+#EXTINF:-1 tvg-id="DAZNF1.tv" tvg-name="DAZN F1" tvg-logo="https://i.ibb.co/k6frj4P/daznf1.png" group-title="España" ch-number="8" type="channel",DAZN F1
+https://hipaf6u2j3pwygg.nice-flower.store/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SO0kTMjdzMkZ2NhRTLyEmMh1SYzMGNtYmMjJTLhVmMxIjZmNzL.m3u8?auth_key=1748521236-698af614ba46db852ec48d824bb6a92a-00000000000000000000000000000000-241e76c87e8e658ec3820fe5724e6c9e
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
+#EXTINF:-1 tvg-id="LALIGAHYPERMOTION.tv" tvg-name="LALIGAHYPERMOTION" tvg-logo="https://i.ibb.co/6BPTcTx/La-Liga-Hypermotion.png" group-title="España" ch-number="9" type="channel",LALIGA HYPERMOTION
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
+#EXTINF:-1 tvg-id="LALIGAHYPERMOTION2.tv" tvg-name="LALIGAHYPERMOTION2" tvg-logo="https://i.ibb.co/TYFT189/La-Liga-Hypermotion2.png" group-title="España" ch-number="10" type="channel",LALIGA HYPERMOTION 2
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+#EXTINF:-1 tvg-id="LALIGAHYPERMOTION3.tv" tvg-name="LALIGAHYPERMOTION3" tvg-logo="https://i.ibb.co/1m0wtv7/Hypermotion3.png" group-title="España" ch-number="11" type="channel",LALIGA HYPERMOTION 3
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTINF:-1 tvg-id="DAZNWOMEN'SFOOTBALL.tv" tvg-name="DAZN WOMEN'S FOOTBALL" tvg-logo="https://images.pluto.tv/channels/64b02bbd7d93410008fdae60/thumbnail.jpg" group-title="Deportes" ch-number="12" type="channel",DAZN WOMEN'S FOOTBALL
+http://dck-ac-live.cdn.indazn.com/dash/dazn-linear-503/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTINF:-1 tvg-id="DAZNRISE.tv" tvg-name="DAZN RISE" tvg-logo="https://i.ibb.co/dppb0t6/dazn-rise.png" group-title="Alemania" ch-number="13" type="channel",DAZN RISE
+http://dck-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTINF:-1 tvg-id="DAZNFAST+.tv" tvg-name="DAZN FAST+" tvg-logo="https://i.ibb.co/PNvwdCR/dazn-fast-plus.png" group-title="Deportes" ch-number="14" type="channel",DAZN FAST+
+http://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTINF:-1 tvg-id="DAZNCOMBAT.tv" tvg-name="DAZN COMBAT" tvg-logo="https://i.ibb.co/0tB57qV/dazn-combat.png" group-title="Deportes" ch-number="15" type="channel",DAZN COMBAT
+http://dck-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZNRINGSIDE.de" tvg-name="DAZN RINGSIDE" tvg-logo="https://i.ibb.co/DtKnxcK/dazn-ringside.png" group-title="Alemania" ch-number="16" type="channel",DAZN RINGSIDE
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/649b6898f2ec0000081a9460/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+
+#EXTINF:-1 tvg-id="DAZNDARTS.tv" tvg-name="DAZN DARTS" tvg-logo="https://i.ibb.co/djqRSWR/dazn-darts.png" group-title="Alemania" ch-number="17" type="channel",DAZN DARTS
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b67f0424ade50008a3be17/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+
+#EXTINF:-1 tvg-id="DAZNHANDBALL.tv" tvg-name="DAZN HANDBALL" tvg-logo="https://i.ibb.co/71SnB1f/dazn-handball.png" group-title="Alemania" ch-number="18" type="channel",DAZN HANDBALL
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6683f7fe36a2f9000804940c/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+
+#EXTINF:-1 tvg-id="DAZNHELDINNEN.tv" tvg-name="DAZN HELDINNEN" tvg-logo="https://i.ibb.co/vvRcFzj/dazn-heldinnen.png" group-title="Alemania" ch-number="19" type="channel",DAZN HELDINNEN
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64afe50c5dc16600087f3227/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTINF:-1 tvg-id="DAZN1DE.de" tvg-name="DAZN 1 DE" tvg-logo="https://" group-title="Alemania" ch-number="20" type="channel",DAZN 1 DE
+https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-017/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTINF:-1 tvg-id="DAZN2DE.de" tvg-name="DAZN 2 DE" tvg-logo="https://i.ibb.co/Y7DJ0nd/D2.png" group-title="Alemania" ch-number="21" type="channel",DAZN 2 DE
+https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-018/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-id="DAZN.tv" tvg-name="Dazn" tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="España" ch-number="1" type="channel",Dazn
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
+#EXTINF:-1 tvg-id="LALIGAHYPERMOTION.tv" tvg-name="LaLiga Hypermotion" tvg-logo="https://i.ibb.co/6BPTcTx/La-Liga-Hypermotion.png" group-title="España" ch-number="1" type="channel",LaLiga Hypermotion
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
+#EXTINF:-1 tvg-id="PREMIERECLUBES.tv" tvg-name="Premiere Clubes" tvg-logo="https://images.uncyc.org/pt/f/f1/Logotipo_PFC.png" group-title="Brasil" ch-number="1" type="channel",Premiere Clubes
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+#EXTINF:-1 tvg-id="CAZÉTV.tv" tvg-name="Cazé Tv" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" group-title="Brasil" ch-number="1" type="channel",Cazé Tv
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+
+#EXTINF:-1 tvg-id="ESPNBR.br" tvg-name="Espn Br" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Brasil" ch-number="1" type="channel",Espn Br
+http://new.m3u8.one/espn/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2245f48a5998442f835099d30f2e0305:f48f6ce816fe86d8c10587e9a7e927a3
+#EXTINF:-1 tvg-id="NOSSOFUTEBOL.tv" tvg-name="Nosso Futebol" tvg-logo="https://i.postimg.cc/vHpNJTg0/nosso-futebol.png" group-title="Brasil" ch-number="1" type="channel",Nosso Futebol
+https://livst.site/nossofutebol/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2245f48a5998442f835099d30f2e0305:f48f6ce816fe86d8c10587e9a7e927a3
+#EXTINF:-1 tvg-id="FISHTV.tv" tvg-name="Fish Tv" tvg-logo="https://media.licdn.com/dms/image/v2/D4D0BAQE5ftIHXLhsUg/company-logo_200_200/company-logo_200_200/0/1709142104082/fish_tv_logo?e=2147483647&v=beta&t=kfUYhmCG1Fwt4LRHyw3xPMcjOW0_v8McqZYto3k8u1o" group-title="Brasil" ch-number="1" type="channel",Fish Tv
+https://livst.site/fishtv/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2245f48a5998442f835099d30f2e0305:f48f6ce816fe86d8c10587e9a7e927a3
+#EXTINF:-1 tvg-id="WOOHOO.tv" tvg-name="Woohoo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/WOOHOO.png" group-title="Brasil" ch-number="1" type="channel",Woohoo
+https://livst.site/woohoo/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2245f48a5998442f835099d30f2e0305:f48f6ce816fe86d8c10587e9a7e927a3
+#EXTINF:-1 tvg-id="CANALOFF.tv" tvg-name="Canal Off" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="Brasil" ch-number="1" type="channel",Canal Off
+https://livst.site/canaloff/manifest.mpd
+
+#EXTINF:-1 tvg-name="Chapa 1" tvg-logo="https://logo.iptveditor.com/sporttv1.png" group-title="Portugal" type="channel",Chapa 1
+https://github.com/inspirationlinks/m3u/raw/live/Streams/chapa1.m3u8
+
+#EXTINF:-1 tvg-name="Ring Bulgaria" tvg-logo="https://logo.iptveditor.com/sporttv3.png" group-title="Bulgaria" type="channel",Ring
+https://github.com/inspirationlinks/m3u/raw/live/Streams/chapa2.m3u8
+
+#EXTINF:-1 tvg-name="True Sport 1" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="Tailandia" type="channel",True SPORT 1
+http://myserver.myphuket.net:25461/test2/test2/58
+
+#EXTINF:-1 tvg-name="True Sport 2" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="Tailandia" type="channel",True Sport 2
+http://myserver.myphuket.net:25461/test2/test2/59
+
+#EXTINF:-1 tvg-name="True SPORT 3" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="Tailandia" type="channel",True Sport 3
+http://myserver.myphuket.net:25461/test2/test2/29
+
+#EXTINF:-1 tvg-name="True SPORT 7" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="Tailandia" type="channel",True Sport 7
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/true7.m3u8
+
+#EXTINF:-1 tvg-name="True SPORT PREMIER LEAGUE 1" tvg-logo="https://truevisions.co.th/static/ba1de35c-8a25-47de-a27c-5cd8f705a14f.png" group-title="Tailandia" type="channel",True Sport PREMIER LEAGUE 1
+http://myserver.myphuket.net:25461/test2/test2/26
+
+#EXTINF:-1 tvg-name="True SPORT PREMIER LEAGUE 2" tvg-logo="https://truevisions.co.th/static/f815743f-72e1-4dcc-ad17-925657183a24.png" group-title="Tailandia" type="channel",True Sport PREMIER LEAGUE 2
+http://myserver.myphuket.net:25461/test2/test2/27
+
+#EXTINF:-1 tvg-name="True SPORT PREMIER LEAGUE 3" tvg-logo="https://truevisions.co.th/static/1c11f698-75a0-449d-8a79-6a52be569911.png" group-title="Tailandia" type="channel",True Sport PREMIER LEAGUE 3
+http://myserver.myphuket.net:25461/test2/test2/28
+
+#EXTINF:-1 tvg-name="Sport.tv 1" tvg-logo="https://dl.dropboxusercontent.com/s/hlxxmcm3dcxd2hy/sporttv.png" group-title="Portugal" type="channel",Sport.tv 1
+https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
+
+#EXTINF:-1 tvg-name="Sport.tv 2" tvg-logo="https://dl.dropboxusercontent.com/s/hlxxmcm3dcxd2hy/sporttv.png" group-title="Portugal" type="channel",Sport.tv 2
+https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
+
+#EXTINF:-1 tvg-name="Sport.tv 3" tvg-logo="https://dl.dropboxusercontent.com/s/hlxxmcm3dcxd2hy/sporttv.png" group-title="Portugal" type="channel",Sport.tv 3
+https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
+
+#EXTINF:-1 tvg-name="Sport.tv 4" tvg-logo="https://dl.dropboxusercontent.com/s/hlxxmcm3dcxd2hy/sporttv.png" group-title="Portugal" type="channel",Sport.tv 4
+https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
+
+#EXTINF:-1 tvg-name="Dubai Sport 2" tvg-logo="https://dl.dropboxusercontent.com/s/o3qd1a1gpe6ztia/dubaisports2.png" group-title="Emiratos Arabes Unidos" type="channel",Dubai Sport 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-name="Dubai Sports 3" tvg-logo="https://dl.dropboxusercontent.com/s/vq8ed1nf10ym1n1/dubaisports3.png" group-title="Emiratos Arabes Unidos" type="channel",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-name="True Premiere 1" tvg-logo="https://dl.dropboxusercontent.com/s/b5jnn0j8lk9lo9w/truepremierfootball1.png" group-title="Tailandia" type="channel",True Premiere 1
+https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="True Premiere 2" tvg-logo="https://dl.dropboxusercontent.com/s/3fh3h16lgp0835m/truepremierfootball2.png" group-title="Tailandia" type="channel",True Premiere 2
+https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="True Premiere 3" tvg-logo="https://dl.dropboxusercontent.com/s/r83u0ga13f4ajpa/truepremierfootball3.png" group-title="Tailandia" type="channel",True Premiere 3
+https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="True Premiere 4" tvg-logo="https://dl.dropboxusercontent.com/s/j4qaqxhnqwijf63/truepremierfootball4.png" group-title="Tailandia" type="channel",True Premiere 4
+https://www.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="True Premiere 5" tvg-logo="https://dl.dropboxusercontent.com/s/pcqvszx59tu0xg9/truepremierfootball5.png" group-title="Tailandia" type="channel",True Premiere 5
+https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Nosso Futebol" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/07/nossofutebol.png" group-title="Brasil" type="channel",Nosso Futebol
+https://embmaxtv.online/nossofutebol/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-name="Band" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/06/band.png" group-title="Brasil" type="channel",Band
+https://lb1.embmaxtv.online/bandsp/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/06/TVGlobo2025.webp" group-title="Brasil" type="channel",Globo
+https://lb1.embmaxtv.online/globosp/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-name="Record" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/06/record.png" group-title="Brasil" type="channel",Record
+https://lb1.embmaxtv.online/recordsp/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-name="Sbt" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/06/sbt.png" group-title="Brasil" type="channel",Sbt
+https://lb1.embmaxtv.online/sbtsp/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-name="Rede Tv" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/06/redetv.png" group-title="Brasil" type="channel",Rede Tv
+https://lb1.embmaxtv.online/redetv/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-name="Redevida" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/06/mP1qfp2.png" group-title="Brasil" type="channel",Redevida
+https://lb1.embmaxtv.online/redevida/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-name="Band News" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/06/3YlJsCL.png" group-title="Brasil" type="channel",Band News
+https://lb1.embmaxtv.online/bandnews/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-name="Globo News" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/06/3yZyaCm.png" group-title="Brasil" type="channel",Globo News
+https://lb1.embmaxtv.online/globonews/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-name="Record News" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/06/HZDRG0K.png" group-title="Brasil" type="channel",Record News
+https://lb1.embmaxtv.online/recordnews/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gPR66x3/GLOBOPNG.png" group-title="Brasil" type="channel",Globo Rio de Janeiro FHD
+http://45.140.192.98:8080/stream/globoplay/globoriodejaneirofhd/stream.m3u8?uid=1495326181
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gPR66x3/GLOBOPNG.png" group-title="Brasil" type="channel",CBN RJ
+http://45.140.192.98:8080/stream/globoplay/cbnrj/stream.m3u8?uid=3153694877
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gPR66x3/GLOBOPNG.png" group-title="Brasil" type="channel",Globo Minas
+http://45.140.192.98:8080/stream/globoplay/globominas/stream.m3u8?uid=710028653
+
+#EXTINF:-1 tvg-logo="https://img.r7.com/images/record-tv-06112023200313177" group-title="Brasil" type="channel",Record Rio HD
+http://45.140.192.98:8080/stream/recordtv/recordriohd/stream.m3u8?uid=685853112
+
+#EXTINF:-1 tvg-logo="https://img.r7.com/images/record-tv-06112023200313177" group-title="Brasil" type="channel",Record SP HD
+http://45.140.192.98:8080/stream/recordtv/recordsphd/stream.m3u8?uid=1825163311
+
+#EXTINF:-1 tvg-name="Band Sports FHD H265" tvg-logo="http://www.imgscc.top/logos/bandsport250.png" group-title="Brasil" type="channel",Band Sports FHD H265
+http://alerquinaz.top:80/Streax2025/vn5hxfqv/37.ts
+
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="Band Sports FHD H265²" tvg-logo="http://www.imgscc.top/logos/bandsport250.png" group-title="Brasil" type="channel",Band Sports FHD H265²
+http://alerquinaz.top:80/Streax2025/vn5hxfqv/234890.ts
+
+#EXTINF:-1 tvg-id="Thbandlitoral.br" tvg-name="Band Sports FHD²" tvg-logo="http://www.imgscc.top/logos/bandsport250.png" group-title="Brasil" type="channel",Band Sports FHD²
+http://alerquinaz.top:80/Streax2025/vn5hxfqv/234891.ts
+
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="Band Sports SD²" tvg-logo="http://www.imgscc.top/logos/bandsport250.png" group-title="Brasil" type="channel",Band Sports SD²
+http://alerquinaz.top:80/Streax2025/vn5hxfqv/234892.ts
+
+#EXTINF:-1 tvg-name="Campeonato Carioca 2" tvg-logo="http://www.imgscc.top/logos/cariocao250.png" group-title="Brasil" type="channel",Campeonato Carioca 2
+http://alerquinaz.top:80/Streax2025/vn5hxfqv/102440.ts
+
+#EXTINF:-1 tvg-name="Cazé TV 3" tvg-logo="https://imgscc.top/logos/cazetv.png" group-title="Brasil" type="channel",Cazé TV 3
+http://alerquinaz.top:80/Streax2025/vn5hxfqv/102442.ts
+
+#EXTINF:-1 tvg-name="Cazé TV 1" tvg-logo="https://imgscc.top/logos/cazetv.png" group-title="Brasil" type="channel",Cazé TV 1
+http://alerquinaz.top:80/Streax2025/vn5hxfqv/102439.ts
+
+#EXTINF:-1 tvg-name="Cazé TV 2" tvg-logo="https://imgscc.top/logos/cazetv.png" group-title="Brasil" type="channel",Cazé TV 2
+http://alerquinaz.top:80/Streax2025/vn5hxfqv/102443.ts
+
+#EXTINF:-1 tvg-id="sportv" tvg-name="Sportv" tvg-logo="https://i.ibb.co/QKLg2vX/sport-tv.png" group-title="Brasil" ch-number="201" type="channel",⚽Sportv
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=sportv
+
+#EXTINF:-1 tvg-id="sportv2" tvg-name="Sportv 2" tvg-logo="https://i.ibb.co/QKLg2vX/sport-tv.png" group-title="Brasil" ch-number="202" type="channel",⚽Sportv 2
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=sportv2
+
+#EXTINF:-1 tvg-id="sportv3" tvg-name="Sportv 3" tvg-logo="https://i.ibb.co/QKLg2vX/sport-tv.png" group-title="Brasil" ch-number="203" type="channel",⚽Sportv 3
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=sportv3
+
+#EXTINF:-1 tvg-id="premiere" tvg-name="Premiere FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="Brasil" ch-number="204" type="channel",Premiere FC
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=premiere
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
+#EXTINF:-1 tvg-id="PREMIERECLUBES.tv" tvg-name="PREMIERECLUBES.tv" tvg-logo="https://images.uncyc.org/pt/f/f1/Logotipo_PFC.png" group-title="Brasil" ch-number="22" type="channel",PREMIERE  CLUBES
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
+#EXTINF:-1 tvg-id="PREMIERE2.tv" tvg-name="PREMIERE2.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="Brasil" ch-number="23" type="channel",PREMIERE 2
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9547f9aead1237c8a3b1bf0a91ed9995:534fab4541fef31921dd970c65d51848
+#EXTINF:-1 tvg-id="PREMIERE3.tv" tvg-name="PREMIERE3.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="Brasil" ch-number="24" type="channel",PREMIERE 3
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98
+#EXTINF:-1 tvg-id="PREMIERE4.tv" tvg-name="PREMIERE4.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="Brasil" ch-number="25" type="channel",PREMIERE 4
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5a3ac0b892bfccdf352b6def9cb2764:ac0936acc0036fad2273efaa42b1fafd
+#EXTINF:-1 tvg-id="PREMIERE5.tv" tvg-name="PREMIERE5.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="Brasil" ch-number="26" type="channel",PREMIERE 5
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=05cedc366ce4ec735ee4b33fcefbf01f:475d6dd40eaba6896e02b26a6cf34d95
+#EXTINF:-1 tvg-id="PREMIERE6.tv" tvg-name="PREMIERE6.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="Brasil" ch-number="27" type="channel",PREMIERE 6
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ce96e01eee54fb77e5cc4e7b753d6b0:184f94303d3357b9a7381ccdeee9b611
+#EXTINF:-1 tvg-id="PREMIERE7.tv" tvg-name="PREMIERE7.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="Brasil" ch-number="28" type="channel",PREMIERE 7
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ba384f9d983c731ab1e3702c16e2faf:f28adca4375e8a041fd22aef26440009
+#EXTINF:-1 tvg-id="PREMIERE8MOSAICO.tv" tvg-name="PREMIERE8MOSAICO.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="Brasil" ch-number="29" type="channel",PREMIERE 8 MOSAICO
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+#EXTINF:-1 tvg-id="CAZÉTV.tv" tvg-name="CAZÉTV.tv" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" group-title="Brasil" ch-number="30" type="channel",CAZÉ TV
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+
+#EXTINF:-1 tvg-id="CAZÉTV2.tv" tvg-name="CAZÉTV2.tv" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" group-title="Brasil" ch-number="31" type="channel",CAZÉ TV 2
+https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ba384f9d983c731ab1e3702c16e2faf:f28adca4375e8a041fd22aef26440009
+#EXTINF:-1 tvg-id="PREMIERE8MOSAICO.tv" tvg-name="PREMIERE8MOSAICO.tv" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="Brasil" ch-number="29" type="channel",Premiere Mosaico
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd
+
+#EXTINF:-1 tvg-id="El.Garage.TV.-.South.(Latin.America).(GARAG).ar" tvg-name="Garage TV Argentina" tvg-logo="https://elgarage.com/wp-content/uploads/2021/04/favicon.png" group-title="Argentina" ch-number="205" type="channel",Garage TV Argentina
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC Sports Play Argentina" tvg-logo="https://play-lh.googleusercontent.com/lMZ8IE19zdpnlDuZSPtapCYDBDwOGXlovEMsZHXClDzl0m_MHuMM1Hsdo-oohnFW3Q" group-title="Argentina" ch-number="206" type="channel",TYC Sports Play Argentina
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+
+#EXTINF:-1 tvg-id="Dubai.Racing.ae" tvg-name="Dubai Racing" tvg-logo="https://logo.iptveditor.com/dubairacing.png" group-title="Emiratos Arabes Unidos" ch-number="207" type="channel",Dubai Racing Emiratos Arabes Unidos
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dubai.Racing.ae" tvg-name="Dubai Racing 2" tvg-logo="https://logo.iptveditor.com/dubairacing2.png" group-title="Emiratos Arabes Unidos" ch-number="208" type="channel",Dubai Racing 2 Emiratos Arabes Unidos
+https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dubai.Racing.ae" tvg-name="Dubai Racing 3" tvg-logo="https://logo.iptveditor.com/dubairacing3.png" group-title="Emiratos Arabes Unidos" ch-number="209" type="channel",Dubai Racing 3 Emiratos Arabes Unidos
+https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-name="Alkass Two Arabia Saudita" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="Arabia Saudita" ch-number="210" type="channel",Alkass Two Arabia Saudita
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hef/master.m3u8
+
+#EXTINF:-1 tvg-id="AlkassThree.qa" tvg-name="Alkass Three Arabia Saudita" tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="Arabia Saudita" ch-number="211" type="channel",Alkass Three Arabia Saudita
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vak/master.m3u8
+
+#EXTINF:-1 tvg-id="AlkassFive.qa" tvg-name="Alkass Five Arabia Saudita" tvg-logo="https://i.imgur.com/6RGNGsM.png" group-title="Arabia Saudita" ch-number="212" type="channel",Alkass Five Arabia Saudita
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5nnha/master.m3u8
+
+#EXTINF:-1 tvg-id="AlkassSHOOF.qa" tvg-name="Alkass SHOOF Arabia Saudita" tvg-logo="https://shoof.alkass.net/assets/images/shoof.png" group-title="Arabia Saudita" ch-number="213" type="channel",Alkass SHOOF Arabia Saudita
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1/master.m3u8
+
+#EXTINF:-1 tvg-id="sportdigital.Fussball.de" tvg-logo="https://i.imgur.com/8KiZkJF.png" group-title="Alemania" ch-number="214" type="channel",Sportdigital Fussball Alemania
+https://a1xs.vip/120001
+
+#EXTINF:-1 tvg-id="6720e2bddaad7f000872f274" tvg-name="DFB Play TV Alemania" tvg-logo="https://images.pluto.tv/channels/6720e2bddaad7f000872f274/colorLogoPNG.png" group-title="Alemania" ch-number="215" type="channel",DFB Play TV Alemania
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6720e2bddaad7f000872f274/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 tvg-id="DE:.More.Than.Sports.TV.de" tvg-name="More Than Sports Alemania" tvg-logo="https://betasales.mvsuite.de/wp-content/themes/motorvision/img/logo.png" group-title="Alemania" ch-number="216" type="channel",More Than Sports Alemania
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+
+#EXTINF:-1 tvg-id="64b67f0424ade50008a3be17" tvg-name="DAZN Darts Alemania" tvg-logo="https://images.pluto.tv/channels/64b67f0424ade50008a3be17/colorLogoPNG.png" group-title="Alemania" ch-number="217" type="channel",DAZN Darts Alemania
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b67f0424ade50008a3be17/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 tvg-id="660e97bce8fba8000853d43f" tvg-name="Scooore Alemania" tvg-logo="https://images.pluto.tv/channels/660e97bce8fba8000853d43f/colorLogoPNG.png" group-title="Alemania" ch-number="218" type="channel",Scooore Alemania
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/660e97bce8fba8000853d43f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN Brasil" tvg-logo="https://logo.iptveditor.com/espn.png" group-title="Brasil" ch-number="219" type="channel",ESPN Brasil
+https://zekonew.newkso.ru/zeko/premium81/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="ESPN.2.b" tvg-name="ESPN 2 Brasil" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="Brasil" ch-number="220" type="channel",ESPN 2 Brasil
+https://windnew.newkso.ru/wind/premium82/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="São.Paulo/SP..ESPN.3.HD.br" tvg-name="ESPN 3 Brasil" tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="Brasil" ch-number="221" type="channel",ESPN 3 Brasil
+https://ddy6new.newkso.ru/ddy6/premium83/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="São.Paulo/SP..ESPN.4.HD.br" tvg-name="ESPN 4 Brasil" tvg-logo="https://logo.iptveditor.com/espn4.png" group-title="Brasil" ch-number="222" type="channel",ESPN 4 Brasil
+https://ddy6new.newkso.ru/ddy6/premium85/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="64b9370b409629000802d32b" tvg-name="Canal UOL Brasil" tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png" group-title="Brasil" ch-number="223" type="channel",Canal UOL Brasil
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 tvg-id="6014761dfb91870008ea6463" tvg-name="TV Turbo Brasil" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="Brasil" ch-number="224" type="channel",TV Turbo Brasil
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f32d2db0af67400077f29c4" tvg-name="TV Esporte Brasil" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png" group-title="Brasil" ch-number="225" type="channel",TV Esporte Brasil
+https://is.gd/BdIRpQ?5f32d2db0af67400077f29c4.m3u8
+
+#EXTINF:-1 tvg-id="plex.tv.Fight.Network.plex" tvg-name="N Sports Brasil" tvg-logo="https://nsports.com.br/wp-content/uploads/2025/06/Logo_NSports_Vertical-04.png" group-title="Brasil" ch-number="226" type="channel",N Sports Brasil
+https://video01.soultv.com.br/nsports/nsports/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/KPQATdVmjapOiFSnkTP-Ca9_dKDUtMbBiL0PwcM_P449S3-9LdnXD8DizSw71648pX2902C-Dg=w0" group-title="Brasil" ch-number="227" type="channel",Desimpedidos Brasil
+https://cc-vvkv6xjfc6w5v.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8
+
+#EXTINF:-1 tvg-id="66997e8d3a4ad20008e50be9" tvg-name="Fifa+ Brasil" tvg-logo="https://images.pluto.tv/channels/66997e8d3a4ad20008e50be9/colorLogoPNG.png" group-title="Brasil" ch-number="228" type="channel",Fifa+ Brasil
+https://9b663bb2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcHRfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Urban Turbo Brasil" tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/archive/15/public/1666631616/urban_turbo-1666631616.png" group-title="Brasil" ch-number="229" type="channel",Urban Turbo Brasil
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/106.m3u8
+
+#EXTINF:-1 tvg-logo="http://acelerados.tv/site/wp-content/uploads/2018/04/logo-acelerados-lg.png" group-title="Brasil" ch-number="230" type="channel",Acelerados Brasil
+https://cc-afscwj856ih88.akamaized.net/IJKL/Amagi/Offgrid/Acelerados_BR/Acelerados.m3u8
+
+#EXTINF:-1 tvg-id="Motorvision.HD.pt" tvg-name="Motorvision Brasil" tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" group-title="Brasil" ch-number="232" type="channel",Motorvision Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
+
+#EXTINF:-1 tvg-name="GP TV" tvg-logo="https://www.grandepremio.com.br/wp-content/themes/grandepremio/assets/img/gp-logo-branca-atualizada.png" group-title="Brasil" ch-number="233" type="channel",GP TV Brasil
+https://fast-channels-t2.b-cdn.net/grandepremio/aovivo_abr/grandepremio/aovivo_1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fuel.TV.HD.pt" tvg-name="Fuel tv Brasil" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6d37acb509ed72b6cc59cdb32828cbc0.png" group-title="Brasil" ch-number="234" type="channel",Fuel tv Brasil
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="GE Fast Brasil" tvg-logo="https://imgur.com/0q6qsui.png" group-title="Brasil" ch-number="235" type="channel",GE Fast Brasil
+https://cc-huzqc47g60md7.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8
+
+#EXTINF:-1 tvg-id="6660b636cb3ea10008429c6a" tvg-name="SFT Combat Brasil" tvg-logo="https://images.pluto.tv/channels/6660b636cb3ea10008429c6a/colorLogoPNG.png" group-title="Brasil" ch-number="236" type="channel",SFT Combat Brasil
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6660b636cb3ea10008429c6a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 tvg-id="668c5d3bfd9eb2000882bb50" tvg-name="One Championship tv Brasil" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/one_championship.png" group-title="Brasil" ch-number="237" type="channel",One Championship tv Brasil
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 tvg-id="63eba66da8b2270008436b10" tvg-name="World Poker Tour Brasil" tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png" group-title="Brasil" ch-number="238" type="channel",World Poker Tour Brasil
+https://cc-b6qwhugqif6k0.akamaized.net/WPT/World_Poker_Tour_BR/World_Poker_Tour.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvdapesca.webp" group-title="Brasil" ch-number="239" type="channel",Tv da Pesca Brasil
+https://isaocorp.cloudecast.com/tvdapesca/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.Chilevisión.(CHV).cl" tvg-name="CHV Deportes Chile" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kEpXGzt3yiLRabrjqkppFTbdHiBGQo_3ljlB4HzNoaoRM=s900-c-k-c0x00ffffff-no-rj" group-title="Chile" ch-number="241" type="channel",CHV Deportes Chile
+https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8
+
+#EXTINF:-1 tvg-name="Futgo" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="Chile" ch-number="242" type="channel",FutGO Chile
+https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8
+
+#EXTINF:-1 tvg-name="Sport Ext Chile" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/SportXrxt.webp" group-title="Chile" ch-number="243" type="channel",Sport Ext Chile
+https://marine2.miplay.cl/sportext/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cytavision.Sports.6HD.cy" tvg-logo="https://primetel.com.cy/primetel/logos/1837195.png" group-title="Chipre" ch-number="244" type="channel",Cytavision Sports 6 Chipre
+https://windnew.newkso.ru/wind/premium916/mono.m3u8|Referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Cytavision.Sports.7HD.cy" tvg-logo="https://primetel.com.cy/primetel/logos/1837204.png" group-title="Chipre" ch-number="245" type="channel",Cytavision Sports 7 Chipre
+https://windnew.newkso.ru/wind/premium917/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Cytavision.Sports.1HD.cy" tvg-logo="https://primetel.com.cy/primetel/logos/1837138.png" group-title="Chipre" ch-number="246" type="channel",Cytavision Sports 1 Chipre
+https://windnew.newkso.ru/wind/premium911/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Cytavision.Sports.2HD.cy" tvg-logo="https://primetel.com.cy/primetel/logos/1837147.png" group-title="Chipre" ch-number="247" type="channel",Cytavision Sports 2 Chipre
+https://windnew.newkso.ru/wind/premium912/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Cytavision.Sports.3HD.cy" tvg-logo="https://primetel.com.cy/primetel/logos/1837156.png" group-title="Chipre" ch-number="248" type="channel",Cytavision Sports 3 Chipre
+https://windnew.newkso.ru/wind/premium913/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Cytavision.Sports.4HD.cy" tvg-logo="https://primetel.com.cy/primetel/logos/1837177.png" group-title="Chipre" ch-number="249" type="channel",Cytavision Sports 4 Chipre
+https://windnew.newkso.ru/wind/premium914/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Cytavision.Sports.5HD.cy" tvg-logo="https://primetel.com.cy/primetel/logos/1837186.png" group-title="Chipre" ch-number="250" type="channel",Cytavision Sports 5 Chipre
+https://windnew.newkso.ru/wind/premium915/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Arena.Sport.4.HD.(RS).rs" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/tv-logos/main/countries/serbia/arena-sport-4-icon-rs.png" group-title="Serbia" ch-number="251" type="channel",Arena Sport 4 Serbia
+https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8|Referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="tv2sportx.dk" tvg-logo="https://logo.iptveditor.com/tv2sportx.png" group-title="Dinamarca" ch-number="252" type="channel",TV2 Sport x Dinamarca
+https://dokko1new.newkso.ru/dokko1/premium808/mono.m3u8|Referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Arena.Sport.1.HD.sk" tvg-name="Nova.Sport.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Arena_Sport_TV_1.png" group-title="Eslovaquia" ch-number="253" type="channel",Arena Sport 1 Eslovaquia
+https://dash2.antik.sk/stream/nvidia_arena_sport1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="Arena.Sport.2.HD.sk" tvg-name="Nova.Sport.2" tvg-logo="https://wordpress.tvtelo.cz/wp-content/uploads/2023/11/arena-sport-2-logo.webp" group-title="Eslovaquia" ch-number="254" type="channel",Arena Sport 2 Eslovaquia
+https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Nova.Sport.1.HD.sk" tvg-logo="https://logo.iptveditor.com/novasport1.png" group-title="Eslovaquia" ch-number="255" type="channel",Nova Sport 1 Eslovaquia
+https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="Nova.Sport.2.HD.sk" tvg-logo="https://logo.iptveditor.com/novasport2.png" group-title="Eslovaquia" ch-number="256" type="channel",Nova Sport 2 Eslovaquia
+https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="Sport1.HD.sk" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/sport1.png" group-title="Eslovaquia" ch-number="257" type="channel",Sport 1 Eslovaquia
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="Sport2.HD.sk" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/sport2.png" group-title="Eslovaquia" ch-number="258" type="channel",Sport 2 Eslovaquia
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="ETBD.TV" tvg-name="ETB Deportes España" tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200" group-title="España" ch-number="259" type="channel",ETB Deportes España
+https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="Aragón.TV.Int.es" tvg-name="Aragon tv Internacional España" tvg-logo="http://www.aragontelevision.es/logos/apple-touch-icon.png" group-title="España" ch-number="260" type="channel",Aragon tv Internacional España
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
+#EXTINF:-1 tvg-id="ESBC410000577" tvg-name="tdp España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="España" ch-number="261" type="channel",tdp España
+https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+
+#EXTINF:-1 tvg-id="ES:.TOP.Barça.es" tvg-name="Top Barça España" tvg-logo="https://logo.iptveditor.com/baratv.png" group-title="España" ch-number="262" type="channel",TOP Barça España
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Real.Madrid.TV.pt" tvg-name="Real Madrid Tv España" tvg-logo="https://canvas-lb.tubitv.com/opts/dtOnuqlVZ1KKmQ==/4bb7bdf1-16ba-4d7c-b077-893f549c4022/CHgQeDoFMS4xLjdAAQ==" group-title="España" ch-number="263" type="channel",Real Madrid Tv España
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" tvg-name="Bein SportsXtra España" tvg-logo="https://canvas-lb.tubitv.com/opts/N4mMjnMVKDMNow==/8968101d-cc65-48c7-a102-0a6a46ca55db/CHgQeDoFMS4xLjdAAQ==" group-title="España" ch-number="264" type="channel",Bein SportsXtra España
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1 tvg-id="ESBD3600001Q1" tvg-name="La liga Inside España" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20241022T050545SQUARE.png" group-title="España" ch-number="265" type="channel",La liga Inside España
+https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
+
+#EXTINF:-1 tvg-name="Futsalmafer.tv España" tvg-logo="https://play-lh.googleusercontent.com/cpWdFlXAmAfzx6XC7m3BPJ4g-5epEcJvAQqKzQsG1gCBYoVZgMbdKyV7Srv4RnIwRQ=w240-h480-rw" group-title="España" ch-number="266" type="channel",Futsalmafer.tv España
+https://vdo.grupolimalive.com:3398/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="ES:.Surf.Channel.es" tvg-name="Surf Channel España" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/SurfChannel.webp" group-title="España" ch-number="268" type="channel",Surf Channel España
+https://surfchannel-surfchannel-01-es.samsung.wurl.tv/playlist_1920x1080_4200k.m3u8
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" tvg-name="bein sports Francia" tvg-logo="https://logo.iptveditor.com/beinsports1.png" group-title="Francia" ch-number="269" type="channel",Bein Sports 1 Francia
+https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.3.fr" tvg-name="bein sports Francia" tvg-logo="https://logo.iptveditor.com/aubeinsports3.png" group-title="Francia" ch-number="270" type="channel",Bein Sports 3 Francia
+https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
+
+#EXTINF:-1 tvg-id="Eurosport.1.be" tvg-name="Eurosport 1 Francia" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="Francia" ch-number="271" type="channel",Eurosport 1 Francia
+https://ddy6new.newkso.ru/ddy6/premium772/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="SSC1" tvg-logo="https://i.ibb.co/xq5Xf0nV/ssc.png" group-title="Arabia Saudita" type="channel",SSC 1
+https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+#EXTINF:-1 tvg-id="SSC2" tvg-logo="https://i.ibb.co/xq5Xf0nV/ssc.png" group-title="Arabia Saudita" type="channel",SSC 2
+https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8BCFC55359E24BD7AD1C5560A96DDD3C:b5dcf721ab522af92a9d3bf0bd55b596
+#EXTINF:-1 tvg-id="SSC3" tvg-logo="https://i.ibb.co/xq5Xf0nV/ssc.png" group-title="Arabia Saudita" type="channel",SSC 3
+https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
+#EXTINF:-1 tvg-id="SSC4" tvg-logo="https://i.ibb.co/xq5Xf0nV/ssc.png" group-title="Arabia Saudita" type="channel",SSC 4
+https://ssc-4-enc.edgenextcdn.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
+#EXTINF:-1 tvg-id="SSC5" tvg-logo="https://i.ibb.co/xq5Xf0nV/ssc.png" group-title="Arabia Saudita" type="channel",SSC 5
+https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
+#EXTINF:-1 tvg-id="SSC_EXTRA1" tvg-logo="https://i.ibb.co/xq5Xf0nV/ssc.png" group-title="Arabia Saudita" type="channel",SSC Extra 1
+https://ssc-extra-1-enc.edgenextcdn.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
+#EXTINF:-1 tvg-id="SSC_EXTRA2" tvg-logo="https://i.ibb.co/xq5Xf0nV/ssc.png" group-title="Arabia Saudita" type="channel",SSC Extra 2
+https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
+#EXTINF:-1 tvg-id="SSC_EXTRA3" tvg-logo="https://i.ibb.co/xq5Xf0nV/ssc.png" group-title="Arabia Saudita" type="channel",SSC Extra 3
+https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
+#EXTINF:-1 tvg-id="SSC_NEWS" tvg-logo="https://i.ibb.co/xq5Xf0nV/ssc.png" group-title="Arabia Saudita" type="channel",SSC News
+https://ssc-news-live-ak.akamaized.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 1 Arabia Saudita" tvg-logo="https://i.imgur.com/xwjQGj4.png" group-title="Arabia Saudita" ch-number="1" type="channel",SSC Sport 1 Arabia Saudita
+https://ddy6new.newkso.ru/ddy6/premium614/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 2 Arabia Saudita" tvg-logo="https://i.imgur.com/Jj4UvTX.png" group-title="Arabia Saudita" ch-number="2" type="channel",SSC Sport 2 Arabia Saudita
+https://ddy6new.newkso.ru/ddy6/premium615/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 3 Arabia Saudita" tvg-logo="https://i.imgur.com/uzsmfNh.png" group-title="Arabia Saudita" ch-number="3" type="channel",SSC Sport 3 Arabia Saudita
+https://ddy6new.newkso.ru/ddy6/premium616/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 4 Arabia Saudita" tvg-logo="https://i.imgur.com/oJ4adLP.png" group-title="Arabia Saudita" ch-number="4" type="channel",SSC Sport 4 Arabia Saudita
+https://ddy6new.newkso.ru/ddy6/premium617/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport 5 Arabia Saudita" tvg-logo="https://i.imgur.com/eoICEWN.png" group-title="Arabia Saudita" ch-number="5" type="channel",SSC Sport 5 Arabia Saudita
+https://ddy6new.newkso.ru/ddy6/premium618/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport Extra 1 Arabia Saudita" tvg-logo="https://i.imgur.com/5AQlBtc.png" group-title="Arabia Saudita" ch-number="6" type="channel",SSC Sport Extra 1 Arabia Saudita
+https://dokko1new.newkso.ru/dokko1/premium619/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport Extra 2 Arabia Saudita" tvg-logo="https://i.imgur.com/5AQlBtc.png" group-title="Arabia Saudita" ch-number="7" type="channel",SSC Sport Extra 2 Arabia Saudita
+https://dokko1new.newkso.ru/dokko1/premium620/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Sport Extra 3 Arabia Saudita" tvg-logo="https://i.imgur.com/eNx8jk9.png" group-title="Arabia Saudita" ch-number="8" type="channel",SSC Sport Extra 3 Arabia Saudita
+https://dokko1new.newkso.ru/dokko1/premium621/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d04975236a44f62857d181597705ee6:362133e9cb13189ad4fe095ced216f60
+#EXTINF:-1 tvg-id="ziggo2" tvg-logo="https://i.ibb.co/rGGhG06d/Ziggo-svg.png" group-title="Paises Bajos" type="channel",Ziggo 2 Paises Bajos
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
+#EXTINF:-1 tvg-id="ziggo3" tvg-logo="https://i.ibb.co/rGGhG06d/Ziggo-svg.png" group-title="Paises Bajos" type="channel",Ziggo 3 Paises Bajos
+https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
+#EXTINF:-1 tvg-id="ziggo5" tvg-logo="https://i.ibb.co/rGGhG06d/Ziggo-svg.png" group-title="Paises Bajos" type="channel",Ziggo 5 Paises Bajos
+https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
+#EXTINF:-1 tvg-id="ziggo6" tvg-logo="https://i.ibb.co/rGGhG06d/Ziggo-svg.png" group-title="Paises Bajos" type="channel",Ziggo 6 Paises Bajos
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
+
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="Ziggo Sport" tvg-logo="https://logo.iptveditor.com/ziggosport.png" group-title="Paises Bajos" ch-number="1" type="channel",Ziggo Sport Paises Bajos
+http://185.236.230.212:9982/play/a09f
+
+#EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" tvg-name="Ziggo Sport 2" tvg-logo="https://logo.iptveditor.com/ziggosport2.png" group-title="Paises Bajos" ch-number="2" type="channel",Ziggo Sport 2 Paises Bajos
+http://78.130.250.2:8023/play/a00f/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d04975236a44f62857d181597705ee6:362133e9cb13189ad4fe095ced216f60
+#EXTINF:-1 tvg-name="ziggo2" group-title="Paises Bajos" ch-number="3" type="channel",ziggo2 Paises Bajos
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
+#EXTINF:-1 tvg-name="ziggo3" group-title="Paises Bajos" ch-number="4" type="channel",ziggo3 Paises Bajos
+https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
+#EXTINF:-1 tvg-name="ziggo5" group-title="Paises Bajos" ch-number="5" type="channel",ziggo5 Paises Bajos
+https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
+#EXTINF:-1 tvg-name="ziggo6" group-title="Paises Bajos" ch-number="6" type="channel",ziggo6 Paises Bajos
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
+
+#EXTINF:-1 tvg-id="CANAL+.FORMULA1.fr" tvg-name="CANAL+ Francia" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/1200px-Canal%2B_Live.svg.png" group-title="Francia" ch-number="285" tvg-chno="285" type="channel",Canal+ Live Francia
+https://zekonew.newkso.ru/zeko/premium273/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="La.chaine.l’Équipe.fr" tvg-name="L'Equipe 1 Francia" tvg-logo="https://logo.iptveditor.com/lequipe.png" group-title="Francia" ch-number="286" type="channel",L'Equipe 1 Francia
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/ekip.m3u8
+
+#EXTINF:-1 tvg-id="FRBC4200004XH" tvg-name="L'Equipe 1 Francia" tvg-logo="https://medias.lequipe.fr/logo-media/lequipe-live-1-000/320" group-title="Francia" ch-number="287" type="channel",L'Equipe 1 Francia
+https://d3fikx9gxqicmt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3rguah8p42dlq/Lequipe1_FR.m3u8
+
+#EXTINF:-1 tvg-id="FRBC4200005X2" tvg-name="L'Equipe 2 Francia" tvg-logo="https://medias.lequipe.fr/logo-media/lequipe-live-2-000/320" group-title="Francia" ch-number="288" type="channel",L'Equipe 2 Francia
+https://d2sfyr4abdyf7s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-d5yhiqv8rl7x3/Lequipe2_FR.m3u8
+
+#EXTINF:-1 tvg-id="Sport.en.France.fr" tvg-name="Sport en France Francia" tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp" group-title="Francia" ch-number="289" type="channel",Sport en France Francia
+https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
+
+#EXTINF:-1 tvg-id="infosport+.ch" tvg-name="InfoSport Francia" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/InfoSport.webp" group-title="Francia" ch-number="290" type="channel",InfoSport Francia
+http://212.102.60.80/Infosport/index.m3u8
+
+#EXTINF:-1 tvg-name="RugbyZone tv Francia" tvg-logo="https://rugbyzone.tv/assets/logo-CpXvPZZq.png" group-title="Francia" ch-number="291" type="channel",RugbyZone tv Francia
+https://lte.wiseplayout.com/WiseM3U8_19/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/equidia.png" group-title="Francia" ch-number="292" type="channel",Equidia Racing Mag Francia
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/equidia.png" group-title="Francia" ch-number="293" type="channel",Equidia Racing Trot Francia
+https://equidia-racingmag-b28-cdn.hexaglobe.net/a8ef792093c83be32a3c81001bfa493d/6882168d/equidia/equidia-mobileapp-ios-1/eqdracingmagbkp_fre.smil/slot12_1080p.m3u8
+
+#EXTINF:-1 tvg-id="COSMOTE.Sport.1.HD.gr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cosmote-sport-1.png" group-title="Grecia" ch-number="294" type="channel",Cosmote Sport 1 Grecia
+https://dokko1new.newkso.ru/dokko1/premium622/mono.m3u8|Referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Canal.Azteca.Guatemala.sv" tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="Guatemala" ch-number="295" type="channel",Azteca Guate Guatemala
+https://ch1-tva.duin.dev/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="Tigo Sports Guatemala" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="Guatemala" ch-number="296" type="channel",Tigo Sports Guatemala
+https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
+
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/geosuper.png" group-title="India" ch-number="297" type="channel",GEO SUPER India
+http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sport.2.HD.il" tvg-name="Sport 2 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/sport2-il.png" group-title="Israel" ch-number="298" type="channel",Sport 2 Israel
+https://zekonew.newkso.ru/zeko/premium141/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Sport.3.HD.il" tvg-name="Sport 3 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/sport3-il.png" group-title="Israel" ch-number="299" type="channel",Sport 3 Israel
+https://zekonew.newkso.ru/zeko/premium142/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Sport.4.HD.il" tvg-name="Sport 4 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/sport4-il.png" group-title="Israel" ch-number="300" type="channel",Sport 4 Israel
+https://zekonew.newkso.ru/zeko/premium143/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="5SPORT.HD.il" tvg-name="Sport 5 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/5sport-il.png" group-title="Israel" ch-number="301" type="channel",Sport 5 Israel
+https://zekonew.newkso.ru/zeko/premium144/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="5PLUS.HD.il" tvg-name="Sport 5 PLUS Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/5plus-il.png" group-title="Israel" ch-number="302" type="channel",Sport 5 + Israel
+https://zekonew.newkso.ru/zeko/premium145/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="5LIVE.HD.il" tvg-name="Sport 5 Live Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/5live-il.png" group-title="Israel" ch-number="303" type="channel",Sport 5 Live Israel
+https://zekonew.newkso.ru/zeko/premium146/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="5STARS.il" tvg-name="Sport 5 Star Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5stars-il.png" group-title="Israel" ch-number="304" type="channel",Sport 5 Star Israel
+https://zekonew.newkso.ru/zeko/premium147/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="5GOLD.il" tvg-name="Sport 5 Gold Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5gold-il.png" group-title="Israel" ch-number="305" type="channel",Sport 5 Gold Israel
+https://ddy6new.newkso.ru/ddy6/premium148/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Sport.1.HD.il" tvg-name="Sport 1 Israel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/sport1-il.png" group-title="Israel" ch-number="306" type="channel",Sport 1 Israel
+https://zekonew.newkso.ru/zeko/premium140/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Inter.TV.it" tvg-name="Inter TV Italia" tvg-logo="https://i.imgur.com/FUTqh2L.png" group-title="Italia" ch-number="307" type="channel",Inter TV Italia
+https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport Italia" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/RaiSport.webp" group-title="Italia" ch-number="308" type="channel",Rai Sport Italia
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+
+#EXTINF:-1 tvg-id="IT:.Sport.Italia.it" tvg-name="Sport Italia Italia" tvg-logo="https://logo.iptveditor.com/sportitaliaplus.png" group-title="Italia" ch-number="309" type="channel",SportItalia Plus Italia
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ITBC4700002CO" tvg-name="Solo Calcio Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Italia" ch-number="310" type="channel",Solo Calcio Italia
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IT:.Sport.Italia.it" tvg-name="Sport Italia Replica Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/SI_Live_24_2005.svg/120px-SI_Live_24_2005.svg.png" group-title="Italia" ch-number="311" type="channel",Sportitalia Replica Italia
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Horse.TV.HD.it" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/ItalianHorsetv.webp" group-title="Italia" ch-number="312" type="channel",Italian Horse TV Italia
+https://horsetv.aswifi.it/horsetv/live/index.m3u8
+
+#EXTINF:-1 tvg-id="IT900004Y5" tvg-name="Motortrend Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Italia" ch-number="313" type="channel",WB Motortrend Italia
+https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
+
+#EXTINF:-1 tvg-id="IT600001L6" tvg-name="Italian Fishing TV Italia" tvg-logo="https://logo.iptveditor.com/italianfishingtv.png" group-title="Italia" ch-number="314" type="channel",Italian Fishing TV Italia
+https://fms.premio.link/fishingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="J.SPORTS.1.jp" tvg-name="J Sports 1 Japon" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/JSports.webp" group-title="Japon" ch-number="315" type="channel",J Sports 1 Japon
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="J.SPORTS.2.jp" tvg-name="J Sports 2 Japon" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/JSports.webp" group-title="Japon" ch-number="316" type="channel",J Sports 2 Japon
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="J.SPORTS.3.jp" tvg-name="J Sports 3 Japon" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/JSports.webp" group-title="Japon" ch-number="317" type="channel",J Sports 3 Japon
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="J.SPORTS.4.jp" tvg-name="J Sports 4 Japon" tvg-logo="https://github.com/inspirationlinks/m3u/raw/refs/heads/live/LogosTv/JSports.webp" group-title="Japon" ch-number="318" type="channel",J Sports 4 Japon
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-name="GOLF Japon" tvg-logo="https://play-lh.googleusercontent.com/tFzIcVRD5ahqBrIAZ8jsxy1TsHLPJppM2jUZAT6mVemwj-JyMzh7ztb0DcvcgFj-_Q" group-title="Japon" ch-number="319" type="channel",N Golf Network Japon
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="Go3.Sport.1.lt" tvg-name="Go3 Sport 1 Lituania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/lithuania/go-3-sport-1-lt.png" group-title="Lituania" ch-number="320" type="channel",Go3 Sport 1 Lituania
+https://wahyu1ptv.pages.dev/Go3Sport1-HD.m3u8
+
+#EXTINF:-1 tvg-id="Go3.Sport.2.lt" tvg-name="Go3 Sport 2 Lituania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/lithuania/go-3-sport-2-lt.png" group-title="Lituania" ch-number="321" type="channel",Go3 Sport 2 Lituania
+https://wahyu1ptv.pages.dev/Go3Sport1-HD.m3u8
+
+#EXTINF:-1 tvg-id="Go3.Sport.3.lt" tvg-name="Go3 Sport 3 Lituania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/lithuania/go-3-sport-3-lt.png" group-title="Lituania" ch-number="322" type="channel",Go3 Sport 3 Lituania
+https://wahyu1ptv.pages.dev/Go3Sport1-HD.m3u8
+
+#EXTINF:-1 tvg-id="Go3.Sport.Open.lt" tvg-name="Go3 Sport Open Lituania" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/lithuania/go-3-sport-open-lt.png" group-title="Lituania" ch-number="323" type="channel",Go3 Sport Open Lituania
+https://ott.udptv.xyz/stream/udptv/go3sportopen/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+
+#EXTINF:-1 tvg-id="SukanRTM.my" tvg-name="Sukan rtm Malasia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/1600px-Sukan_RTM_1_April.png" group-title="Malasia" ch-number="324" type="channel",Sukan rtm Malasia
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+
+#EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN Mexico" tvg-logo="https://logo.iptveditor.com/tudn.png" group-title="Mexico" ch-number="325" type="channel",TUDN Mexico
+http://drewlive24.duckdns.org:4123?url=https://windnew.newkso.ru/wind/premium230/mono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+
+#EXTINF:-1 tvg-id="plex.tv.Canela.Deportes.plex" tvg-name="Canela Tv Deportes Mexico" tvg-logo="https://provider-static.plex.tv/epg/cms/production/48bf07c9-08a1-4853-9c8d-91f55491763c/CM-Plex-Dark_background-CanelaDeportes_-_Camila_Conti.png" group-title="Mexico" ch-number="326" type="channel",Canela Tv Deportes Mexico
+https://amg00658-amg00658c2-lg-us-3415.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-caneladeportes-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+
+#EXTINF:-1 tvg-id="Fox.Deportes.us" tvg-name="Fox Deportes Español Mexico" tvg-logo="https://canvas-lb.tubitv.com/opts/4hNpM_f3bPSNlQ==/c2e45f1a-4b72-41fa-ac6c-4e402ca4d4f6/CHgQeDoFMS4xLjdAAQ==" group-title="Mexico" ch-number="327" type="channel",Fox Deportes Español Mexico
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+
+#EXTINF:-1 tvg-id="USBD1700016X9" tvg-name="Zona TUDN Mexico" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/zona_tudn.png" group-title="Mexico" ch-number="328" type="channel",Zona TUDN Mexico
+https://d3uyzgka2wjb00.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-210b4ta87o6ku/server/distrib/jNRQRKsWY2kxcEBj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqmz_IT731OUAvvJWUO7I8b4d6FbvMORdXi-V3pCAiBr0JARhscS-3WkU6FOUBwPwJnqMv4GCOc2gutqomsrHRTSUl3Uveb3OckqNB_uKGZyqp1MN-AQSrGdqPGHIh4ZkM1qcJ0EK7zvf7UnRlwZAqGWGOqra8-Rqhg0wiraCQIS5xbUshW63EISyP5F69-b62g/manifest.m3u8
+
+#EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" tvg-name="TV Azteca Deportes Premium Mexico" tvg-logo="https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png" group-title="Mexico" ch-number="329" type="channel",TV Azteca Deportes Premium Mexico
+https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=310a09e6-6fd5-11ef-b1af-be21e08b28a0
+
+#EXTINF:-1 tvg-id="USBD12000255B" tvg-name="Fifa+ Mexico" tvg-logo="https://images.pluto.tv/channels/66997e8d3a4ad20008e50be9/colorLogoPNG.png" group-title="Mexico" ch-number="330" type="channel",Fifa+ Mexico
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcHRfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal.GolTV.Latinoamérica.pa" tvg-name="GolTv Panama" tvg-logo="https://logo.iptveditor.com/goltv.png" group-title="Panama" ch-number="331" type="channel",Goltv Panama
+http://181.78.82.6:46090/play/a01z/index.m3u8
+
+#EXTINF:-1 tvg-id="Eleven.Sports.1.pl" tvg-name="Eleven Sports 1 Polonia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-1-int.png" group-title="Polonia" ch-number="332" type="channel",Eleven Sports 1 Polonia
+https://windnew.newkso.ru/wind/premium71/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Eleven.Sports.2.pl" tvg-name="Eleven Sports 2 Polonia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-2-int.png" group-title="Polonia" ch-number="333" type="channel",Eleven Sports 2 Polonia
+https://windnew.newkso.ru/wind/premium72/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Eleven.Sports.4.pl" tvg-name="Eleven Sports 3 Polonia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-4-int.png" group-title="Polonia" ch-number="334" type="channel",Eleven Sports 4 Polonia
+https://nfsnew.newkso.ru/nfs/premium1/mono.m3u8|Referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Eleven.Sports.3.pl" tvg-name="Eleven Sports 3 Polonia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-3-int.png" group-title="Polonia" ch-number="335" type="channel",Eleven Sports 3 Polonia
+https://ddy6new.newkso.ru/ddy6/premium428/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Canal.11.HD.pt" tvg-logo="https://logo.iptveditor.com/canal11.png" group-title="Portugal" ch-number="336" type="channel",Canal 11 Portugal
+https://ddy6new.newkso.ru/ddy6/premium540/mono.m3u8|referer=https://kisskissplay.cfd/&origin=https://kisskissplay.cfd&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="Sporting.TV.HD.pt" tvg-name="Sporting tv Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Sporting.webp" group-title="Portugal" ch-number="337" type="channel",Sporting tv Portugal
+https://ddy6new.newkso.ru/ddy6/premium716/mono.m3u8|referer=https://kisskissplay.cfd/&origin=https://kisskissplay.cfd&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="Porto.Canal.HD.pt" tvg-name="Porto Canal Portugal" tvg-logo="https://logo.iptveditor.com/portocanal.png" group-title="Portugal" ch-number="338" type="channel",Porto Canal Portugal
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport1.cz" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="Republica Checa" ch-number="339" type="channel",Eurosport 1 Republica Checa
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="Eurosport2.cz" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosport2.png" group-title="Republica Checa" ch-number="340" type="channel",Eurosport 2 Republica Checa
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="ČT.Sport.cz" tvg-name="ČT.Sport Republica Checa" tvg-logo="https://logo.iptveditor.com/ctsport.png" group-title="Republica Checa" ch-number="341" type="channel",ČT Sport Republica Checa
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="RTVS.SPORT.cz" tvg-name="RTVS.SPORT Republica Checa" tvg-logo="https://logo.iptveditor.com/rtvssport.png" group-title="Republica Checa" ch-number="342" type="channel",RTVS Šport Republica Checa
+https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Eurosport.1.HD.sk" tvg-name="Eurosport 1 Eslovaquia" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="Eslovaquia" ch-number="343" type="channel",EuroSports 1 Eslovaquia
+https://windnew.newkso.ru/wind/premium41/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Eurosport.2.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosport2.png" group-title="Eslovaquia" ch-number="344" type="channel",EuroSports 2 Eslovaquia
+https://windnew.newkso.ru/wind/premium42/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Real.Madrid.TV.pt" tvg-name="Real Madrid Tv Reino Unido" tvg-logo="https://canvas-lb.tubitv.com/opts/dtOnuqlVZ1KKmQ==/4bb7bdf1-16ba-4d7c-b077-893f549c4022/CHgQeDoFMS4xLjdAAQ==" group-title="Reino Unido" ch-number="345" type="channel",Real Madrid Tv Reino Unido
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-name="MUTV Reino Unido" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/MUTV.webp" group-title="Reino Unido" ch-number="346" type="channel",MUTV Reino Unido
+https://vavoo.to/play/1269043656/index.m3u8
+
+#EXTINF:-1 tvg-id="659bfdc66e4f6a0008ae4a3c" tvg-name="DAZN Womens Football Reino Unido" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3000002UT_20240214T034909SQUARE.png_20240214034909.png" group-title="Reino Unido" ch-number="347" type="channel",DAZN Womens Football Reino Unido
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Dazn-Womens-Football.m3u8
+
+#EXTINF:-1 tvg-name="Golf Nation Reino Unido" tvg-logo="https://yt3.googleusercontent.com/0quLOHQGvWD-1HZ4HOL7r6rZW7DNCAhFclJ9koDxZAo19U-uSnchcWKmBDRcmUVmEsZs4__I9w=w0" group-title="Reino Unido" ch-number="348" type="channel",Golf Nation Reino Unido
+https://now.golfnation.com/gnlive_1280x720.m3u8
+
+#EXTINF:-1 tvg-id="mjh-discovery-fast1" tvg-name="Warner Bros TV Motorheads Reino Unido" tvg-logo="https://i.ibb.co/Xs1PxZs/driveauto.png" group-title="Reino Unido" ch-number="349" type="channel",Drive tv Reino Unido
+https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-drivetv-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GBBA1500006H6" tvg-name="Motor Racing Reino Unido" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/motorancing.webp" group-title="Reino Unido" ch-number="350" type="channel",MotorRacing Reino Unido
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/69fae76b-c5fe-11ec-967f-401ac48a6867/0/master.m3u8
+
+#EXTINF:-1 tvg-id="MTRSPT1.distro" tvg-name="Mtrspt1 Reino Unido" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Mtrspt1.webp" group-title="Reino Unido" ch-number="351" type="channel",Mtrspt1 Reino Unido
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lges/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Automoto tv Reino Unido" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" group-title="Reino Unido" ch-number="352" type="channel",Automoto tv Reino Unido
+http://100automoto.tv:1935/bgtv1/autotv/chunklist_w783411174.m3u8
+
+#EXTINF:-1 tvg-id="650b68bc2ce8e40008ac9c14" tvg-name="Faduel tv Reino Unido" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2102b336-c77e-4f12-a447-a451f326beca/FDTV_EXTRA_AttributionWhite_RDX.png" group-title="Reino Unido" ch-number="353" type="channel",Faduel tv Reino Unido
+https://stitcher.pluto.tv/stitch/hls/channel/650b68bc2ce8e40008ac9c14/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match Football 1 Rusia" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB1.png" group-title="Rusia" ch-number="354" type="channel",Match Football 1 Rusia
+https://ddy6new.newkso.ru/ddy6/premium136/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match Football 2 Rusia" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB2.png" group-title="Rusia" ch-number="355" type="channel",Match Football 2 Rusia
+https://ddy6new.newkso.ru/ddy6/premium137/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match Football 3 Rusia" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB3.png" group-title="Rusia" ch-number="356" type="channel",Match Football 3 Rusia
+http://185.57.68.33:8091/110/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SanMarinoRTVSport.sm" tvg-logo="https://www.sanmarinortv.sm/assets/frontend/img/footer-logo-sport-bn.png" group-title="San Marino" ch-number="357" type="channel",San Marino RTV Sport San Marino
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="Arena.Premium.3.HD.(RS).rs" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/tv-logos/main/countries/serbia/arena-3-premium-icon-rs.png" group-title="Serbia" ch-number="358" type="channel",Arena Sport 3 Premium Serbia
+https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8|Referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Arena.Sport.2.HD.(RS).rs" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/tv-logos/main/countries/serbia/arena-sport-2-icon-rs.png" group-title="Serbia" ch-number="359" type="channel",Arena Sport 2 Serbia
+https://zekonew.newkso.ru/zeko/premium430/mono.m3u8|Referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="SK1.ba" tvg-name="Sport Klub 1 Serbia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-1-hr.png" group-title="Serbia" ch-number="360" type="channel",Sport Klub 1 Serbia
+https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="SK.2.HR.(Portals).ba" tvg-name="Sport Klub 2 Serbia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-2-hr.png" group-title="Serbia" ch-number="361" type="channel",Sport Klub 2 Serbia
+https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="SK.3.HR.(Portals).ba" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-3-hr.png" group-title="Serbia" ch-number="362" type="channel",Sport Klub 3 Serbia
+https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8|Referer=https://xtreaweb.top/&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fxtreaweb.top
+
+#EXTINF:-1 tvg-id="SK.4.HR.(Portals).ba" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-4-hr.png" group-title="Serbia" ch-number="363" type="channel",Sport Klub 4 Serbia
+https://nfsnew.newkso.ru/nfs/premium104/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Sportklub.HD.pl" tvg-name="Sport Klub HD Serbia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/hd/sportklub-hd-hr.png" group-title="Serbia" ch-number="364" type="channel",Sport Klub HD Serbia
+https://windnew.newkso.ru/wind/premium453/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png" group-title="Turquia" ch-number="365" type="channel",FENERBAHÇE TV Turquia
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Turkmenistan Sport Turkmenistan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Turkmenistan_Sport.png" group-title="Turkmenistan" ch-number="366" type="channel",Turkmenistan Sport Turkmenistan
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+
+#EXTINF:-1 group-title="Uzbekistan" ch-number="367" type="channel",UZ sport Uzbekistan
+https://vs1759.vcdn.biz/519f03ad03fe54e0d772b98cf1be2087_megogo/live/hls/b/4000/u_sid/0/o/140085841/rsid/e31ac304-6b51-4858-8220-2426f7ba0679/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/213.230.87.109*asn/u_srvc/83576/u_did/web_A3X9Ki7uk5l71nHQLj1IQyMVwDVRnQLz/type.live/chunklist-sid8417518138264452615-b4000000-a72531.m3u8
+
+#EXTINF:-1 tvg-id="Canal.Gol.TV.Estados.Unidos.sv" tvg-name="GolTv Estados Unidos" tvg-logo="https://logo.iptveditor.com/goltv.png" group-title="Estados Unidos" ch-number="368" type="channel",Goltv Estados Unidos
+https://zekonew.newkso.ru/zeko/premium597/mono.m3u8|Referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="62b97ef310e33f0007eea65f" tvg-name="Bein SportXtra Estados Unidos" tvg-logo="https://canvas-lb.tubitv.com/opts/YGSpnx9tIgkN9g==/937ec9ac-b4bd-4c16-863b-75dc816129d7/CHgQeDoFMS4xLjdAAQ==" group-title="Estados Unidos" ch-number="369" type="channel",Bein SportXtra Estados Unidos
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="plex.tv.Canela.Deportes.plex" tvg-name="Canela Tv Deportes Mexico" tvg-logo="https://provider-static.plex.tv/epg/cms/production/48bf07c9-08a1-4853-9c8d-91f55491763c/CM-Plex-Dark_background-CanelaDeportes_-_Camila_Conti.png" group-title="Mexico" ch-number="326" type="channel",Canela Tv Deportes Mexico
+https://amg00658-amg00658c2-lg-us-3415.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-caneladeportes-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+
+#EXTINF:-1 tvg-id="Fox.Deportes.us" tvg-name="Fox Deportes Español Mexico" tvg-logo="https://canvas-lb.tubitv.com/opts/4hNpM_f3bPSNlQ==/c2e45f1a-4b72-41fa-ac6c-4e402ca4d4f6/CHgQeDoFMS4xLjdAAQ==" group-title="Mexico" ch-number="327" type="channel",Fox Deportes Español Mexico
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+
+#EXTINF:-1 tvg-id="USBD1700016X9" tvg-name="Zona TUDN Mexico" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/zona_tudn.png" group-title="Mexico" ch-number="328" type="channel",Zona TUDN Mexico
+https://d3uyzgka2wjb00.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-210b4ta87o6ku/server/distrib/jNRQRKsWY2kxcEBj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqmz_IT731OUAvvJWUO7I8b4d6FbvMORdXi-V3pCAiBr0JARhscS-3WkU6FOUBwPwJnqMv4GCOc2gutqomsrHRTSUl3Uveb3OckqNB_uKGZyqp1MN-AQSrGdqPGHIh4ZkM1qcJ0EK7zvf7UnRlwZAqGWGOqra8-Rqhg0wiraCQIS5xbUshW63EISyP5F69-b62g/manifest.m3u8
+
+#EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" tvg-name="TV Azteca Deportes Premium Mexico" tvg-logo="https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png" group-title="Mexico" ch-number="329" type="channel",TV Azteca Deportes Premium Mexico
+https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=310a09e6-6fd5-11ef-b1af-be21e08b28a0
+
+#EXTINF:-1 tvg-id="USBD12000255B" tvg-name="Fifa+ Mexico" tvg-logo="https://images.pluto.tv/channels/66997e8d3a4ad20008e50be9/colorLogoPNG.png" group-title="Mexico" ch-number="330" type="channel",Fifa+ Mexico
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcHRfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sport1.cz" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="Republica Checa" ch-number="339" type="channel",Eurosport 1 Republica Checa
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="Eurosport2.cz" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosport2.png" group-title="Republica Checa" ch-number="340" type="channel",Eurosport 2 Republica Checa
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="ČT.Sport.cz" tvg-name="ČT.Sport Republica Checa" tvg-logo="https://logo.iptveditor.com/ctsport.png" group-title="Republica Checa" ch-number="341" type="channel",ČT Sport Republica Checa
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="RTVS.SPORT.cz" tvg-name="RTVS.SPORT Republica Checa" tvg-logo="https://logo.iptveditor.com/rtvssport.png" group-title="Republica Checa" ch-number="342" type="channel",RTVS Šport Republica Checa
+https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Eurosport.1.HD.sk" tvg-name="Eurosport 1 Eslovaquia" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="Eslovaquia" ch-number="343" type="channel",EuroSports 1 Eslovaquia
+https://windnew.newkso.ru/wind/premium41/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Eurosport.2.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosport2.png" group-title="Eslovaquia" ch-number="344" type="channel",EuroSports 2 Eslovaquia
+https://windnew.newkso.ru/wind/premium42/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Real.Madrid.TV.pt" tvg-name="Real Madrid Tv Reino Unido" tvg-logo="https://canvas-lb.tubitv.com/opts/dtOnuqlVZ1KKmQ==/4bb7bdf1-16ba-4d7c-b077-893f549c4022/CHgQeDoFMS4xLjdAAQ==" group-title="Reino Unido" ch-number="345" type="channel",Real Madrid Tv Reino Unido
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-name="MUTV Reino Unido" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/MUTV.webp" group-title="Reino Unido" ch-number="346" type="channel",MUTV Reino Unido
+https://vavoo.to/play/1269043656/index.m3u8
+
+#EXTINF:-1 tvg-id="659bfdc66e4f6a0008ae4a3c" tvg-name="DAZN Womens Football Reino Unido" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3000002UT_20240214T034909SQUARE.png_20240214034909.png" group-title="Reino Unido" ch-number="347" type="channel",DAZN Womens Football Reino Unido
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Dazn-Womens-Football.m3u8
+
+#EXTINF:-1 tvg-name="Golf Nation Reino Unido" tvg-logo="https://yt3.googleusercontent.com/0quLOHQGvWD-1HZ4HOL7r6rZW7DNCAhFclJ9koDxZAo19U-uSnchcWKmBDRcmUVmEsZs4__I9w=w0" group-title="Reino Unido" ch-number="348" type="channel",Golf Nation Reino Unido
+https://now.golfnation.com/gnlive_1280x720.m3u8
+
+#EXTINF:-1 tvg-id="mjh-discovery-fast1" tvg-name="Warner Bros TV Motorheads Reino Unido" tvg-logo="https://i.ibb.co/Xs1PxZs/driveauto.png" group-title="Reino Unido" ch-number="349" type="channel",Drive tv Reino Unido
+https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-drivetv-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GBBA1500006H6" tvg-name="Motor Racing Reino Unido" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/motorancing.webp" group-title="Reino Unido" ch-number="350" type="channel",MotorRacing Reino Unido
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/69fae76b-c5fe-11ec-967f-401ac48a6867/0/master.m3u8
+
+#EXTINF:-1 tvg-id="MTRSPT1.distro" tvg-name="Mtrspt1 Reino Unido" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Mtrspt1.webp" group-title="Reino Unido" ch-number="351" type="channel",Mtrspt1 Reino Unido
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lges/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Automoto tv Reino Unido" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" group-title="Reino Unido" ch-number="352" type="channel",Automoto tv Reino Unido
+http://100automoto.tv:1935/bgtv1/autotv/chunklist_w783411174.m3u8
+
+#EXTINF:-1 tvg-id="650b68bc2ce8e40008ac9c14" tvg-name="Faduel tv Reino Unido" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2102b336-c77e-4f12-a447-a451f326beca/FDTV_EXTRA_AttributionWhite_RDX.png" group-title="Reino Unido" ch-number="353" type="channel",Faduel tv Reino Unido
+https://stitcher.pluto.tv/stitch/hls/channel/650b68bc2ce8e40008ac9c14/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match Football 1 Rusia" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB1.png" group-title="Rusia" ch-number="354" type="channel",Match Football 1 Rusia
+https://ddy6new.newkso.ru/ddy6/premium136/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match Football 2 Rusia" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB2.png" group-title="Rusia" ch-number="355" type="channel",Match Football 2 Rusia
+https://ddy6new.newkso.ru/ddy6/premium137/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match Football 3 Rusia" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB3.png" group-title="Rusia" ch-number="356" type="channel",Match Football 3 Rusia
+http://185.57.68.33:8091/110/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Euro.Sports.1.GB.GB" tvg-name="Eurosport 1 Reino Unido" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="Reino Unido" ch-number="357" type="channel",Eurosport 1 Reino Unido
+https://windnew.newkso.ru/wind/premium41/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Eurosport.2.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosport2.png" group-title="Reino Unido" ch-number="358" type="channel",Eurosport 2 Reino Unido
+https://windnew.newkso.ru/wind/premium42/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Real.Madrid.TV.pt" tvg-name="Real Madrid Tv Reino Unido" tvg-logo="https://canvas-lb.tubitv.com/opts/dtOnuqlVZ1KKmQ==/4bb7bdf1-16ba-4d7c-b077-893f549c4022/CHgQeDoFMS4xLjdAAQ==" group-title="Reino Unido" ch-number="359" type="channel",Real Madrid Tv Reino Unido
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-name="MUTV Reino Unido" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/MUTV.webp" group-title="Reino Unido" ch-number="360" type="channel",MUTV Reino Unido
+https://vavoo.to/play/1269043656/index.m3u8
+
+#EXTINF:-1 tvg-id="659bfdc66e4f6a0008ae4a3c" tvg-name="DAZN Womens Football Reino Unido" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3000002UT_20240214T034909SQUARE.png_20240214034909.png" group-title="Reino Unido" ch-number="361" type="channel",DAZN Womens Football Reino Unido
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Dazn-Womens-Football.m3u8
+
+#EXTINF:-1 tvg-name="Golf Nation Reino Unido" tvg-logo="https://yt3.googleusercontent.com/0quLOHQGvWD-1HZ4HOL7r6rZW7DNCAhFclJ9koDxZAo19U-uSnchcWKmBDRcmUVmEsZs4__I9w=w0" group-title="Reino Unido" ch-number="362" type="channel",Golf Nation Reino Unido
+https://now.golfnation.com/gnlive_1280x720.m3u8
+
+#EXTINF:-1 tvg-id="mjh-discovery-fast1" tvg-name="Warner Bros TV Motorheads Reino Unido" tvg-logo="https://i.ibb.co/Xs1PxZs/driveauto.png" group-title="Reino Unido" ch-number="363" type="channel",Drive tv Reino Unido
+https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-drivetv-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GBBA1500006H6" tvg-name="Motor Racing Reino Unido" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/motorancing.webp" group-title="Reino Unido" ch-number="364" type="channel",MotorRacing Reino Unido
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/69fae76b-c5fe-11ec-967f-401ac48a6867/0/master.m3u8
+
+#EXTINF:-1 tvg-id="MTRSPT1.distro" tvg-name="Mtrspt1 Reino Unido" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Mtrspt1.webp" group-title="Reino Unido" ch-number="365" type="channel",Mtrspt1 Reino Unido
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lges/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Automoto tv Reino Unido" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" group-title="Reino Unido" ch-number="366" type="channel",Automoto tv Reino Unido
+http://100automoto.tv:1935/bgtv1/autotv/chunklist_w783411174.m3u8
+
+#EXTINF:-1 tvg-id="650b68bc2ce8e40008ac9c14" tvg-name="Faduel tv Reino Unido" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2102b336-c77e-4f12-a447-a451f326beca/FDTV_EXTRA_AttributionWhite_RDX.png" group-title="Reino Unido" ch-number="367" type="channel",Faduel tv Reino Unido
+https://stitcher.pluto.tv/stitch/hls/channel/650b68bc2ce8e40008ac9c14/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match Football 1 Rusia" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB1.png" group-title="Rusia" ch-number="368" type="channel",Match Football 1 Rusia
+https://ddy6new.newkso.ru/ddy6/premium136/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match Football 2 Rusia" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB2.png" group-title="Rusia" ch-number="369" type="channel",Match Football 2 Rusia
+https://ddy6new.newkso.ru/ddy6/premium137/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match Football 3 Rusia" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB3.png" group-title="Rusia" ch-number="370" type="channel",Match Football 3 Rusia
+http://185.57.68.33:8091/110/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SanMarinoRTVSport.sm" tvg-logo="https://www.sanmarinortv.sm/assets/frontend/img/footer-logo-sport-bn.png" group-title="San Marino" ch-number="371" type="channel",San Marino RTV Sport San Marino
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="Arena.Premium.3.HD.(RS).rs" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/tv-logos/main/countries/serbia/arena-3-premium-icon-rs.png" group-title="Serbia" ch-number="372" type="channel",Arena Sport 3 Premium Serbia
+https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8|Referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Arena.Sport.2.HD.(RS).rs" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/tv-logos/main/countries/serbia/arena-sport-2-icon-rs.png" group-title="Serbia" ch-number="373" type="channel",Arena Sport 2 Serbia
+https://zekonew.newkso.ru/zeko/premium430/mono.m3u8|Referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="SK1.ba" tvg-name="Sport Klub 1 Serbia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-1-hr.png" group-title="Serbia" ch-number="374" type="channel",Sport Klub 1 Serbia
+https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="SK.2.HR.(Portals).ba" tvg-name="Sport Klub 2 Serbia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-2-hr.png" group-title="Serbia" ch-number="375" type="channel",Sport Klub 2 Serbia
+https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="SK.3.HR.(Portals).ba" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-3-hr.png" group-title="Serbia" ch-number="376" type="channel",Sport Klub 3 Serbia
+https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8|Referer=https://xtreaweb.top/&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fxtreaweb.top
+
+#EXTINF:-1 tvg-id="SK.4.HR.(Portals).ba" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-4-hr.png" group-title="Serbia" ch-number="377" type="channel",Sport Klub 4 Serbia
+https://nfsnew.newkso.ru/nfs/premium104/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Sportklub.HD.pl" tvg-name="Sport Klub HD Serbia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/hd/sportklub-hd-hr.png" group-title="Serbia" ch-number="378" type="channel",Sport Klub HD Serbia
+https://windnew.newkso.ru/wind/premium453/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png" group-title="Turquia" ch-number="379" type="channel",FENERBAHÇE TV Turquia
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Turkmenistan Sport Turkmenistan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Turkmenistan_Sport.png" group-title="Turkmenistan" ch-number="380" type="channel",Turkmenistan Sport Turkmenistan
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+
+#EXTINF:-1 group-title="Uzbekistan" ch-number="381" type="channel",UZ sport Uzbekistan
+https://vs1759.vcdn.biz/519f03ad03fe54e0d772b98cf1be2087_megogo/live/hls/b/4000/u_sid/0/o/140085841/rsid/e31ac304-6b51-4858-8220-2426f7ba0679/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/213.230.87.109*asn/u_srvc/83576/u_did/web_A3X9Ki7uk5l71nHQLj1IQyMVwDVRnQLz/type.live/chunklist-sid8417518138264452615-b4000000-a72531.m3u8
+
+#EXTINF:-1 tvg-id="Canal.Gol.TV.Estados.Unidos.sv" tvg-name="GolTv Estados Unidos" tvg-logo="https://logo.iptveditor.com/goltv.png" group-title="Estados Unidos" ch-number="382" type="channel",Goltv Estados Unidos
+https://zekonew.newkso.ru/zeko/premium597/mono.m3u8|Referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="62b97ef310e33f0007eea65f" tvg-name="Bein SportXtra Estados Unidos" tvg-logo="https://canvas-lb.tubitv.com/opts/YGSpnx9tIgkN9g==/937ec9ac-b4bd-4c16-863b-75dc816129d7/CHgQeDoFMS4xLjdAAQ==" group-title="Estados Unidos" ch-number="383" type="channel",Bein SportXtra Estados Unidos
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="plex.tv.Canela.Deportes.plex" tvg-name="Canela Tv Deportes Mexico" tvg-logo="https://provider-static.plex.tv/epg/cms/production/48bf07c9-08a1-4853-9c8d-91f55491763c/CM-Plex-Dark_background-CanelaDeportes_-_Camila_Conti.png" group-title="Mexico" ch-number="326" type="channel",Canela Tv Deportes Mexico
+https://amg00658-amg00658c2-lg-us-3415.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-caneladeportes-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+
+#EXTINF:-1 tvg-id="Fox.Deportes.us" tvg-name="Fox Deportes Español Mexico" tvg-logo="https://canvas-lb.tubitv.com/opts/4hNpM_f3bPSNlQ==/c2e45f1a-4b72-41fa-ac6c-4e402ca4d4f6/CHgQeDoFMS4xLjdAAQ==" group-title="Mexico" ch-number="327" type="channel",Fox Deportes Español Mexico
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+
+#EXTINF:-1 tvg-id="USBD1700016X9" tvg-name="Zona TUDN Mexico" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/zona_tudn.png" group-title="Mexico" ch-number="328" type="channel",Zona TUDN Mexico
+https://d3uyzgka2wjb00.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-210b4ta87o6ku/server/distrib/jNRQRKsWY2kxcEBj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqmz_IT731OUAvvJWUO7I8b4d6FbvMORdXi-V3pCAiBr0JARhscS-3WkU6FOUBwPwJnqMv4GCOc2gutqomsrHRTSUl3Uveb3OckqNB_uKGZyqp1MN-AQSrGdqPGHIh4ZkM1qcJ0EK7zvf7UnRlwZAqGWGOqra8-Rqhg0wiraCQIS5xbUshW63EISyP5F69-b62g/manifest.m3u8
+
+#EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" tvg-name="TV Azteca Deportes Premium Mexico" tvg-logo="https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png" group-title="Mexico" ch-number="329" type="channel",TV Azteca Deportes Premium Mexico
+https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=310a09e6-6fd5-11ef-b1af-be21e08b28a0
+
+#EXTINF:-1 tvg-id="USBD12000255B" tvg-name="Fifa+ Mexico" tvg-logo="https://images.pluto.tv/channels/66997e8d3a4ad20008e50be9/colorLogoPNG.png" group-title="Mexico" ch-number="330" type="channel",Fifa+ Mexico
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcHRfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal.GolTV.Latinoamérica.pa" tvg-name="GolTv Panama" tvg-logo="https://logo.iptveditor.com/goltv.png" group-title="Panama" ch-number="331" type="channel",Goltv Panama
+http://181.78.82.6:46090/play/a01z/index.m3u8
+
+#EXTINF:-1 tvg-id="Eleven.Sports.1.pl" tvg-name="Eleven Sports 1 Polonia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-1-int.png" group-title="Polonia" ch-number="332" type="channel",Eleven Sports 1 Polonia
+https://windnew.newkso.ru/wind/premium71/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Eleven.Sports.2.pl" tvg-name="Eleven Sports 2 Polonia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-2-int.png" group-title="Polonia" ch-number="333" type="channel",Eleven Sports 2 Polonia
+https://windnew.newkso.ru/wind/premium72/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Eleven.Sports.4.pl" tvg-name="Eleven Sports 3 Polonia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-4-int.png" group-title="Polonia" ch-number="334" type="channel",Eleven Sports 4 Polonia
+https://nfsnew.newkso.ru/nfs/premium1/mono.m3u8|Referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Eleven.Sports.3.pl" tvg-name="Eleven Sports 3 Polonia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-3-int.png" group-title="Polonia" ch-number="335" type="channel",Eleven Sports 3 Polonia
+https://ddy6new.newkso.ru/ddy6/premium428/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Canal.11.HD.pt" tvg-logo="https://logo.iptveditor.com/canal11.png" group-title="Portugal" ch-number="336" type="channel",Canal 11 Portugal
+https://ddy6new.newkso.ru/ddy6/premium540/mono.m3u8|referer=https://kisskissplay.cfd/&origin=https://kisskissplay.cfd&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="Sporting.TV.HD.pt" tvg-name="Sporting tv Portugal" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Sporting.webp" group-title="Portugal" ch-number="337" type="channel",Sporting tv Portugal
+https://ddy6new.newkso.ru/ddy6/premium716/mono.m3u8|referer=https://kisskissplay.cfd/&origin=https://kisskissplay.cfd&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="Porto.Canal.HD.pt" tvg-name="Porto Canal Portugal" tvg-logo="https://logo.iptveditor.com/portocanal.png" group-title="Portugal" ch-number="338" type="channel",Porto Canal Portugal
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport1.cz" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="Republica Checa" ch-number="339" type="channel",Eurosport 1 Republica Checa
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="Eurosport2.cz" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosport2.png" group-title="Republica Checa" ch-number="340" type="channel",Eurosport 2 Republica Checa
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="ČT.Sport.cz" tvg-name="ČT.Sport Republica Checa" tvg-logo="https://logo.iptveditor.com/ctsport.png" group-title="Republica Checa" ch-number="341" type="channel",ČT Sport Republica Checa
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="RTVS.SPORT.cz" tvg-name="RTVS.SPORT Republica Checa" tvg-logo="https://logo.iptveditor.com/rtvssport.png" group-title="Republica Checa" ch-number="342" type="channel",RTVS Šport Republica Checa
+https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Eurosport.1.HD.sk" tvg-name="Eurosport 1 Eslovaquia" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="Eslovaquia" ch-number="343" type="channel",EuroSports 1 Eslovaquia
+https://windnew.newkso.ru/wind/premium41/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Eurosport.2.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosport2.png" group-title="Eslovaquia" ch-number="344" type="channel",EuroSports 2 Eslovaquia
+https://windnew.newkso.ru/wind/premium42/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Real.Madrid.TV.pt" tvg-name="Real Madrid Tv Reino Unido" tvg-logo="https://canvas-lb.tubitv.com/opts/dtOnuqlVZ1KKmQ==/4bb7bdf1-16ba-4d7c-b077-893f549c4022/CHgQeDoFMS4xLjdAAQ==" group-title="Reino Unido" ch-number="345" type="channel",Real Madrid Tv Reino Unido
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-name="MUTV Reino Unido" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/MUTV.webp" group-title="Reino Unido" ch-number="346" type="channel",MUTV Reino Unido
+https://vavoo.to/play/1269043656/index.m3u8
+
+#EXTINF:-1 tvg-id="659bfdc66e4f6a0008ae4a3c" tvg-name="DAZN Womens Football Reino Unido" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3000002UT_20240214T034909SQUARE.png_20240214034909.png" group-title="Reino Unido" ch-number="347" type="channel",DAZN Womens Football Reino Unido
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Dazn-Womens-Football.m3u8
+
+#EXTINF:-1 tvg-name="Golf Nation Reino Unido" tvg-logo="https://yt3.googleusercontent.com/0quLOHQGvWD-1HZ4HOL7r6rZW7DNCAhFclJ9koDxZAo19U-uSnchcWKmBDRcmUVmEsZs4__I9w=w0" group-title="Reino Unido" ch-number="348" type="channel",Golf Nation Reino Unido
+https://now.golfnation.com/gnlive_1280x720.m3u8
+
+#EXTINF:-1 tvg-id="mjh-discovery-fast1" tvg-name="Warner Bros TV Motorheads Reino Unido" tvg-logo="https://i.ibb.co/Xs1PxZs/driveauto.png" group-title="Reino Unido" ch-number="349" type="channel",Drive tv Reino Unido
+https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-drivetv-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GBBA1500006H6" tvg-name="Motor Racing Reino Unido" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/LogosTv/motorancing.webp" group-title="Reino Unido" ch-number="350" type="channel",MotorRacing Reino Unido
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/69fae76b-c5fe-11ec-967f-401ac48a6867/0/master.m3u8
+
+#EXTINF:-1 tvg-id="MTRSPT1.distro" tvg-name="Mtrspt1 Reino Unido" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Mtrspt1.webp" group-title="Reino Unido" ch-number="351" type="channel",Mtrspt1 Reino Unido
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lges/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Automoto tv Reino Unido" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" group-title="Reino Unido" ch-number="352" type="channel",Automoto tv Reino Unido
+http://100automoto.tv:1935/bgtv1/autotv/chunklist_w783411174.m3u8
+
+#EXTINF:-1 tvg-id="650b68bc2ce8e40008ac9c14" tvg-name="Faduel tv Reino Unido" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2102b336-c77e-4f12-a447-a451f326beca/FDTV_EXTRA_AttributionWhite_RDX.png" group-title="Reino Unido" ch-number="353" type="channel",Faduel tv Reino Unido
+https://stitcher.pluto.tv/stitch/hls/channel/650b68bc2ce8e40008ac9c14/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match Football 1 Rusia" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB1.png" group-title="Rusia" ch-number="354" type="channel",Match Football 1 Rusia
+https://ddy6new.newkso.ru/ddy6/premium136/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match Football 2 Rusia" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB2.png" group-title="Rusia" ch-number="355" type="channel",Match Football 2 Rusia
+https://ddy6new.newkso.ru/ddy6/premium137/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Match Football 3 Rusia" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB3.png" group-title="Rusia" ch-number="356" type="channel",Match Football 3 Rusia
+http://185.57.68.33:8091/110/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SanMarinoRTVSport.sm" tvg-logo="https://www.sanmarinortv.sm/assets/frontend/img/footer-logo-sport-bn.png" group-title="San Marino" ch-number="357" type="channel",San Marino RTV Sport San Marino
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="Arena.Premium.3.HD.(RS).rs" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/tv-logos/main/countries/serbia/arena-3-premium-icon-rs.png" group-title="Serbia" ch-number="358" type="channel",Arena Sport 3 Premium Serbia
+https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8|Referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Arena.Sport.2.HD.(RS).rs" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/tv-logos/main/countries/serbia/arena-sport-2-icon-rs.png" group-title="Serbia" ch-number="359" type="channel",Arena Sport 2 Serbia
+https://zekonew.newkso.ru/zeko/premium430/mono.m3u8|Referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="SK1.ba" tvg-name="Sport Klub 1 Serbia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-1-hr.png" group-title="Serbia" ch-number="360" type="channel",Sport Klub 1 Serbia
+https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="SK.2.HR.(Portals).ba" tvg-name="Sport Klub 2 Serbia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-2-hr.png" group-title="Serbia" ch-number="361" type="channel",Sport Klub 2 Serbia
+https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="SK.3.HR.(Portals).ba" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-3-hr.png" group-title="Serbia" ch-number="362" type="channel",Sport Klub 3 Serbia
+https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8|Referer=https://xtreaweb.top/&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fxtreaweb.top
+
+#EXTINF:-1 tvg-id="SK.4.HR.(Portals).ba" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/sportklub-4-hr.png" group-title="Serbia" ch-number="363" type="channel",Sport Klub 4 Serbia
+https://nfsnew.newkso.ru/nfs/premium104/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="Sportklub.HD.pl" tvg-name="Sport Klub HD Serbia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/hd/sportklub-hd-hr.png" group-title="Serbia" ch-number="364" type="channel",Sport Klub HD Serbia
+https://windnew.newkso.ru/wind/premium453/mono.m3u8|referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png" group-title="Turquia" ch-number="365" type="channel",FENERBAHÇE TV Turquia
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Turkmenistan Sport Turkmenistan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Turkmenistan_Sport.png" group-title="Turkmenistan" ch-number="366" type="channel",Turkmenistan Sport Turkmenistan
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+
+#EXTINF:-1 group-title="Uzbekistan" ch-number="367" type="channel",UZ sport Uzbekistan
+https://vs1759.vcdn.biz/519f03ad03fe54e0d772b98cf1be2087_megogo/live/hls/b/4000/u_sid/0/o/140085841/rsid/e31ac304-6b51-4858-8220-2426f7ba0679/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/213.230.87.109*asn/u_srvc/83576/u_did/web_A3X9Ki7uk5l71nHQLj1IQyMVwDVRnQLz/type.live/chunklist-sid8417518138264452615-b4000000-a72531.m3u8
+
+#EXTINF:-1 tvg-id="Canal.Gol.TV.Estados.Unidos.sv" tvg-name="GolTv Estados Unidos" tvg-logo="https://logo.iptveditor.com/goltv.png" group-title="Estados Unidos" ch-number="368" type="channel",Goltv Estados Unidos
+https://zekonew.newkso.ru/zeko/premium597/mono.m3u8|Referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
+
+#EXTINF:-1 tvg-id="62b97ef310e33f0007eea65f" tvg-name="Bein SportXtra Estados Unidos" tvg-logo="https://canvas-lb.tubitv.com/opts/YGSpnx9tIgkN9g==/937ec9ac-b4bd-4c16-863b-75dc816129d7/CHgQeDoFMS4xLjdAAQ==" group-title="Estados Unidos" ch-number="369" type="channel",Bein SportXtra Estados Unidos
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="plex.tv.Canela.Deportes.plex" tvg-name="Canela Tv Deportes Mexico" tvg-logo="https://provider-static.plex.tv/epg/cms/production/48bf07c9-08a1-4853-9c8d-91f55491763c/CM-Plex-Dark_background-CanelaDeportes_-_Camila_Conti.png" group-title="Mexico" ch-number="326" type="channel",Canela Tv Deportes Mexico
+https://amg00658-amg00658c2-lg-us-3415.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-caneladeportes-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+
+#EXTINF:-1 tvg-id="Fox.Deportes.us" tvg-name="Fox Deportes Español Mexico" tvg-logo="https://canvas-lb.tubitv.com/opts/4hNpM_f3bPSNlQ==/c2e45f1a-4b72-41fa-ac6c-4e402ca4d4f6/CHgQeDoFMS4xLjdAAQ==" group-title="Mexico" ch-number="327" type="channel",Fox Deportes Español Mexico
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+
+#EXTINF:-1 tvg-id="USBD1700016X9" tvg-name="Zona TUDN Mexico" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/zona_tudn.png" group-title="Mexico" ch-number="328" type="channel",Zona TUDN Mexico
+https://d3uyzgka2wjb00.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-210b4ta87o6ku/server/distrib/jNRQRKsWY2kxcEBj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqmz_IT731OUAvvJWUO7I8b4d6
+102.7s
