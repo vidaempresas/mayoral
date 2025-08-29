@@ -140,19 +140,19 @@ group-title="Argentina - Provinciales"
 #EXTINF:-1 tvg-id="T5Satelital.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1161/CH_LOGO/800/542/0/0/62114771072283.png" group-title="Argentina - Provinciales" ch-number="5" type="channel",T5 Satelital
 https://cdn.sensa.com.ar/bpk-tv/T5Satelital/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="135#El Doce CANAL 12 DE CORDOBA" tvg-logo="https://i.imgur.com/HfyKPpD.png"  group-title="Argentina - Provinciales" ch-number="12" type="channel",El Doce Córdoba
+#EXTINF:-1 tvg-id="135#El Doce CANAL 12 DE CORDOBA" tvg-logo="https://i.imgur.com/HfyKPpD.png"  group-title="Argentina - Provinciales" ch-number="12" type="channel",El Doce group-title="Córdoba"
 https://api.m3use.projectmoose.xyz/m3u/francopetrini/fr channels/67f6bc096ebc0fecbf2ca8f0.m3u8?uid=francopetrini&pkey=kmEMiV
 
 
 ----------------------------------------------------------
-group-title="Argentina - Córdoba"
+group-title="Argentina - group-title="Córdoba""
 
-#EXTINF:0 group-title="Argentina - Córdoba" group-logo="https://i.ibb.co/yBWS6sVM/banderitaargentina.png",Argentina - Córdoba [Logo del Grupo]
-#EXTGRP:Argentina - Córdoba
+#EXTINF:0 group-title="Argentina - group-title="Córdoba"" group-logo="https://i.ibb.co/yBWS6sVM/banderitaargentina.png",Argentina - group-title="Córdoba" [Logo del Grupo]
+#EXTGRP:Argentina - group-title="Córdoba"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40eb9a4d4c2d374123cdaa14325f9589:432059bce61664caffc06223a1c081e2
-#EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/588/CH_LOGO/800/542/0/0/887528030752.png" group-title="Argentina - Córdoba" ch-number="8" type="channel",Telefé Córdoba
+#EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/588/CH_LOGO/800/542/0/0/887528030752.png" group-title="Argentina - group-title="Córdoba"" ch-number="8" type="channel",Telefé group-title="Córdoba"
 https://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 ------------------------------------------------------------
@@ -905,7 +905,7 @@ https://cdn.sensa.com.ar/output/c12pos/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff1e6f58369fa0457670eb452cb49f8a:4a5b005a7dbd38fe00c50d27fa23ab0a
-#EXTINF:-1 tvg-id="132#Telediario Television" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/782/CH_LOGO/800/542/0/0/93452015074309.png" group-title="Argentina - Córdoba" type="channel",Telediario Televisión
+#EXTINF:-1 tvg-id="132#Telediario Television" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/782/CH_LOGO/800/542/0/0/93452015074309.png" group-title="Argentina - group-title="Córdoba"" type="channel",Telediario Televisión
 https://cdn.sensa.com.ar/bpk-tv/TelediarioTelevision/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
