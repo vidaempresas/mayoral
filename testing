@@ -2418,9 +2418,80 @@ https://francope.elementfx.com/directv/canales/uru.txt
 
 #EXTINF:-1 content-type="playlist" group-title="Playlists Embebidas",Señales de Youtube
 https://api.m3use.projectmoose.xyz/m3u/francopetrini/fr%20channels.m3u
+------------------------------------------------------------
 
-#EXTINF:-1 content-type="playlist" group-title="Playlists Embebidas",Playlist
-https://cplus.lat/Teleplay/Apks/Listas/listapremium.m3u
+
+#EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJpZCI6IjIyNDVmNDhhNTk5ODQ0MmY4MzUwOTlkMzBmMmUwMzA1Iiwia2V5IjoiZjQ4ZjZjZTgxNmZlODZkOGMxMDU4N2U5YTdlOTI3YTMifV19
+#EXTINF:-1 tvg-id="BAND.br" tvg-logo="https://i.ibb.co/WpzKSZb8/band.png" group-title="Brasil", BAND
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BANDOP2.br" tvg-logo="https://i.ibb.co/WpzKSZb8/band.png" group-title="Brasil", BAND OP2
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJpZCI6IjIyNDVmNDhhNTk5ODQ0MmY4MzUwOTlkMzBmMmUwMzA1Iiwia2V5IjoiZjQ4ZjZjZTgxNmZlODZkOGMxMDU4N2U5YTdlOTI3YTMifV19
+#EXTINF:-1 tvg-id="GLOBOSP.br" tvg-logo="https://i.ibb.co/S5V0kxb/tv-globo.png" group-title="Brasil", GLOBO SP
+http://45.134.141.162:3366/stream/globo/sp1/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJpZCI6IjIyNDVmNDhhNTk5ODQ0MmY4MzUwOTlkMzBmMmUwMzA1Iiwia2V5IjoiZjQ4ZjZjZTgxNmZlODZkOGMxMDU4N2U5YTdlOTI3YTMifV19
+#EXTINF:-1 tvg-id="GLOBOBR.br" tvg-logo="https://i.ibb.co/S5V0kxb/tv-globo.png" group-title="Brasil", GLOBO RJ
+http://45.134.141.162:3366/stream/globo/rj/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJpZCI�IjIyNDVmNDhhNTk5ODQ0MmY4MzUwOTlkMzBmMmUwMzA1Iiwia2V5IjoiZjQ4ZjZjZTgxNmZlODZkOGMxMDU4N2U5YTdlOTI3YTMifV19
+#EXTINF:-1 tvg-id="GLOBOMS.br" tvg-logo="https://i.ibb.co/S5V0kxb/tv-globo.png" group-title="Brasil", GLOBO MS
+http://45.134.141.162:3366/stream/globo/ms1/master.m3u8
+
+#EXTINF:-1 tvg-id="GLOBOBA.br" tvg-logo="https://i.ibb.co/S5V0kxb/tv-globo.png" group-title="Brasil", GLOBO BA
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJpZCI6IjIyNDVmNDhhNTk5ODQ0MmY4MzUwOTlkMzBmMmUwMzA1Iiwia2V5IjoiZjQ4ZjZjZTgxNmZlODZkOGMxMDU4N2U5YTdlOTI3YTMifV19
+#EXTINF:-1 tvg-id="RECORDTV.br" tvg-logo="https://i.postimg.cc/d3JMnhV3/recordtv.png" group-title="Brasil", RECORD TV
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RECORDTVOP2.br" tvg-logo="https://i.postimg.cc/d3JMnhV3/recordtv.png" group-title="Brasil", RECORD TV OP2
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJpZCI6IjIyNDVmNDhhNTk5ODQ0MmY4MzUwOTlkMzBmMmUwMzA1Iiwia2V5IjoiZjQ4ZjZjZTgxNmZlODZkOGMxMDU4N2U5YTdlOTI3YTMifV19
+#EXTINF:-1 tvg-id="SBT.br" tvg-logo="https://brazil.mom-gmr.org/uploads/_processed_/6/d/csm_7012-1071_import_f5e387bc54.png" group-title="Brasil", SBT
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBTOP2.br" tvg-logo="https://brazil.mom-gmr.org/uploads/_processed_/6/d/csm_7012-1071_import_f5e387bc54.png" group-title="Brasil", SBT OP2
+https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RECORDNEWS.br" tvg-logo="https://i.postimg.cc/wMsRGfQX/Record-News.png" group-title="Brasil", RECORD NEWS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8
+
+#EXTINF:-1 tvg-id="JPNEWS.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Jovem_Pan_News.png" group-title="Brasil", JP NEWS
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJpZCI6IjU3ZWNkNmEyMDg2Yjk5Y2MxZDA0NTJiMTAyYTcwNDNiIiwia2V5IjoiMTEzODYwOTBhMzE1ZmMxZTg4NDI3YWVlZDRhNjA5MDAifV19
+#EXTINF:-1 tvg-id="GLOBONEWS.br" tvg-logo="https://i.postimg.cc/JnFBKVZ7/globo-news.png" group-title="Brasil", GLOBO NEWS
+https://ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsfrp5mjrb/out/v1/9fa07e663bc94e9f93c53726a558478a/cenc.mpd
+
+#EXTINF:-1 tvg-id="CNNBRASIL.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png" group-title="Brasil", CNN BRASIL
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-id="REDETV.br" tvg-logo="https://brazil.mom-gmr.org/uploads/_processed_/a/5/csm_7015-1071_import_ac96a142e0.png" group-title="Brasil", REDE TV!
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+
+#EXTINF:-1 tvg-id="REDEBRASIL.br" tvg-logo="https://i.postimg.cc/JhrSZ8yQ/rede-brasil.png" group-title="Brasil", REDE BRASIL
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w1413219916.m3u8
+
+#EXTINF:-1 tvg-id="TVBRASIL.br" tvg-logo="https://brazil.mom-gmr.org/uploads/_processed_/8/2/csm_7016-1071_import_18212de3b0.png" group-title="Brasil", TV Brasil
+https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJpZCI6IjIyNDVmNDhhNTk5ODQ0MmY4MzUwOTlkMzBmMmUwMzA1Iiwia2V5IjoiZjQ4ZjZjZTgxNmZlODZkOGMxMDU4N2U5YTdlOTI3YTMifV19
+#EXTINF:-1 tvg-id="TVCULTURA.br" tvg-logo="https://cultura.uol.com.br/upload/tvcultura/noticias/20210614212029_.png" group-title="Brasil", TV CULTURA
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
 
 
 
