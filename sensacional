@@ -152,7 +152,7 @@ group-title=group-title="Córdoba"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40eb9a4d4c2d374123cdaa14325f9589:432059bce61664caffc06223a1c081e2
-#EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/588/CH_LOGO/800/542/0/0/887528030752.png" group-title=group-title="Córdoba" ch-number="8" type="channel",Telefé group-title="Córdoba"
+#EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/588/CH_LOGO/800/542/0/0/887528030752.png" group-title=group-title="Córdoba" ch-number="8" type="channel",Telefé
 https://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 ------------------------------------------------------------
