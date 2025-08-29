@@ -2493,39 +2493,38 @@ https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCULTURA.br" tvg-logo="https://cultura.uol.com.br/upload/tvcultura/noticias/20210614212029_.png" group-title="Brasil", TV CULTURA
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
 
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJpZCI6IjRiYmNmZjMyODlkNDU3YjRkZDVkYmRkMjEyMjFkZTlhIiwia2V5IjoiYzQ5MDZiOWE5ZjhkZGEzYzA3MjViZGRiOGM0OTc3MzMifV19
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=c4906b9a9f8dda3c0725bddb8c497733&keyid=4bbcff3289d457b4dd5dbdd21221de9a
 #EXTINF:-1 tvg-id="SPORTV.br" tvg-logo="https://i.ibb.co/NKs6v0v/sportv.png" group-title="Deportes Brasil", SPORTV
 https://ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJpZCI6IjAyQzU4NDhGOTlDQzBFMkQxODlFQzc4NTg2MkYzRTU4Iiwia2V5IjoiZDcwODljOWU3ZTFhNTVhNzNjMDE2YzNmYzMzZmU2MDMifV19
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=02C5848F99CC0E2D189EC785862F3E58&key=d7089c9e7e1a55a73c016c3fc33fe603
 #EXTINF:-1 tvg-id="COMBATE.br" tvg-logo="https://i.ibb.co/3m7DrqY/combate.png" group-title="Deportes Brasil", COMBATE
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ocdmtrviru/out/v1/e1732a27283d45d1b2de0c220e0ca62f/cenc.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJpZCI6IjA1Y2VkYzM2NmNlNGVjNzM1ZWU0YjMzZmNlZmJmMDFmIiwia2V5IjoiNDc1ZDZkZDQwZWFiYTY4OTZlMDJiMjZhNmNmMzRkOTUifV19
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=05cedc366ce4ec735ee4b33fcefbf01f&key=475d6dd40eaba6896e02b26a6cf34d95
 #EXTINF:-1 tvg-id="PREMIERE6.br" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="Deportes Brasil", PREMIERE 6
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJpZCI6IjdjZTk2ZTAxZWVlNTRmYjc3ZTVjYzRlN2I3NTNkNmIwIiwia2V5IjoiMTg0Zjk0MzAzZDMzNTdiOWE3MzgxY2NkZWVlOWI2MTEifV19
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ce96e01eee54fb77e5cc4e7b753d6b0&key=184f94303d3357b9a7381ccdeee9b611
 #EXTINF:-1 tvg-id="PREMIERE7.br" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="Deportes Brasil", PREMIERE 7
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJpZCI6IjdiYTM4NGY5ZDk4M2M3MzFhYjFlMzcwMmMxNmUyZmFmIiwia2V5IjoiZjI4YWRjYTQzNzVlOGEwNDFmZDIyYWVmMjY0NDAwMDkifV19
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ba384f9d983c731ab1e3702c16e2faf&key=f28adca4375e8a041fd22aef26440009
 #EXTINF:-1 tvg-id="PREMIERE8.br" tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="Deportes Brasil", PREMIERE 8 MOSAICO
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJpZCI6IjM0NDc1ZWRhYjk5MWFkNWU5MjU0OGFlYmQ3MTA0MTBhIiwia2V5IjoiNTAxYjIwOWNjY2QzMjNhYzAwYmY1YWMxNWI0MDZjYjQifV19
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?key=501b209cccd323ac00bf5ac15b406cb4&keyid=34475edab991ad5e92548aebd710410a
 #EXTINF:-1 tvg-id="CAZETV.br" tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" group-title="Deportes Brasil", CAZÉ TV
 https://ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJpZCI6IjAwMjA0NmM5YTQ5YjlhYjFjZGI2NjE2YmVjNWQyNmMzIiwia2V5IjoiZDJmOTJmNmI3ZWRjOWExYTA1ZDM5M2JhMGMyMGVmOWUifV19
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=002046c9a49b9ab1cdb6616bec5d26c3&key=d2f92f6b7edc9a1a05d393ba0c20ef9e
 #EXTINF:-1 tvg-id="PREMIERLEAGUE.int" tvg-logo="https://i.ibb.co/ZfVsgw9/peacock-premier-league.png" group-title="Sports", PREMIER LEAGUE
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
