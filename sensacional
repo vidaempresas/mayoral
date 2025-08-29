@@ -1238,6 +1238,148 @@ https://sam-py-edge01.tigo.com.py/ccur-session/66a24e370c90423e9ea3c6c4f92c729c1
 https://stmv1.voxtvhd.com.br/vavizacli/vavizacli/playlist.m3u8
 
 
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTM3U url-tvg="https://www.temporary-url.com/0FF3,https://www.temporary-url.com/567DBA,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz"
+
+#EXTINF:0 group-title="Argentina - Superliga" group-logo="https://i.ibb.co/nqqc5kqf/Torneo-Betano.png",Argentina - Superliga
+#EXTGRP:Argentina - Superliga
+
+#############################
+# ESPN Premium
+#############################
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/60/40/0/0/92564610073951.png" group-title="Argentina - Superliga",ESPN Premium
+https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/60/40/0/0/92564610073951.png" group-title="Argentina - Superliga",ESPN Premium (Alt)
+https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
+
+#EXTINF:-1 tvg-id="ESPNPremium1.ar" tvg-logo="https://i.ibb.co/xdZrSq0/espnpremium.png" group-title="Argentina - Superliga",ESPN Premium 1
+http://190.104.67.8:234/play/a086/index.m3u8
+
+#############################
+# TNT Sports
+#############################
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/800/542/0/0/27256579073984.png" group-title="Argentina - Superliga",TNT Sports Premium
+https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://static.flow.com.ar/images/3543/CH_LOGO/60/40/0/0/31392009073950.png" group-title="Argentina - Superliga",TNT Sports
+https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
+
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://i.ibb.co/fVLRL2YC/TNTsports.png" group-title="Argentina - Superliga",TNT Sports 1
+http://190.104.67.8:234/play/a06z/index.m3u8
+
+#############################
+# TyC Sports
+#############################
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://static.flow.com.ar/images/74/CH_LOGO/60/40/0/0/78711436072355.png" group-title="Argentina - Superliga",TyC Sports
+https://chromecast.cvattv.com.ar/live/c5eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/vod/vod/800/542/0/0/49923.png" group-title="Argentina - Superliga",TyC Sports 2
+https://cdn.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
+#EXTINF:-1 tvg-id="TyCSportsInternacional.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/TYC95.png/revision/latest?cb=20200711033805" group-title="Argentina - Superliga",TyC Sports Internacional
+https://chromecast.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgusCblUkZgbEe0QzEyqhic7yB5B0CpYkR80juX5pmjTMf_7TgBN0DU7el6uSHfeNmkjgu3uwIiibqo1Jc_qXaQeRFVKSyG-Fvn6XB1C9JxkdZ6poMOjHgi4jeRugapH5Kb9zXQNIPkSQAu_reJzAgX8q6OmxbMKARNm4uxGSC_wE92fyLW_dJyWEla/s512/tycsports2.png" group-title="Argentina - Superliga",Eventos TyC Sports 2
+https://chromecast.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://i.ibb.co/ks1nJrZC/tyc-2.png" group-title="Argentina - Superliga",TyC Sports 1
+https://broker.cdn.rcs.net.ar/mnp/tzeohupdr68s7sld3fejjidm9e2hxjoe/output.mpd
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://i.ibb.co/ks1nJrZC/tyc-2.png" group-title="Argentina - Superliga",TyC Sports 2
+https://router.cdn.rcs.net.ar/mnp/ux5ibtjkcqww5qhv6xirxem6wnpi6xr1/output.mpd
+
+#EXTINF:-1 tvg-id="TyCSportsUSA.ar" tvg-logo="https://i.ibb.co/ks1nJrZC/tyc-2.png" group-title="Argentina - Superliga",TyC Sports Internacional
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=tycinternacional
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
+#EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/800/542/0/0/50191211073985.png"  group-title="Argentina - Superliga" ch-number="108" type="channel",ESPN Premium
+https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/800/542/0/0/27256579073984.png"  group-title="Argentina - Superliga" ch-number="109" type="channel",TNT Sports Premium
+https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://i.ibb.co/ks1nJrZC/tyc-2.png" group-title="Argentina - Superliga",TyC Sports Argentina (C)
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=tycsports
+
+
+#EXTINF:-1 tvg-id="ESPNPremium1.ar" tvg-logo="https://i.ibb.co/xdZrSq0/espnpremium.png" group-title="Argentina - Superliga",ESPN Premium (C)
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=espnpremium
+
+
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://i.ibb.co/fVLRL2YC/TNTsports.png" group-title="Argentina - Superliga",TNT Sports (C)
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=tntsports
+
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://i.ibb.co/ks1nJrZC/tyc-2.png" group-title="Argentina - Superliga",TyC Sports Internacional (C)
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=tycinternacional
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zT4sHndJ/bolaargentina.png" group-title="Argentina - Superliga", Conect - Superliga 1
+http://143.0.67.77:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zT4sHndJ/bolaargentina.png" group-title="Argentina - Superliga", Conect - Superliga 2
+http://143.0.67.77:8000/play/a0bc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zT4sHndJ/bolaargentina.png" group-title="Argentina - Superliga", Conect - Superliga 3
+http://201.217.246.177:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zT4sHndJ/bolaargentina.png" group-title="Argentina - Superliga", Conect - Superliga 4
+http://201.217.246.177:8000/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zT4sHndJ/bolaargentina.png" group-title="Argentina - Superliga", Conect - Superliga 5
+http://200.55.244.75:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zT4sHndJ/bolaargentina.png" group-title="Argentina - Superliga", Conect - Superliga 6
+http://200.55.244.75:8000/play/a0bc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zT4sHndJ/bolaargentina.png" group-title="Argentina - Superliga", Conect - Superliga 7
+http://186.148.196.82:8001/play/a00p
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zT4sHndJ/bolaargentina.png" group-title="Argentina - Superliga", Conect - Superliga 8
+http://186.148.196.82:8001/play/a04r
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zT4sHndJ/bolaargentina.png" group-title="Argentina - Superliga", Conect - Superliga 9
+http://190.104.67.112:234/play/a086/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zT4sHndJ/bolaargentina.png" group-title="Argentina - Superliga", Conect - Superliga 10
+http://190.104.67.112:234/play/a06z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zT4sHndJ/bolaargentina.png" group-title="Argentina - Superliga", Conect - Superliga 11
+http://186.148.196.82:8001/play/a04r 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zT4sHndJ/bolaargentina.png" group-title="Argentina - Superliga", Conect - Superliga 12
+http://186.148.196.82:8001/play/a00p
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zT4sHndJ/bolaargentina.png" group-title="Argentina - Superliga", Conect - Superliga 13
+http://190.104.67.111:234/play/a086/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zT4sHndJ/bolaargentina.png" group-title="Argentina - Superliga", Conect - Superliga 14
+http://190.104.67.111:234/play/a06z/index.m3u8
+
+
 
 
 
