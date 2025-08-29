@@ -145,14 +145,14 @@ https://api.m3use.projectmoose.xyz/m3u/francopetrini/fr channels/67f6bc096ebc0fe
 
 
 ----------------------------------------------------------
-group-title="Argentina - group-title="Córdoba""
+group-title=group-title="Córdoba"
 
-#EXTINF:0 group-title="Argentina - group-title="Córdoba"" group-logo="https://i.ibb.co/yBWS6sVM/banderitaargentina.png",Argentina - group-title="Córdoba" [Logo del Grupo]
+#EXTINF:0 group-title=group-title="Córdoba" group-logo="https://i.ibb.co/yBWS6sVM/banderitaargentina.png",Argentina - group-title="Córdoba" [Logo del Grupo]
 #EXTGRP:Argentina - group-title="Córdoba"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40eb9a4d4c2d374123cdaa14325f9589:432059bce61664caffc06223a1c081e2
-#EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/588/CH_LOGO/800/542/0/0/887528030752.png" group-title="Argentina - group-title="Córdoba"" ch-number="8" type="channel",Telefé group-title="Córdoba"
+#EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/588/CH_LOGO/800/542/0/0/887528030752.png" group-title=group-title="Córdoba" ch-number="8" type="channel",Telefé group-title="Córdoba"
 https://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 ------------------------------------------------------------
@@ -905,7 +905,7 @@ https://cdn.sensa.com.ar/output/c12pos/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff1e6f58369fa0457670eb452cb49f8a:4a5b005a7dbd38fe00c50d27fa23ab0a
-#EXTINF:-1 tvg-id="132#Telediario Television" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/782/CH_LOGO/800/542/0/0/93452015074309.png" group-title="Argentina - group-title="Córdoba"" type="channel",Telediario Televisión
+#EXTINF:-1 tvg-id="132#Telediario Television" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/782/CH_LOGO/800/542/0/0/93452015074309.png" group-title=group-title="Córdoba" type="channel",Telediario Televisión
 https://cdn.sensa.com.ar/bpk-tv/TelediarioTelevision/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
