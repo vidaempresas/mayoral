@@ -1,6 +1,6 @@
 
 
-#EXTM3U url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz"  vod_library="https://cplus.lat/Teleplay/Juridico/Listas/VOD/mediateca_vod"
+#EXTM3U url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz"  vod_library="https://xtream-ie.org/get.php?username=OTT2026&password=OTT2026&type=m3u_plus"
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed936cd5cb59eeee83addafb446662a4:dd4b7aeb2bc000468883296e7ae4a09b
 #EXTINF:-1 tvg-id="America 24.uy" tvg-name="AME24" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" group-title="Argentina" type="channel" tvg-group="Noticias",A24
@@ -2529,5 +2529,4 @@ https://ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 #EXTINF:-1 group-title="Playlists Embebidas" type="playlist" content-type="playlist",Peliculas y Series
-https://opop.pro/RVq7hMaeVwqP1p/?channels=false
-
+https://xtream-ie.org/get.php?username=OTT2026&password=OTT2026&type=m3u_plus
