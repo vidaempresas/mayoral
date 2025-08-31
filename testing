@@ -2625,3 +2625,21 @@ http://alerquinaz.top:80/Streax2025/vn5hxfqv/102443.ts
 #KODIPROP:inputstream.adaptive.license_key=7ce96e01eee54fb77e5cc4e7b753d6b0:184f94303d3357b9a7381ccdeee9b611
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PZvsjzNR/2025-04-01-12-03-46.png" group-title="Brasil" ch-number="216" type="channel",Premiere Brasil 8
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022f228cc510b40400f447b8267a7a3:0e1584d18c86bc4194f5fa2607351d91
+#EXTINF:-1 tvg-name="Brighton v Man City" tvg-logo="URL_DEL_LOGO_BRIGHTON_MAN_CITY" group-title="Fútbol",Brighton v Man City
+https://g006-sle-us-cmaf-prd-mc.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s/Live/channel(2506339-207752-2478d754a48)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022b50bb0ddea8744b9edefca85c8b3:5fe27fccf4dc053be5d767ccc35b0acf
+#EXTINF:-1 tvg-name="Brighton v Man City (Español)" tvg-logo="URL_DEL_LOGO_BRIGHTON_MAN_CITY" group-title="Fútbol",Brighton v Man City (Español)
+https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s/Live/channel(2506025-207438-2477abe068e)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00229d2a0a8fc947e7b41d0d483daf24:f60b12120e90f231aa906187737b0ed1
+#EXTINF:-1 tvg-name="Premier League Live" tvg-logo="URL_DEL_LOGO_PREMIER_LEAGUE" group-title="Fútbol",Premier League Live
+https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s/Live/channel(2506341-207754-2478d93ceca)/master.mpd
+
+
