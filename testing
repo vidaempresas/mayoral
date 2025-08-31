@@ -2627,19 +2627,250 @@ http://alerquinaz.top:80/Streax2025/vn5hxfqv/102443.ts
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0022f228cc510b40400f447b8267a7a3:0e1584d18c86bc4194f5fa2607351d91
-#EXTINF:-1 tvg-name="Brighton v Man City" tvg-logo="URL_DEL_LOGO_BRIGHTON_MAN_CITY" group-title="Fútbol",Brighton v Man City
-https://g006-sle-us-cmaf-prd-mc.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s/Live/channel(2506339-207752-2478d754a48)/master.mpd
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://i.imgur.com/your_espn_logo.png" group-title="🇪🇨 Latinoamerica" ch-number="101" type="channel", ESPN
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=espn
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/your_espn2_logo.png" group-title="🇪🇨 Latinoamerica" ch-number="102" type="channel", ESPN 2
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=espn2
+#EXTINF:-1 tvg-id="espn3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/your_espn3_logo.png" group-title="🇪🇨 Latinoamerica" ch-number="103" type="channel", ESPN 3
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=espn3
+#EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/your_espn4_logo.png" group-title="🇪🇨 Latinoamerica" ch-number="104" type="channel", ESPN 4
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=espn4
+#EXTINF:-1 tvg-id="espn5" tvg-name="ESPN 5" tvg-logo="https://i.imgur.com/your_espn5_logo.png" group-title="🇪🇨 Latinoamerica" ch-number="105" type="channel", ESPN 5
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=espn5
+#EXTINF:-1 tvg-id="espn6" tvg-name="ESPN 6" tvg-logo="https://i.imgur.com/your_espn6_logo.png" group-title="🇪🇨 Latinoamerica" ch-number="106" type="channel", ESPN 6
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=espn6
+#EXTINF:-1 tvg-id="espn7" tvg-name="ESPN 7" tvg-logo="https://i.imgur.com/your_espn7_logo.png" group-title="🇪🇨 Latinoamerica" ch-number="107" type="channel", ESPN 7
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=espn7
+#EXTINF:-1 tvg-id="dsports" tvg-name="DSports" tvg-logo="https://i.imgur.com/your_dsports_logo.png" group-title="🇪🇨 Latinoamerica" ch-number="108" type="channel", DSports
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=dsports
+#EXTINF:-1 tvg-id="dsports2" tvg-name="DSports 2" tvg-logo="https://i.imgur.com/your_dsports2_logo.png" group-title="🇪🇨 Latinoamerica" ch-number="109" type="channel", DSports 2
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=dsports2
+#EXTINF:-1 tvg-id="dsportsplus" tvg-name="DSports Plus" tvg-logo="https://i.imgur.com/your_dsportsplus_logo.png" group-title="🇪🇨 Latinoamerica" ch-number="110" type="channel", DSports Plus
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=dsportsplus
+#EXTINF:-1 tvg-id="goltv" tvg-name="Gol TV" tvg-logo="https://i.imgur.com/your_goltv_logo.png" group-title="🇪🇨 Latinoamerica" ch-number="111" type="channel", Gol TV
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=goltv
+#EXTINF:-1 tvg-id="vtvplus" tvg-name="VTV Plus" tvg-logo="https://i.imgur.com/your_vtvplus_logo.png" group-title="🇪🇨 Latinoamerica" ch-number="112" type="channel", VTV Plus
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=vtvplus
+#EXTINF:-1 tvg-id="ecdf_ligapro" tvg-name="ECDF Liga Pro" tvg-logo="https://i.imgur.com/your_ecdf_logo.png" group-title="🇪🇨 Latinoamerica" ch-number="113" type="channel", ECDF Liga Pro
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=ecdf_ligapro
+
+#EXTINF:-1 tvg-id="foxsports" tvg-name="Fox Sports" tvg-logo="https://i.imgur.com/your_foxsports_logo.png" group-title="🇦🇷 Argentina" ch-number="201" type="channel", Fox Sports
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=foxsports
+#EXTINF:-1 tvg-id="foxsports2" tvg-name="Fox Sports 2" tvg-logo="https://i.imgur.com/your_foxsports2_logo.png" group-title="🇦🇷 Argentina" ch-number="202" type="channel", Fox Sports 2
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=foxsports2
+#EXTINF:-1 tvg-id="foxsports3" tvg-name="Fox Sports 3" tvg-logo="https://i.imgur.com/your_foxsports3_logo.png" group-title="🇦🇷 Argentina" ch-number="203" type="channel", Fox Sports 3
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=foxsports3
+#EXTINF:-1 tvg-id="tntsports" tvg-name="TNT Sports" tvg-logo="https://i.imgur.com/your_tntsports_logo.png" group-title="🇦🇷 Argentina" ch-number="204" type="channel", TNT Sports
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=tntsports
+#EXTINF:-1 tvg-id="espnpremium" tvg-name="ESPN Premium" tvg-logo="https://i.imgur.com/your_espnpremium_logo.png" group-title="🇦🇷 Argentina" ch-number="205" type="channel", ESPN Premium
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=espnpremium
+#EXTINF:-1 tvg-id="tycsports" tvg-name="TyC Sports" tvg-logo="https://i.imgur.com/your_tycsports_logo.png" group-title="🇦🇷 Argentina" ch-number="206" type="channel", TyC Sports
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=tycsports
+#EXTINF:-1 tvg-id="tycinternacional" tvg-name="TyC Sports Internacional" tvg-logo="https://i.imgur.com/your_tycinternacional_logo.png" group-title="🇦🇷 Argentina" ch-number="207" type="channel", TyC Sports Internacional
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=tycinternacional
+#EXTINF:-1 tvg-id="telefe" tvg-name="Telefe" tvg-logo="https://i.imgur.com/your_telefe_logo.png" group-title="🇦🇷 Argentina" ch-number="208" type="channel", Telefe
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=telefe
+#EXTINF:-1 tvg-id="tvpublica" tvg-name="TV Pública" tvg-logo="https://i.imgur.com/your_tvpublica_logo.png" group-title="🇦🇷 Argentina" ch-number="209" type="channel", TV Pública
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=tvpublica
+
+#EXTINF:-1 tvg-id="golperu" tvg-name="Gol Perú" tvg-logo="https://i.imgur.com/your_golperu_logo.png" group-title="🇵🇪 Perú" ch-number="301" type="channel", Gol Perú
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=golperu
+#EXTINF:-1 tvg-id="liga1max" tvg-name="Liga 1 Max" tvg-logo="https://i.imgur.com/your_liga1max_logo.png" group-title="🇵🇪 Perú" ch-number="302" type="channel", Liga 1 Max
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=liga1max
+#EXTINF:-1 tvg-id="movistar" tvg-name="Movistar" tvg-logo="https://i.imgur.com/your_movistar_logo.png" group-title="🇵🇪 Perú" ch-number="303" type="channel", Movistar
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=movistar
+
+#EXTINF:-1 tvg-id="winsportsplus" tvg-name="Win Sports Plus" tvg-logo="https://i.imgur.com/your_winsportsplus_logo.png" group-title="🇨🇴 Colombia" ch-number="401" type="channel", Win Sports Plus
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=winsportsplus
+#EXTINF:-1 tvg-id="winsports2" tvg-name="Win Sports 2" tvg-logo="https://i.imgur.com/your_winsports2_logo.png" group-title="🇨🇴 Colombia" ch-number="402" type="channel", Win Sports 2
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=winsports2
+#EXTINF:-1 tvg-id="winsports" tvg-name="Win Sports" tvg-logo="https://i.imgur.com/your_winsports_logo.png" group-title="🇨🇴 Colombia" ch-number="403" type="channel", Win Sports
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=winsports
+
+#EXTINF:-1 tvg-id="foxsportsmx" tvg-name="Fox Sports MX" tvg-logo="https://i.imgur.com/your_foxsportsmx_logo.png" group-title="🇲🇽 México" ch-number="501" type="channel", Fox Sports MX
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=foxsportsmx
+#EXTINF:-1 tvg-id="foxsports2mx" tvg-name="Fox Sports 2 MX" tvg-logo="https://i.imgur.com/your_foxsports2mx_logo.png" group-title="🇲🇽 México" ch-number="502" type="channel", Fox Sports 2 MX
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=foxsports2mx
+#EXTINF:-1 tvg-id="foxsports3mx" tvg-name="Fox Sports 3 MX" tvg-logo="https://i.imgur.com/your_foxsports3mx_logo.png" group-title="🇲🇽 México" ch-number="503" type="channel", Fox Sports 3 MX
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=foxsports3mx
+#EXTINF:-1 tvg-id="foxsportspremium" tvg-name="Fox Sports Premium" tvg-logo="https://i.imgur.com/your_foxsportspremium_logo.png" group-title="🇲🇽 México" ch-number="504" type="channel", Fox Sports Premium
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=foxsportspremium
+#EXTINF:-1 tvg-id="tudn_mx" tvg-name="TUDN MX" tvg-logo="https://i.imgur.com/your_tudn_mx_logo.png" group-title="🇲🇽 México" ch-number="505" type="channel", TUDN MX
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=tudn_mx
+#EXTINF:-1 tvg-id="espnmx" tvg-name="ESPN MX" tvg-logo="https://i.imgur.com/your_espnmx_logo.png" group-title="🇲🇽 México" ch-number="506" type="channel", ESPN MX
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=espnmx
+#EXTINF:-1 tvg-id="espn2mx" tvg-name="ESPN 2 MX" tvg-logo="https://i.imgur.com/your_espn2mx_logo.png" group-title="🇲🇽 México" ch-number="507" type="channel", ESPN 2 MX
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=espn2mx
+#EXTINF:-1 tvg-id="espn3mx" tvg-name="ESPN 3 MX" tvg-logo="https://i.imgur.com/your_espn3mx_logo.png" group-title="🇲🇽 México" ch-number="508" type="channel", ESPN 3 MX
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=espn3mx
+#EXTINF:-1 tvg-id="espn4mx" tvg-name="ESPN 4 MX" tvg-logo="https://i.imgur.com/your_espn4mx_logo.png" group-title="🇲🇽 México" ch-number="509" type="channel", ESPN 4 MX
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=espn4mx
+#EXTINF:-1 tvg-id="calientetv" tvg-name="Caliente TV" tvg-logo="https://i.imgur.com/your_calientetv_logo.png" group-title="🇲🇽 México" ch-number="510" type="channel", Caliente TV
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=calientetv
+#EXTINF:-1 tvg-id="azteca7" tvg-name="Azteca 7" tvg-logo="https://i.imgur.com/your_azteca7_logo.png" group-title="🇲🇽 México" ch-number="511" type="channel", Azteca 7
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=azteca7
+#EXTINF:-1 tvg-id="canal5" tvg-name="Canal 5" tvg-logo="https://i.imgur.com/your_canal5_logo.png" group-title="🇲🇽 México" ch-number="512" type="channel", Canal 5
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=canal5
+#EXTINF:-1 tvg-id="tvc_deportes" tvg-name="TVC Deportes" tvg-logo="https://i.imgur.com/your_tvc_deportes_logo.png" group-title="🇲🇽 México" ch-number="513" type="channel", TVC Deportes
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=tvc_deportes
+#EXTINF:-1 tvg-id="azteca_deportes" tvg-name="Azteca Deportes" tvg-logo="https://i.imgur.com/your_azteca_deportes_logo.png" group-title="🇲🇽 México" ch-number="514" type="channel", Azteca Deportes
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=azteca_deportes
+#EXTINF:-1 tvg-id="hisports" tvg-name="Hi Sports" tvg-logo="https://i.imgur.com/your_hisports_logo.png" group-title="🇲🇽 México" ch-number="515" type="channel", Hi Sports
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=hisports
+#EXTINF:-1 tvg-id="sky_sports_laliga" tvg-name="Sky Sports La Liga" tvg-logo="https://i.imgur.com/your_sky_sports_laliga_logo.png" group-title="🇲🇽 México" ch-number="516" type="channel", Sky Sports La Liga
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=sky_sports_laliga
+#EXTINF:-1 tvg-id="sky_bundesliga_mx" tvg-name="Sky Bundesliga MX" tvg-logo="https://i.imgur.com/your_sky_bundesliga_mx_logo.png" group-title="🇲🇽 México" ch-number="517" type="channel", Sky Bundesliga MX
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=sky_bundesliga_mx
+
+#EXTINF:-1 tvg-id="foxdeportes" tvg-name="Fox Deportes" tvg-logo="https://i.imgur.com/your_foxdeportes_logo.png" group-title="🇺🇸 USA" ch-number="601" type="channel", Fox Deportes
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=foxdeportes
+#EXTINF:-1 tvg-id="espndeportes" tvg-name="ESPN Deportes" tvg-logo="https://i.imgur.com/your_espndeportes_logo.png" group-title="🇺🇸 USA" ch-number="602" type="channel", ESPN Deportes
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=espndeportes
+#EXTINF:-1 tvg-id="tudn" tvg-name="TUDN" tvg-logo="https://i.imgur.com/your_tudn_logo.png" group-title="🇺🇸 USA" ch-number="603" type="channel", TUDN
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=tudn
+#EXTINF:-1 tvg-id="univision" tvg-name="Univision" tvg-logo="https://i.imgur.com/your_univision_logo.png" group-title="🇺🇸 USA" ch-number="604" type="channel", Univision
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=univision
+#EXTINF:-1 tvg-id="foxsports1_usa" tvg-name="Fox Sports 1 USA" tvg-logo="https://i.imgur.com/your_foxsports1_usa_logo.png" group-title="🇺🇸 USA" ch-number="605" type="channel", Fox Sports 1 USA
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=foxsports1_usa
+#EXTINF:-1 tvg-id="foxsports2_usa" tvg-name="Fox Sports 2 USA" tvg-logo="https://i.imgur.com/your_foxsports2_usa_logo.png" group-title="🇺🇸 USA" ch-number="606" type="channel", Fox Sports 2 USA
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=foxsports2_usa
+#EXTINF:-1 tvg-id="universo" tvg-name="Universo" tvg-logo="https://i.imgur.com/your_universo_logo.png" group-title="🇺🇸 USA" ch-number="607" type="channel", Universo
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=universo
+#EXTINF:-1 tvg-id="beinsportes" tvg-name="beIN SPORTS en Español" tvg-logo="https://i.imgur.com/your_beinsportes_logo.png" group-title="🇺🇸 USA" ch-number="608" type="channel", beIN SPORTS en Español
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=beinsportes
+#EXTINF:-1 tvg-id="unimas" tvg-name="UniMás" tvg-logo="https://i.imgur.com/your_unimas_logo.png" group-title="🇺🇸 USA" ch-number="609" type="channel", UniMás
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=unimas
+#EXTINF:-1 tvg-id="beinsport_xtra_espanol" tvg-name="beIN SPORTS XTRA Español" tvg-logo="https://i.imgur.com/your_beinsport_xtra_espanol_logo.png" group-title="🇺🇸 USA" ch-number="610" type="channel", beIN SPORTS XTRA Español
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=beinsport_xtra_espanol
+#EXTINF:-1 tvg-id="espn_usa" tvg-name="ESPN USA" tvg-logo="https://i.imgur.com/your_espn_usa_logo.png" group-title="🇺🇸 USA" ch-number="611" type="channel", ESPN USA
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=espn_usa
+#EXTINF:-1 tvg-id="espn2_usa" tvg-name="ESPN 2 USA" tvg-logo="https://i.imgur.com/your_espn2_usa_logo.png" group-title="🇺🇸 USA" ch-number="612" type="channel", ESPN 2 USA
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=espn2_usa
+#EXTINF:-1 tvg-id="espnu" tvg-name="ESPNU" tvg-logo="https://i.imgur.com/your_espnu_logo.png" group-title="🇺🇸 USA" ch-number="613" type="channel", ESPNU
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=espnu
+#EXTINF:-1 tvg-id="cbs_sports_network" tvg-name="CBS Sports Network" tvg-logo="https://i.imgur.com/your_cbs_sports_network_logo.png" group-title="🇺🇸 USA" ch-number="614" type="channel", CBS Sports Network
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=cbs_sports_network
+#EXTINF:-1 tvg-id="usanetwork" tvg-name="USA Network" tvg-logo="https://i.imgur.com/your_usanetwork_logo.png" group-title="🇺🇸 USA" ch-number="615" type="channel", USA Network
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=usanetwork
+#EXTINF:-1 tvg-id="telemundo" tvg-name="Telemundo" tvg-logo="https://i.imgur.com/your_telemundo_logo.png" group-title="🇺🇸 USA" ch-number="616" type="channel", Telemundo
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=telemundo
+
+#EXTINF:-1 tvg-id="eventos13" tvg-name="Eventos 13" tvg-logo="https://i.imgur.com/your_eventos13_logo.png" group-title="🇨🇱 Chile" ch-number="701" type="channel", Eventos 13
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=eventos13
+
+#EXTINF:-1 tvg-id="premiere1" tvg-name="Premiere 1" tvg-logo="https://i.imgur.com/your_premiere1_logo.png" group-title="🇧🇷 Brasil" ch-number="801" type="channel", Premiere 1
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=premiere1
+#EXTINF:-1 tvg-id="premiere2" tvg-name="Premiere 2" tvg-logo="https://i.imgur.com/your_premiere2_logo.png" group-title="🇧🇷 Brasil" ch-number="802" type="channel", Premiere 2
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=premiere2
+#EXTINF:-1 tvg-id="premiere3" tvg-name="Premiere 3" tvg-logo="https://i.imgur.com/your_premiere3_logo.png" group-title="🇧🇷 Brasil" ch-number="803" type="channel", Premiere 3
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=premiere3
+#EXTINF:-1 tvg-id="premiere4" tvg-name="Premiere 4" tvg-logo="https://i.imgur.com/your_premiere4_logo.png" group-title="🇧🇷 Brasil" ch-number="804" type="channel", Premiere 4
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=premiere4
+#EXTINF:-1 tvg-id="premiere5" tvg-name="Premiere 5" tvg-logo="https://i.imgur.com/your_premiere5_logo.png" group-title="🇧🇷 Brasil" ch-number="805" type="channel", Premiere 5
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=premiere5
+#EXTINF:-1 tvg-id="premiere6" tvg-name="Premiere 6" tvg-logo="https://i.imgur.com/your_premiere6_logo.png" group-title="🇧🇷 Brasil" ch-number="806" type="channel", Premiere 6
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=premiere6
+#EXTINF:-1 tvg-id="premiere7" tvg-name="Premiere 7" tvg-logo="https://i.imgur.com/your_premiere7_logo.png" group-title="🇧🇷 Brasil" ch-number="807" type="channel", Premiere 7
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=premiere7
+#EXTINF:-1 tvg-id="premiere8" tvg-name="Premiere 8" tvg-logo="https://i.imgur.com/your_premiere8_logo.png" group-title="🇧🇷 Brasil" ch-number="808" type="channel", Premiere 8
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=premiere8
+#EXTINF:-1 tvg-id="sportv" tvg-name="Sportv" tvg-logo="https://i.imgur.com/your_sportv_logo.png" group-title="🇧🇷 Brasil" ch-number="809" type="channel", Sportv
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=sportv
+#EXTINF:-1 tvg-id="sportv2" tvg-name="Sportv 2" tvg-logo="https://i.imgur.com/your_sportv2_logo.png" group-title="🇧🇷 Brasil" ch-number="810" type="channel", Sportv 2
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=sportv2
+#EXTINF:-1 tvg-id="sportv3" tvg-name="Sportv 3" tvg-logo="https://i.imgur.com/your_sportv3_logo.png" group-title="🇧🇷 Brasil" ch-number="811" type="channel", Sportv 3
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=sportv3
+
+#EXTINF:-1 tvg-id="sporttv1" tvg-name="Sport TV 1" tvg-logo="https://i.imgur.com/your_sporttv1_logo.png" group-title="🇵🇹 Portugal" ch-number="901" type="channel", Sport TV 1
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=sporttv1
+#EXTINF:-1 tvg-id="sporttv2" tvg-name="Sport TV 2" tvg-logo="https://i.imgur.com/your_sporttv2_logo.png" group-title="🇵🇹 Portugal" ch-number="902" type="channel", Sport TV 2
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=sporttv2
+#EXTINF:-1 tvg-id="sporttv3" tvg-name="Sport TV 3" tvg-logo="https://i.imgur.com/your_sporttv3_logo.png" group-title="🇵🇹 Portugal" ch-number="903" type="channel", Sport TV 3
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=sporttv3
+#EXTINF:-1 tvg-id="sporttv4" tvg-name="Sport TV 4" tvg-logo="https://i.imgur.com/your_sporttv4_logo.png" group-title="🇵🇹 Portugal" ch-number="904" type="channel", Sport TV 4
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=sporttv4
+#EXTINF:-1 tvg-id="sporttv5" tvg-name="Sport TV 5" tvg-logo="https://i.imgur.com/your_sporttv5_logo.png" group-title="🇵🇹 Portugal" ch-number="905" type="channel", Sport TV 5
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=sporttv5
+#EXTINF:-1 tvg-id="sporttv6" tvg-name="Sport TV 6" tvg-logo="https://i.imgur.com/your_sporttv6_logo.png" group-title="🇵🇹 Portugal" ch-number="906" type="channel", Sport TV 6
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=sporttv6
+#EXTINF:-1 tvg-id="canal11_pt" tvg-name="Canal 11 PT" tvg-logo="https://i.imgur.com/your_canal11_pt_logo.png" group-title="🇵🇹 Portugal" ch-number="907" type="channel", Canal 11 PT
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=canal11_pt
+#EXTINF:-1 tvg-id="eleven1_pt" tvg-name="Eleven 1 PT" tvg-logo="https://i.imgur.com/your_eleven1_pt_logo.png" group-title="🇵🇹 Portugal" ch-number="908" type="channel", Eleven 1 PT
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=eleven1_pt
+#EXTINF:-1 tvg-id="eleven2_pt" tvg-name="Eleven 2 PT" tvg-logo="https://i.imgur.com/your_eleven2_pt_logo.png" group-title="🇵🇹 Portugal" ch-number="909" type="channel", Eleven 2 PT
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=eleven2_pt
+#EXTINF:-1 tvg-id="eleven3_pt" tvg-name="Eleven 3 PT" tvg-logo="https://i.imgur.com/your_eleven3_pt_logo.png" group-title="🇵🇹 Portugal" ch-number="910" type="channel", Eleven 3 PT
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=eleven3_pt
+#EXTINF:-1 tvg-id="eleven4_pt" tvg-name="Eleven 4 PT" tvg-logo="https://i.imgur.com/your_eleven4_pt_logo.png" group-title="🇵🇹 Portugal" ch-number="911" type="channel", Eleven 4 PT
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=eleven4_pt
+#EXTINF:-1 tvg-id="eleven5_pt" tvg-name="Eleven 5 PT" tvg-logo="https://i.imgur.com/your_eleven5_pt_logo.png" group-title="🇵🇹 Portugal" ch-number="912" type="channel", Eleven 5 PT
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=eleven5_pt
+#EXTINF:-1 tvg-id="eleven6_pt" tvg-name="Eleven 6 PT" tvg-logo="https://i.imgur.com/your_eleven6_pt_logo.png" group-title="🇵🇹 Portugal" ch-number="913" type="channel", Eleven 6 PT
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=eleven6_pt
+
+#EXTINF:-1 tvg-id="dazn1" tvg-name="DAZN 1" tvg-logo="https://i.imgur.com/your_dazn1_logo.png" group-title="🇪🇸 España" ch-number="1001" type="channel", DAZN 1
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=dazn1
+#EXTINF:-1 tvg-id="dazn2" tvg-name="DAZN 2" tvg-logo="https://i.imgur.com/your_dazn2_logo.png" group-title="🇪🇸 España" ch-number="1002" type="channel", DAZN 2
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=dazn2
+#EXTINF:-1 tvg-id="dazn3" tvg-name="DAZN 3" tvg-logo="https://i.imgur.com/your_dazn3_logo.png" group-title="🇪🇸 España" ch-number="1003" type="channel", DAZN 3
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=dazn3
+#EXTINF:-1 tvg-id="dazn4" tvg-name="DAZN 4" tvg-logo="https://i.imgur.com/your_dazn4_logo.png" group-title="🇪🇸 España" ch-number="1004" type="channel", DAZN 4
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=dazn4
+#EXTINF:-1 tvg-id="dazn_laliga" tvg-name="DAZN LaLiga" tvg-logo="https://i.imgur.com/your_dazn_laliga_logo.png" group-title="🇪🇸 España" ch-number="1005" type="channel", DAZN LaLiga
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=dazn_laliga
+#EXTINF:-1 tvg-id="la1tve" tvg-name="La 1 TVE" tvg-logo="https://i.imgur.com/your_la1tve_logo.png" group-title="🇪🇸 España" ch-number="1006" type="channel", La 1 TVE
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=la1tve
+#EXTINF:-1 tvg-id="ligadecampeones1" tvg-name="Liga de Campeones 1" tvg-logo="https://i.imgur.com/your_ligadecampeones1_logo.png" group-title="🇪🇸 España" ch-number="1007" type="channel", Liga de Campeones 1
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=ligadecampeones1
+#EXTINF:-1 tvg-id="ligadecampeones2" tvg-name="Liga de Campeones 2" tvg-logo="https://i.imgur.com/your_ligadecampeones2_logo.png" group-title="🇪🇸 España" ch-number="1008" type="channel", Liga de Campeones 2
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=ligadecampeones2
+#EXTINF:-1 tvg-id="ligadecampeones3" tvg-name="Liga de Campeones 3" tvg-logo="https://i.imgur.com/your_ligadecampeones3_logo.png" group-title="🇪🇸 España" ch-number="1009" type="channel", Liga de Campeones 3
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=ligadecampeones3
+#EXTINF:-1 tvg-id="m_laligatv" tvg-name="M LaLigaTV" tvg-logo="https://i.imgur.com/your_m_laligatv_logo.png" group-title="🇪🇸 España" ch-number="1010" type="channel", M LaLigaTV
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=m_laligatv
+#EXTINF:-1 tvg-id="laligatvbar" tvg-name="LaLiga TV BAR" tvg-logo="https://i.imgur.com/your_laligatvbar_logo.png" group-title="🇪🇸 España" ch-number="1011" type="channel", LaLiga TV BAR
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=laligatvbar
+
+#EXTINF:-1 tvg-id="sky_bundesliga1" tvg-name="Sky Bundesliga 1" tvg-logo="https://i.imgur.com/your_sky_bundesliga1_logo.png" group-title="🌍 Mundo" ch-number="1101" type="channel", Sky Bundesliga 1
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=sky_bundesliga1
+#EXTINF:-1 tvg-id="sky_bundesliga2" tvg-name="Sky Bundesliga 2" tvg-logo="https://i.imgur.com/your_sky_bundesliga2_logo.png" group-title="🌍 Mundo" ch-number="1102" type="channel", Sky Bundesliga 2
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=sky_bundesliga2
+#EXTINF:-1 tvg-id="sky_bundesliga3" tvg-name="Sky Bundesliga 3" tvg-logo="https://i.imgur.com/your_sky_bundesliga3_logo.png" group-title="🌍 Mundo" ch-number="1103" type="channel", Sky Bundesliga 3
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=sky_bundesliga3
+#EXTINF:-1 tvg-id="sky_bundesliga4" tvg-name="Sky Bundesliga 4" tvg-logo="https://i.imgur.com/your_sky_bundesliga4_logo.png" group-title="🌍 Mundo" ch-number="1104" type="channel", Sky Bundesliga 4
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=sky_bundesliga4
+#EXTINF:-1 tvg-id="sky_bundesliga5" tvg-name="Sky Bundesliga 5" tvg-logo="https://i.imgur.com/your_sky_bundesliga5_logo.png" group-title="🌍 Mundo" ch-number="1105" type="channel", Sky Bundesliga 5
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=sky_bundesliga5
+#EXTINF:-1 tvg-id="dazn1_de" tvg-name="DAZN 1 DE" tvg-logo="https://i.imgur.com/your_dazn1_de_logo.png" group-title="🌍 Mundo" ch-number="1106" type="channel", DAZN 1 DE
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=dazn1_de
+#EXTINF:-1 tvg-id="dazn2_de" tvg-name="DAZN 2 DE" tvg-logo="https://i.imgur.com/your_dazn2_de_logo.png" group-title="🌍 Mundo" ch-number="1107" type="channel", DAZN 2 DE
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=dazn2_de
+#EXTINF:-1 tvg-id="espn1_nl" tvg-name="ESPN 1 NL" tvg-logo="https://i.imgur.com/your_espn1_nl_logo.png" group-title="🌍 Mundo" ch-number="1108" type="channel", ESPN 1 NL
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=espn1_nl
+#EXTINF:-1 tvg-id="espn2_nl" tvg-name="ESPN 2 NL" tvg-logo="https://i.imgur.com/your_espn2_nl_logo.png" group-title="🌍 Mundo" ch-number="1109" type="channel", ESPN 2 NL
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=espn2_nl
+#EXTINF:-1 tvg-id="espn3_nl" tvg-name="ESPN 3 NL" tvg-logo="https://i.imgur.com/your_espn3_nl_logo.png" group-title="🌍 Mundo" ch-number="1110" type="channel", ESPN 3 NL
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=espn3_nl
+#EXTINF:-1 tvg-id="elevenpro1_be" tvg-name="Eleven Sports Pro 1 BE" tvg-logo="https://i.imgur.com/your_elevenpro1_be_logo.png" group-title="🌍 Mundo" ch-number="1111" type="channel", Eleven Sports Pro 1 BE
+https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/stream.php?channel=elevenpro1_be
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0022b50bb0ddea8744b9edefca85c8b3:5fe27fccf4dc053be5d767ccc35b0acf
-#EXTINF:-1 tvg-name="Brighton v Man City (Español)" tvg-logo="URL_DEL_LOGO_BRIGHTON_MAN_CITY" group-title="Fútbol",Brighton v Man City (Español)
-https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s/Live/channel(2506025-207438-2477abe068e)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/fubo-sports23_m.png" group-title="FUBO" ch-number="1" type="channel",FUBO SPORTS
+https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00229d2a0a8fc947e7b41d0d483daf24:f60b12120e90f231aa906187737b0ed1
-#EXTINF:-1 tvg-name="Premier League Live" tvg-logo="URL_DEL_LOGO_PREMIER_LEAGUE" group-title="Fútbol",Premier League Live
-https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s/Live/channel(2506341-207754-2478d93ceca)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/fubo-sports23_m.png" group-title="FUBO" ch-number="2" type="channel",FUBO SPORTS
+https://abm5x5xaaaaaaaamcqsg3izt3pszd.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/fubo-sports23_m.png" group-title="FUBO" ch-number="3" type="channel",FUBO SPORTS
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-538/stream.mpd
