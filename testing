@@ -2530,3 +2530,98 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 
 #EXTINF:-1 group-title="Playlists Embebidas" type="playlist" content-type="playlist",Peliculas y Series
 https://xtream-ie.org/get.php?username=OTT2026&password=OTT2026&type=m3u_plus
+
+
+BRASILEROS
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WpzKSZb8/Brasil.png" group-title="Brasil" ch-number="1" type="channel",Brasil OP2
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48f6ce816fe86d8c10587e9a7e927a3:f48f6ce816fe86d8c10587e9a7e927a3
+#EXTINF:-1 tvg-logo="https://brazil.mom-gmr.org/uploads/_processed_/8/a/csm_7020-1071_import_d72a70704b.png" group-title="Brasil" ch-number="2" type="channel",Brasil NEWS
+https://livst.site/Brasilnews/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/07/nossofutebol.png" group-title="Brasil" ch-number="51" type="channel",Nosso Futebol
+https://embmaxtv.online/nossofutebol/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/06/Brasil.png" group-title="Brasil" ch-number="52" type="channel",Brasil
+https://lb1.embmaxtv.online/Brasilsp/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/06/TVGlobo2025.webp" group-title="Brasil" ch-number="53" type="channel",Globo
+https://lb1.embmaxtv.online/globosp/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/06/record.png" group-title="Brasil" ch-number="54" type="channel",Record
+https://lb1.embmaxtv.online/recordsp/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/06/sbt.png" group-title="Brasil" ch-number="55" type="channel",Sbt
+https://lb1.embmaxtv.online/sbtsp/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/06/redetv.png" group-title="Brasil" ch-number="56" type="channel",Rede Tv
+https://lb1.embmaxtv.online/redetv/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/06/mP1qfp2.png" group-title="Brasil" ch-number="57" type="channel",Redevida
+https://lb1.embmaxtv.online/redevida/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/06/3YlJsCL.png" group-title="Brasil" ch-number="58" type="channel",Brasil News
+https://lb1.embmaxtv.online/Brasilnews/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/06/3yZyaCm.png" group-title="Brasil" ch-number="59" type="channel",Globo News
+https://lb1.embmaxtv.online/globonews/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/06/CNN_Brasil.svg_.png" group-title="Brasil" ch-number="60" type="channel",Cnn Brasil
+https://lb1.embmaxtv.online/cnnbrasil/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://embedcanaistv.com/wp-content/uploads/2025/06/HZDRG0K.png" group-title="Brasil" ch-number="61" type="channel",Record News
+https://lb1.embmaxtv.online/recordnews/index.m3u8|Referer=https://embedcanaistv.com/&Origin=https://embedcanaistv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gPR66x3/GLOBOPNG.png" group-title="Brasil" ch-number="62" type="channel",Globo Rio de Janeiro FHD
+http://45.140.192.98:8080/stream/globoplay/globoriodejaneirofhd/stream.m3u8?uid=1495326181
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gPR66x3/GLOBOPNG.png" group-title="Brasil" ch-number="63" type="channel",CBN RJ
+http://45.140.192.98:8080/stream/globoplay/cbnrj/stream.m3u8?uid=3153694877
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gPR66x3/GLOBOPNG.png" group-title="Brasil" ch-number="64" type="channel",Globo Minas
+http://45.140.192.98:8080/stream/globoplay/globominas/stream.m3u8?uid=710028653
+
+#EXTINF:-1 tvg-logo="https://img.r7.com/images/record-tv-06112023200313177" group-title="Brasil" ch-number="65" type="channel",Record Rio HD
+http://45.140.192.98:8080/stream/recordtv/recordriohd/stream.m3u8?uid=685853112
+
+#EXTINF:-1 tvg-logo="https://img.r7.com/images/record-tv-06112023200313177" group-title="Brasil" ch-number="66" type="channel",Brasileiro 2025
+http://45.140.192.98:8080/stream/recordtv/brasileiro2025/stream.m3u8?uid=1200540919
+
+#EXTINF:-1 tvg-logo="https://img.r7.com/images/record-tv-06112023200313177" group-title="Brasil" ch-number="67" type="channel",Record SP HD
+http://45.140.192.98:8080/stream/recordtv/recordsphd/stream.m3u8?uid=1825163311
+
+#EXTINF:-1 tvg-name="Brasil Sports FHD H265" tvg-logo="http://www.imgscc.top/logos/Brasilsport250.png" group-title="Brasil" ch-number="68" type="channel",Brasil Sports FHD H265
+http://alerquinaz.top:80/Streax2025/vn5hxfqv/37.ts
+
+#EXTINF:-1 tvg-id="Brasilsportshd.br" tvg-name="Brasil Sports FHD H265²" tvg-logo="http://www.imgscc.top/logos/Brasilsport250.png" group-title="Brasil" ch-number="69" type="channel",Brasil Sports FHD H265²
+http://alerquinaz.top:80/Streax2025/vn5hxfqv/234890.ts
+
+#EXTINF:-1 tvg-id="ThBrasillitoral.br" tvg-name="Brasil Sports FHD²" tvg-logo="http://www.imgscc.top/logos/Brasilsport250.png" group-title="Brasil" ch-number="70" type="channel",Brasil Sports FHD²
+http://alerquinaz.top:80/Streax2025/vn5hxfqv/234891.ts
+
+#EXTINF:-1 tvg-id="Brasilsportshd.br" tvg-name="Brasil Sports SD²" tvg-logo="http://www.imgscc.top/logos/Brasilsport250.png" group-title="Brasil" ch-number="71" type="channel",Brasil Sports SD²
+http://alerquinaz.top:80/Streax2025/vn5hxfqv/234892.ts
+
+#EXTINF:-1 tvg-name="Campeonato Carioca 2" tvg-logo="http://www.imgscc.top/logos/cariocao250.png" group-title="Brasil" ch-number="72" type="channel",Campeonato Carioca 2
+http://alerquinaz.top:80/Streax2025/vn5hxfqv/102440.ts
+
+#EXTINF:-1 tvg-name="Cazé TV 3" tvg-logo="https://imgscc.top/logos/cazetv.png" group-title="Brasil" ch-number="73" type="channel",Cazé TV 3
+http://alerquinaz.top:80/Streax2025/vn5hxfqv/102442.ts
+
+#EXTINF:-1 tvg-name="Cazé TV 1" tvg-logo="https://imgscc.top/logos/cazetv.png" group-title="Brasil" ch-number="74" type="channel",Cazé TV 1
+http://alerquinaz.top:80/Streax2025/vn5hxfqv/102439.ts
+
+#EXTINF:-1 tvg-name="Cazé TV 2" tvg-logo="https://imgscc.top/logos/cazetv.png" group-title="Brasil" ch-number="75" type="channel",Cazé TV 2
+http://alerquinaz.top:80/Streax2025/vn5hxfqv/102443.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ce96e01eee54fb77e5cc4e7b753d6b0:184f94303d3357b9a7381ccdeee9b611
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PZvsjzNR/2025-04-01-12-03-46.png" group-title="Brasil" ch-number="216" type="channel",Premiere Brasil 8
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd
