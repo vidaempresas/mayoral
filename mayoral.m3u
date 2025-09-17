@@ -120,7 +120,7 @@ http://francope.elementfx.com/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd?
 #EXTINF:-1 tvg-id="Venus.uy" tvg-name="Venus.uy" tvg-logo="https://dl.dropbox.com/scl/fi/ccb7fp8758t7obaa9037c/venus.jpg?rlkey=tyvcaenu68rwe1ir2hj9amtc9&dl=1" group-title="Adulto" ch-number="1003" type="channel",Venus (18+)
 http://francope.elementfx.com/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd?|Origin=https://portal.app.flow.com.ar
 
-#EXTINF:0 tvg-id="471" tvg-name="PLAYBOY HD" tvg-logo="https://logo.m3uassets.com/playboy.png" group-title="Adulto",PLAYBOY HD
+#EXTINF:0 tvg-id="471" tvg-name="PLAYBOY HD" tvg-logo="https://logo.m3uassets.com/playboy.png" group-title="Adulto",PLAYBOY HD (18+)
 http://181.41.199.49:8000/play/a0no/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -138,8 +138,8 @@ https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd
 #EXTINF:-1 tvg-id="Venus.uy" tvg-name="Venus.uy" tvg-logo="https://dl.dropbox.com/scl/fi/ccb7fp8758t7obaa9037c/venus.jpg?rlkey=tyvcaenu68rwe1ir2hj9amtc9&dl=1" group-title="Adulto" ch-number="1002" type="channel",Venus (18+)
 https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd
 
-#EXTINF:0 CUID="269" tvg-name="Playboy TV HD" tvg-logo="https://logo.m3uassets.com/playboytv.png" group-title="Adulto ",Playboy TV HD
+#EXTINF:0 CUID="269" tvg-name="Playboy TV HD" tvg-logo="https://logo.m3uassets.com/playboytv.png" group-title="Adulto ",Playboy TV HD (18+)
 http://200.4.96.59:8826/play/a04f/index.m3u8
 
-#EXTINF:0 CUID="281" tvg-name="Sextreme" tvg-logo="https://logo.m3uassets.com/sextreme.png" group-title="Adulto ",Sextreme
+#EXTINF:0 CUID="281" tvg-name="Sextreme" tvg-logo="https://logo.m3uassets.com/sextreme.png" group-title="Adulto ",Sextreme (18+)
 http://200.4.96.59:8826/play/a04w/index.m3u8
