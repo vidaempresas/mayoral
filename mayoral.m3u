@@ -100,7 +100,28 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf37db556be5ee1ecd1ee1f1bcf39390:cb2d8390f9c6c39311939fb51ba42ab2
+#EXTINF:-1 group-title="Adulto" ch-number="1000" type="channel",Hustler
+http://francope.elementfx.com/live/c7eds/Hustler/SA_Live_dash_enc/Hustler.mpd?|Origin=https://portal.app.flow.com.ar
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8577d81eaf33436d9f1e482360685a7c:f608a0ac703cfaaf9442574d9a2b87fb
+#EXTINF:-1 tvg-id="Playboy.ar" tvg-name="Playboy.ar" tvg-logo="https://dl.dropbox.com/scl/fi/7feu1a3ikd6r8r77pgses/playboy.jpg?rlkey=02u5uorraf4qldh8dxqc43vyh&dl=1" group-title="Adulto" ch-number="1001" type="channel",Playboy TV (18+)
+http://francope.elementfx.com/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434
+#EXTINF:-1 tvg-id="Sextreme.br.uy" tvg-name="Sextreme (18+)" tvg-logo="https://www.totalmedios.com/img/noticias/2011/05/Noticia11837__236x150.jpg" group-title="Adulto" ch-number="1002" type="channel",Sextreme (18+)
+http://francope.elementfx.com/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34237d2ae6684ee7a011f5b9c7c43e6d:05d973d987915120e567880f50a422af
+#EXTINF:-1 tvg-id="Venus.uy" tvg-name="Venus.uy" tvg-logo="https://dl.dropbox.com/scl/fi/ccb7fp8758t7obaa9037c/venus.jpg?rlkey=tyvcaenu68rwe1ir2hj9amtc9&dl=1" group-title="Adulto" ch-number="1003" type="channel",Venus (18+)
+http://francope.elementfx.com/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd?|Origin=https://portal.app.flow.com.ar
+
+#EXTINF:0 tvg-id="471" tvg-name="PLAYBOY HD" tvg-logo="https://logo.m3uassets.com/playboy.png" group-title="Adulto",PLAYBOY HD
+http://181.41.199.49:8000/play/a0no/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f51160ad68cb411abbae2b7e51e20ad4:3015d76327dcd38f19037e5af639ebb2
@@ -116,3 +137,9 @@ https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd
 #KODIPROP:inputstream.adaptive.license_key=34237d2ae6684ee7a011f5b9c7c43e6d:05d973d987915120e567880f50a422af
 #EXTINF:-1 tvg-id="Venus.uy" tvg-name="Venus.uy" tvg-logo="https://dl.dropbox.com/scl/fi/ccb7fp8758t7obaa9037c/venus.jpg?rlkey=tyvcaenu68rwe1ir2hj9amtc9&dl=1" group-title="Adulto" ch-number="1002" type="channel",Venus (18+)
 https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd
+
+#EXTINF:0 CUID="269" tvg-name="Playboy TV HD" tvg-logo="https://logo.m3uassets.com/playboytv.png" group-title="Adulto ",Playboy TV HD
+http://200.4.96.59:8826/play/a04f/index.m3u8
+
+#EXTINF:0 CUID="281" tvg-name="Sextreme" tvg-logo="https://logo.m3uassets.com/sextreme.png" group-title="Adulto ",Sextreme
+http://200.4.96.59:8826/play/a04w/index.m3u8
