@@ -1,0 +1,14 @@
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f519a4181806429bb2a998d77a937f32:6dbf5c8f0c50938cebc35fdf095833e1
+#EXTINF:-1 ch-number="8" group-title="General" tvg-id="Net TV.ar" tvg-logo="",Net TV WILTEL
+https://cdn.trimi.com.ar/live/sm-live/NET_TV_BACKUP/sa_live_dash/NET_TV_BACKUP.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=737a88876b64489ab46cf69f8c5dfe5a:bf0ae0a5210cb0604e465690c201eec4
+#EXTINF:-1 ch-number="9" group-title="General" tvg-id="América.ar" tvg-logo="",América WILTEL
+https://cdn.trimi.com.ar/live/sm-live/AMERICA_BACKUP/sa_live_dash/AMERICA_BACKUP.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=93f2e70d452d4fc2ae0c477ca66b29be:b204d146d7f369bc3c5a87acfcfb6532
+#EXTINF:-1 ch-number="10" group-title="General" tvg-id="Telefe.ar" tvg-logo="",Telefe WILTEL
+https://cdn.trimi.com.ar/live/sm-live/TELEFE_BACKUP_9-6/sa_live_dash_ll/TELEFE_BACKUP_9-6.mpd
