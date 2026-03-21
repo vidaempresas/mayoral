@@ -8975,3 +8975,149 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624466b26ab25e0007dd7
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6181404ef48321000797bc41/solidLogoPNG.png?worldtv2" group-title="iCarly" ch-number="1" type="channel",iCarly
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6181404ef48321000797bc41/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN._SL170_FMpng_.png" group-title="TSN Plus",PGA TOUR Live: Valspar Championship - Third Round: Marquee Group
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2456d6466bcd4f51b106a1843d825be9:beb8f715ba3bf62cfd73d1a161cfbd1f
+https://live-ds.video.9c9media.com/57882f41196497f5c38250ed2b5ec33f2eb30870e64a2ef8c90d6a8179cf3486/d/dls/tsndigi6397/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN._SL170_FMpng_.png" group-title="TSN Plus",PGA TOUR Live: Valspar Championship - Third Round: Main Feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b8a47fe3c2c429db8f1eb2957e18aea:8433b7657a488e36ebee1cf8bc8e6fdf
+https://live-ds.video.9c9media.com/57882f41196497f5c38250ed2b5ec33f2eb30870e64a2ef8c90d6a8179cf3486/d/dls/tsndigi6297/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN._SL170_FMpng_.png" group-title="TSN Plus",PGA TOUR Live: Valspar Championship - Third Round: Featured Holes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4ccd0f7e3b14c3fbd0b6d202bdda909:5b2a51d87b2a4c2ee0ae5394789c285f
+https://live-ds.video.9c9media.com/57882f41196497f5c38250ed2b5ec33f2eb30870e64a2ef8c90d6a8179cf3486/d/dls/tsndigi6597/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN._SL170_FMpng_.png" group-title="TSN Plus",PGA TOUR Live: Valspar Championship - Third Round: Featured Groups
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b89a0b150c3b42be9f8fff1e53dc6053:51abccd8cc8942b46657338eaff9400c
+https://live-ds.video.9c9media.com/57882f41196497f5c38250ed2b5ec33f2eb30870e64a2ef8c90d6a8179cf3486/d/dls/tsndigi6495/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN._SL170_FMpng_.png" group-title="TSN Plus",HSBC Rugby SVNS 2 Montevideo: Day One - Pool Play
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b32629202555405caaf2880c3bbb77dc:af8cdbfab978b35f920cecb1e53c7546
+https://live-ds.video.9c9media.com/57882f41196497f5c38250ed2b5ec33f2eb30870e64a2ef8c90d6a8179cf3486/d/dls/tsndigi0701/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN._SL170_FMpng_.png" group-title="TSN Plus",ATP 1000 Tennis: Miami - Early Round Coverage Day #4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d69fde7809f46ecbef73601a916c423:d814b56de466b3039095bcba1eca5193
+https://live-ds.video.9c9media.com/57882f41196497f5c38250ed2b5ec33f2eb30870e64a2ef8c90d6a8179cf3486/d/dls/tsndigi0602/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN._SL170_FMpng_.png" group-title="TSN Plus",ATP 1000 Tennis: Miami - Day #4 (Grandstand)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1955d8f9f95148108b7f3c2adb2fac70:1602051e9b726ec1d5c9f871d34fd9c2
+https://live-ds.video.9c9media.com/57882f41196497f5c38250ed2b5ec33f2eb30870e64a2ef8c90d6a8179cf3486/d/dls/tsndigi0104/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN._SL170_FMpng_.png" group-title="TSN Plus",ATP 1000 Tennis: Miami - Day #4 (Court 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=995f5cf209094cc5ae03451a01898b3d:b4f0fbcb508fc60bc1b530ab32149bdd
+https://live-ds.video.9c9media.com/57882f41196497f5c38250ed2b5ec33f2eb30870e64a2ef8c90d6a8179cf3486/d/dls/tsndigi0201/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN._SL170_FMpng_.png" group-title="TSN Plus",NCAA Men's March Madness: First Round - Tampa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff4a471655fb485c801972b4d4bdfe4a:72edc7e59b99e33c9be59a4629a2fc22
+https://live-ds.video.9c9media.com/57882f41196497f5c38250ed2b5ec33f2eb30870e64a2ef8c90d6a8179cf3486/d/dls/tsndigi0101/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN._SL170_FMpng_.png" group-title="TSN Plus",WTA 1000 Tennis: Miami - Early Round Coverage Day #4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a497bae5b1614990a80a5d64c0b4b70a:7ee125b145f8a4787ea701ff7952b9c5
+https://live-ds.video.9c9media.com/57882f41196497f5c38250ed2b5ec33f2eb30870e64a2ef8c90d6a8179cf3486/d/dls/tsndigi0705/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN._SL170_FMpng_.png" group-title="TSN Plus",NCAA Women's March Madness: First Round - Fairleigh Dickinson vs. Iowa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=377b4b8699104ef8932eae4ce5ed691d:d18d7aa3f8f709651e45ce34376f281d
+https://live-ds.video.9c9media.com/57882f41196497f5c38250ed2b5ec33f2eb30870e64a2ef8c90d6a8179cf3486/d/dls/tsndigi0202/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN._SL170_FMpng_.png" group-title="TSN Plus",ATP 1000 Tennis: Miami - Day #4 (Stadium)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff564f76ce8b4a7fbbd3bba94ac4be04:89d460ce63fdbd672904dbcbc9c3927c
+https://live-ds.video.9c9media.com/57882f41196497f5c38250ed2b5ec33f2eb30870e64a2ef8c90d6a8179cf3486/d/dls/tsndigi0301/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN._SL170_FMpng_.png" group-title="TSN Plus",ATP 1000 Tennis: Miami - Day #4 (Butch Buchholz)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6954655d4f334d4896d9fd51198f5ee5:44e626c773426a092bc8f4e84c3c260b
+https://live-ds.video.9c9media.com/57882f41196497f5c38250ed2b5ec33f2eb30870e64a2ef8c90d6a8179cf3486/d/dls/tsndigi0501/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN._SL170_FMpng_.png" group-title="TSN Plus",NASCAR Cup Series Practice & Qualifying: Goodyear 400
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30e185eed0ee4d4b942376dac6486ada:37a8858fd7d5ffba37aa63ea165523bf
+https://live-ds.video.9c9media.com/57882f41196497f5c38250ed2b5ec33f2eb30870e64a2ef8c90d6a8179cf3486/d/dls/tsndigi0302/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN._SL170_FMpng_.png" group-title="TSN Plus",NCAA Women's March Madness: First Round - Rhode Island vs. Alabama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40bd25cb9ca04bceae5cc6324c2f9160:44b4f75f371d223e94fc42cbae766ea6
+https://live-ds.video.9c9media.com/57882f41196497f5c38250ed2b5ec33f2eb30870e64a2ef8c90d6a8179cf3486/d/dls/tsndigi0704/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN._SL170_FMpng_.png" group-title="TSN Plus",NCAA Women's March Madness: First Round - James Madison vs. Kentucky
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=178afc6bf14f40f3a5a5f7cc44d89043:1a1df95476b15656de3957a3b49ae14d
+https://live-ds.video.9c9media.com/57882f41196497f5c38250ed2b5ec33f2eb30870e64a2ef8c90d6a8179cf3486/d/dls/tsndigi0102/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN._SL170_FMpng_.png" group-title="TSN Plus",NCAA Women's March Madness: First Round - UTSA vs. UConn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22b5c7e14bc945bf8c9706d37bf76582:8f12f2917fa1f2315f81e3f92a77a65c
+https://live-ds.video.9c9media.com/57882f41196497f5c38250ed2b5ec33f2eb30870e64a2ef8c90d6a8179cf3486/d/dls/tsndigi0402/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN._SL170_FMpng_.png" group-title="TSN Plus",PGA TOUR: Valspar Championship - Third Round
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f7e1673271f64fb0860fffcf052f2d86:9ac4fa9b37596515d259306fa9b65c2d
+https://live-ds.video.9c9media.com/57882f41196497f5c38250ed2b5ec33f2eb30870e64a2ef8c90d6a8179cf3486/d/dls/tsndigi0702/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN._SL170_FMpng_.png" group-title="TSN Plus",NCAA Women's March Madness: First Round - USC vs. Clemson
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1007837ddc984d26ac581a93e44ed29d:a6e1386558820378bd7c682f975ac73f
+https://live-ds.video.9c9media.com/57882f41196497f5c38250ed2b5ec33f2eb30870e64a2ef8c90d6a8179cf3486/d/dls/tsndigi0403/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN._SL170_FMpng_.png" group-title="TSN Plus",LaLiga: Sevilla vs. Valencia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b2fa71f2ea114079bf31af21447f6967:92c0681929dc19079f1540957cb33849
+https://live-ds.video.9c9media.com/57882f41196497f5c38250ed2b5ec33f2eb30870e64a2ef8c90d6a8179cf3486/d/dls/tsndigi0103/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN._SL170_FMpng_.png" group-title="TSN Plus",NCAA Division III Women's Basketball: Final
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f87dc3b4e72c4fb1bf1ed9709e03437b:f7d2fce28a652fc671b74be66f7fc6f0
+https://live-ds.video.9c9media.com/57882f41196497f5c38250ed2b5ec33f2eb30870e64a2ef8c90d6a8179cf3486/d/dls/tsndigi0204/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN._SL170_FMpng_.png" group-title="TSN Plus",NCAA Women's March Madness: First Round -  Miami (OH) vs. West Virginia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b6de0a1e6e0467cbd4a0c971040adb1:a224cb00cb1fb0127fa43c065d77c9bd
+https://live-ds.video.9c9media.com/57882f41196497f5c38250ed2b5ec33f2eb30870e64a2ef8c90d6a8179cf3486/d/dls/tsndigi0603/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN._SL170_FMpng_.png" group-title="TSN Plus",2026 NASCAR O'Reilly Auto Parts Series: VFW Help a Hero 200
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7273de8d5084997803c41e0aec7f149:62e1159a168fc846f7ed5104feb2404b
+https://live-ds.video.9c9media.com/57882f41196497f5c38250ed2b5ec33f2eb30870e64a2ef8c90d6a8179cf3486/d/dls/tsndigi0303/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN._SL170_FMpng_.png" group-title="TSN Plus",NCAA Men's March Madness: Second Round - Greenville
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a5dbde07bf14a368c72985275d12a10:7aff8053947bfa844ee20db81de037b7
+https://live-ds.video.9c9media.com/57882f41196497f5c38250ed2b5ec33f2eb30870e64a2ef8c90d6a8179cf3486/d/dls/tsndigi0703/manifest.mpd
+
